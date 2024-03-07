@@ -1,0 +1,8 @@
+{
+    "update" : "Yes",
+    "version_code": 10,
+    "new_version": "0.1",
+    "update_log": "此版本安装前后请清空app数据\n1. 覆盖更新订阅闪退\n2. 播放页优化\n3. 其余优化",
+    "apk_file_url": "https://developer-oss.lanzouc.com/file/?B2EFOw8+ADFUXVBoUGUBbQY5DjYFDlAEVxIHbl15VBhTPAcyXGhSalFiUChUYVMiADECIQU8Vj0HbFQ3AgFQOAdjBW8PYwBnVDpQM1A2ATUGZA4/BWhQdFc2B3JdPFRnU2sHY1w4UjJRM1A/VDFTdAAqAncFZ1ZmBzBUYAJtUH4HNwVrD30AZlQwUClQNgE1Bj4OOAVsUGtXaQdiXWVUM1NnBzNcMFI0UWRQP1RjU2YAbAIzBW9WZwdmVGQCbFA0B2MFZA9gAGBUZ1BnUCoBYQYsDmAFfFAnVyMHZF1zVDxTNwdtXDNSMVE3UDdUNlNhAGoCIQUuVj0HbVQ3AjhQbAc2BWQPawBhVDFQMVAyATMGbg4+BXRQfFd2B2ddbVQiU24HYVw3Uj9RMlA1VDdTZwBrAjUFalZyB3VUIgIpUGwHNgVkD2sAYVQxUDFQMQEwBmQOMwV8UCdXOQdxXTxUZFNrB2NcL1I3UTFQNlQuU2QAbgIpBWtWZgcw",
+    "constraint": false
+  }
