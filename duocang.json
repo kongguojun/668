@@ -2,33 +2,33 @@
     "urls": [
 {
             "url": "https://gitee.com/ds360/ds/raw/master/yingshi.json",
-            "name": "🇨🇳国军收集整理通用仓库🇨🇳"
+            "name": "国军收集通用仓库"
         },
 	{
             "url": "https://gitee.com/ds360/ds/raw/master/yun/ysc.json",
-            "name": "🇨🇳国军影视仓专用仓库🇨🇳"
+            "name": "国军影视仓专用仓库"
+        },
+			{
+            "url": "https://gitee.com/ds360/ds/raw/master/ysc.json",
+            "name": "国军影视仓线路1"
+        },
+			{
+            "url": "https://gitee.com/ds360/ds/raw/master/pg/jsm.json",
+            "name": "国军戏曲和网盘线路"
         },
 		
-    {
-      "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
-      "name": "🇨🇳OK猫接口需要每天扫码🇨🇳"
-    },
-    {
-      "url": "http://yydf.540734621.xyz/yydf/yydf/bd/srpd.json",
-      "name": "🤹🏼熊孩子|少儿线路🤹🏼"
-    },
 	{
       "url": "https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json",
-      "name": "🇨🇳爱尚带戏曲🇨🇳"
+      "name": "爱尚带戏曲"
     },
     {
       "url": "http://饭太硬.top/tv",
-      "name": "🇨🇳饭太硬🇨🇳"
+      "name": "饭太硬线路"
     },
  
     {
       "url": "http://xn--yety82d.love/",
-      "name": "🇨🇳肥猫🇨🇳🇨🇳"
+      "name": "肥猫不是猫"
     },
 	        {
             "url": "https://wds.ecsxs.com/230989.json",
@@ -36,59 +36,59 @@
         },
     {
       "url": "http://xhww.fun:63/小米/DEMO.json",
-      "name": "🇨🇳小米🇨🇳🇨🇳"
+      "name": "小米"
     },
     {
       "url": "http://pandown.pro/tvbox/tvbox.json",
-      "name": "🇨🇳巧技🇨🇳🇨🇳"
+      "name": "巧技"
     },
 
 
     {
       "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-      "name": "🇨🇳云星日记🇨🇳"
+      "name": "云星日记"
     },
     {
       "url": "https://szyyds.cn/tv/x.json",
-      "name": "🇨🇳🇨🇳小马🇨🇳🇨🇳"
+      "name": "小马"
     },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
-      "name": "🇨🇳荷城茶秀🇨🇳"
+      "name": "荷城茶秀"
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
-      "name": "🇨🇳香雅情本地🇨🇳"
+      "name": "香雅情本地"
     },
  
 
     {
       "url": "http://home.jundie.top:81/top98.json",
-      "name": "🇨🇳俊佬🇨🇳"
+      "name": "俊佬"
     },
 
     {
       "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
-      "name": "🇨🇳业余打发🇨🇳"
+      "name": "业余打发"
     },
 
     {
       "url": "http://39.101.135.137:8080",
-      "name": "🇨🇳小白龙🇨🇳"
+      "name": "小白龙"
     },
 
         {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "🇨🇳agit/abc线路🇨🇳"
+            "name": "agit/abc线路"
         },
         {
             "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
-            "name": "🇨🇳zzz1线路🇨🇳"
+            "name": "zzz1线路"
 },
  
           {
             "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
-            "name": "🇨🇳胖鸭线路🇨🇳"
+            "name": "胖鸭线路"
         },
  	      {
             "url": "https://raw.liucn.cc/box/m.json",
