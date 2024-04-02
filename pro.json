@@ -25,7 +25,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈免费接口，请勿贩售 公众号：宝盒没宝",
+            "name": "🌈国军收藏整理-未成年进入",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js",
@@ -33,7 +33,7 @@
             "quickSearch": 0,
             "filterable": 0
         },{"key":"好趣网","name":"📺电视直播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"},
-         {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"},{"key":"js_v2-yj","name":"🌙宝盒专享","type":3,"api":"./lib/drpy2.min.js","ext":"./js/bhzx.js"}, {
+         {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"},{"key":"js_v2-yj","name":"🌙国军专享","type":3,"api":"./lib/drpy2.min.js","ext":"./js/bhzx.js"}, {
       "key": "csp_农民",
       "name": "🍎小苹果",
       "type": 3,
@@ -353,7 +353,7 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/jp.js"
     },
      {"key": "csp_XBPQ_6V",
-  "name": "🌙宝盒4K磁力",
+  "name": "🌙国军4K磁力",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -1044,7 +1044,84 @@
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"17","name":"🔞🈲分割线——————","type":0,"api":""},
 {"key":"14","name":"🔞分割线——————","type":0,"api":""},
- {"key":"csp_JavDb","name":"🧲🔞JavDb","type":3,"api":"csp_JavDb","searchable":0,"quickSearch":1,"filterable":1,"jar": "./jar/javbus.jpg"},
+ {
+            "key": "csp_JavDb",
+            "name": "🔞🧲JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "timeout": 1801,
+            "ext": "http://javdb523.com","jar":"./jar/p.jar"
+        },{
+      "key":"ss直播",
+      "name":"🔞ss直播",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./h/ss直播.js"
+  }, {
+            "key": "csp_91黑料",
+            "name": "🔞91黑料",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://kb17.oneoneno8cd345.xyz/one",
+                "首页": "400",
+                "请求头": "User-Agent$PC_UA",
+                "数组": "<a&&</a>[不包含:91网曝黑料网#最近更新]",
+                "二次截取": "<div class=\"videoListBox\"&&el-pagination is-background",
+                "标题": "title\">&&</p>",
+                "副标题": "time\">&&</div>",
+                "链接": "https://kb17.oneoneno8cd345.xyz/v/+href=\"/voddetail/&&/\"+/sid/1/nid/1/",
+                "图片": "data-src=\"&&\"",
+                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+                "搜索url": "https://kb17.oneoneno8cd345.xyz/s/wd/{wd}/",
+                "分类url": "https://kb17.oneoneno8cd345.xyz/t/{cateId}-{catePg}/;;z",
+                "分类数组": "<a&&</a>",
+                "分类标题": ">&&</a>",
+                "分类ID": "/t/&&/"
+            },"jar": "./jar/hl.jar"
+        },
+         {
+            "key": "csp_XYQHiker_777影院",
+            "name": "🔞777影院",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./h/777影院.json","jar":"./jar/xyqxbpq.jar"
+        },  
+         {
+            "key": "csp_XBPQ_疯猫av",
+            "name": "🔞疯猫av",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./h/疯猫av.json"
+        },
+ {
+            "key": "csp_XBPQ_奶很大",
+            "name": "🔞奶很大",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./h/奶很大.json"
+        },{"key":"虎牙","name":"🔞虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 ,"categories": ["伦理片"]},
+{"key": "非凡资源","name": "🔞非凡资源","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"playurl":"https://ffzyplayer.com/?url=","categories": ["伦理片"]},
+ {"key": "快云资源","name": "🔞快云资源","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.33},"categories": ["伦理片"]}, 
 {"key": "csp_jiujiuzhobo","name":"🔞久久直播","type": 3, "api": "csp_xBPQ","searchable": 0,"quickSearch": 0, "filterable": 0, "ext":"./h/天天直播.json","jar":"./jar/xb.jar"}, 
 {"key":"csp_jy","name":"🔞聚优直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/聚优直播0.json","jar":"./jar/xb.jar"},
  {"key":"csp_xBPQ_香蕉AV","name":"🔞天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/天天综合.json","jar":"./jar/Yoursmile2.jar"},
@@ -1059,7 +1136,19 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./h/土豪.json"
-    },
+    },{
+     "key": "影视",
+     "name": "影视18",
+     "type": 1,
+     "api": "https://155api.com/api.php/provide/vod/"
+    },{
+			"key": "av188",
+			"name": "🔞Netflav",
+			"type": 3,
+			"api": "csp_Netflav",
+			"searchable": 1,
+			"changeable": 0 ,"jar": "./pg.jar"
+		},{"key":"Taohuazu","name":"🔞桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60 ,"jar": "./pg.jar"},
         {
       "key": "红袖",
       "name": "🔞红袖资源",
@@ -1084,40 +1173,21 @@
             ]
     },
  {"key": "直转点", "name": "🔞㊙️点播","type": 3,"api":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.js","ext":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.txt"}, 
+
 {
-      "key": "AList",
-      "name": "🔞❤罗汉果专用",
-      "type": 3,"style":{ "type":"rect", "ratio":1.485 },
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {     
-  "vodPic": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg",
-        "drives": [
-{
-      "name": "ECVE",
-      "server": "https://pan.ecve.cn"
-    },
-    {
-      "name": "觸光",
-      "server": "https://pan.ichuguang.com"
-    },
-    {
-      "name": "星梦",
-      "server": "https://pan.bashroot.top"
-    },
-          {
-            "name": "罗汉果AV",
-            "server": "https://lala-ofbip.run.goorm.site"
-          }
-        ]
-      }
-    },
- {"key":"csp_md","name":"🔞女优大合集","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/3313/mao/madou.json","jar":"./jar/xb.jar"}, 
- 
+            "key": "csp_xBPQ_女优",
+            "name": "🔞女优",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./h/ny.json",
+            "jar": "./jar/ny.jar"
+        },
  {
-        "key":"🔞宝盒专享",
-        "name":"🔞宝盒专享",
+        "key":"🔞国军专享",
+        "name":"🔞国军专享",
         "type":3,
         "api":"https://agit.ai/guot54/ygbh/raw/branch/master/h/zC.js",
         "searchable":2,
@@ -2411,7 +2481,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-"wallpaper":"https://picsum.photos/1080/","warningText":"月光宝盒完全免费，切勿付费购买。",
+"wallpaper":"https://picsum.photos/1080/","warningText":"国军提示自用 请勿传播。",
   "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
