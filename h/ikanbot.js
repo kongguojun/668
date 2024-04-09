@@ -43,31 +43,31 @@ try {
     for(var key in map){
       	if('kuaikan'==key){
 				arr.push({
-                flag: '🌙宝盒快看',
+                flag: '🌙国军快看',
                 url: map[key],
 				sort:2
             })}
 			if('bfzym3u8'==key){
 				arr.push({
-                flag: '🌙宝盒暴风',
+                flag: '🌙国军暴风',
                 url: map[key],
 				sort:1
             })}
            if('1080zyk'==key){
 				arr.push({
-                flag: '🌙宝盒1080',
+                flag: '🌙国军1080',
                 url: map[key],
 				sort:3
             })}
             if('ffm3u8'==key){
 				arr.push({
-                flag: '🌙宝盒非凡',
+                flag: '🌙国军非凡',
                 url: map[key],
 				sort:4
             })}
            if('lzm3u8'==key){
 				arr.push({
-                flag: '🌙宝盒量子',
+                flag: '🌙国军量子',
                 url: map[key],
 				sort:5
             })}

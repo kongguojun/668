@@ -68,7 +68,7 @@ async function detail(id) {
         const video = {
             vod_play_from: 'Leospring',
             vod_play_url: playUrls,
-            vod_content: '作者：Leospring 公众号：宝盒汇',
+            vod_content: '作者：Leospring 军军',
         };
         const list = [video];
         const result = { list };
