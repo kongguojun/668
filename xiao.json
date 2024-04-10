@@ -692,7 +692,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩经典.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩经典.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
 	  
     },
@@ -734,7 +734,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩音乐.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩音乐.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -745,7 +745,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/小灯塔科学.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/小灯塔科学.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -756,7 +756,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/小灯塔地理.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/小灯塔地理.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -767,7 +767,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/小灯塔百科.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/小灯塔百科.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -778,7 +778,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/小灯塔国学.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/小灯塔国学.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -789,7 +789,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩幼小.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩幼小.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -800,7 +800,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩小学.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩小学.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -811,7 +811,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩初中.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩初中.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -822,7 +822,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩高中.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩高中.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -833,7 +833,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩健身.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩健身.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -844,7 +844,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩相声.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩相声.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -855,7 +855,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩美食.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩美食.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
     {
@@ -866,7 +866,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩戏曲.json"
+      "ext": "https://gitee.com/ds360/ds/raw/master/a/哔哩戏曲.json",
 	  "jar": "https://gitee.com/ds360/ds/raw/master/pg/pg.jar"
     },
 {
