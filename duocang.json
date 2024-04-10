@@ -1,20 +1,28 @@
 ﻿{
     "urls": [
+	{
+            "url": "https://gitee.com/ds360/ds/raw/master/xiao.json",
+            "name": "🇨🇳国军无磁力-小内存线路"
+        },
 {
             "url": "https://gitee.com/ds360/ds/raw/master/yingshi.json",
-            "name": "国军收集通用仓库"
+            "name": "🇨🇳国军收集通用仓库"
         },
 	{
             "url": "https://gitee.com/ds360/ds/raw/master/yun/ysc.json",
-            "name": "国军影视仓专用仓库"
+            "name": "🇨🇳国军影视仓专用仓库"
         },
 			{
             "url": "https://gitee.com/ds360/ds/raw/master/ysc.json",
-            "name": "国军影视仓线路1"
+            "name": "🇨🇳国军影视仓线路1"
         },
 			{
             "url": "https://gitee.com/ds360/ds/raw/master/pg/jsm.json",
-            "name": "国军戏曲和网盘线路"
+            "name": "国军戏曲🎸网盘线路"
+        },
+					{
+            "url": "https://gitee.com/ds360/ds/raw/master/soeasy/so.json",
+            "name": "国军🚀备用💥线路"
         },
 		        {
             "url": "http://饭太硬.top/tv",

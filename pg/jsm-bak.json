@@ -1,5 +1,5 @@
-{
-	"spider":"https://gitee.com/ds360/ds/raw/master/pg.jar",
+﻿{
+	"spider":"https://gitee.com/ds360/ds/raw/master/pg/pg.jar",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -9,7 +9,7 @@
 			"searchable": 0,
 			"changeable": 1,
 			"indexs":1,
-			"ext": "https://gitee.com/ds360/ds/raw/master/lib/douban.json"
+			"ext": "https://gitee.com/ds360/ds/raw/master/pg/lib/douban.json"
 		},
 		{
 			"key": "网盘配置",
@@ -18,10 +18,23 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
-			"ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json"
+			"ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json"
 		},
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/lib/wogg.json"},
-		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/lib/wogg.json"},{
+		{			"key":"bili",
+			"name":"🇨🇳国军戏曲广场舞",
+			"type":3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"type":"豫剧#河南坠子#太康道情#唢呐#广场舞#河南梆子#山东梆子#曲剧#京剧#秦腔#大平调#二夹弦#电影#电视剧#纪录片#综艺#舞蹈#影视#知识",
+				"cookie":""
+			}
+		},
+		{"key":"Local","name":"本地磁盘","type":3,"api":"csp_Local"},{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/pg/lib/wogg.json"},
+		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/pg/lib/wogg.json"},
+		{
             
       "key": "bp",
       "name": "🇨🇳白嫖┃影视",
@@ -36,11 +49,12 @@
         "搜索url": "https://www.baipiaoys.com:9092/search.html?wd={wd}",
         "图片": "data-original=\"&&\"",
         "嗅探词": ".mp4#m3u8#.m3u8",
-        "线路标题": "🇨🇳宝盒专享",
-        "线路数组": "🇨🇳宝盒专享",
+        "线路标题": "🇨🇳国军专享",
+        "线路数组": "🇨🇳国军专享",
         "分类": "电影$1#电视剧$2#动漫$3",
         "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-      },"jar":"https://gitee.com/ds360/ds/raw/master/yg.jar"},{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gitee.com/ds360/ds/raw/master/lib/XBPQ.jar",
+      },"jar":"https://gitee.com/ds360/ds/raw/master/pg/yg.jar"},
+	  {"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gitee.com/ds360/ds/raw/master/pg/lib/XBPQ.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
 				"分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
 				"分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
@@ -75,7 +89,7 @@
 				"免嗅": "0"
 			}
 		},
-		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gitee.com/ds360/ds/raw/master/lib/XBPQ.jar",
+		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gitee.com/ds360/ds/raw/master/pg/lib/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
@@ -109,7 +123,7 @@
 				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
 			}
 		},
-		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/ds360/ds/raw/master/lib/XBPQ.jar",
+		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/ds360/ds/raw/master/pg/lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},{
 			"key": "河马",
@@ -142,7 +156,7 @@
 			"api": "csp_Jianpian",
 			"searchable": 1,
 			"changeable": 1,
-			"ext": "https://gitee.com/ds360/ds/raw/master/lib/jianpian.json$$$1",
+			"ext": "https://gitee.com/ds360/ds/raw/master/pg/lib/jianpian.json$$$1",
 			"timeout":60
 		},
 		{
@@ -214,17 +228,17 @@
 			],
 			"searchable": 1,
 			"quickSearch": 1
-		},{"key":"Clg","name":"磁力狗|磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
+		},{"key":"Clg","name":"磁力狗|磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
 			"style": {
 				"type": "rect",
 				"ratio": 1.5
 			}
-		},{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
-		{"key":"drpy_js_愛盤搜","name":"爱盘搜[js]|夸","type":3,"api":"https://gitee.com/ds360/ds/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/ds360/ds/raw/master/js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
-		{"key":"drpy_js_人人影视","name":"人人影视[js]|搜","type":3,"api":"https://gitee.com/ds360/ds/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/ds360/ds/raw/master/js/yyets.js", "quickSearch":1, "changeable":1, "timeout":30},
-		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"https://gitee.com/ds360/ds/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/ds360/ds/raw/master/js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/lib/4khdr.txt$$$1"},
-		{"key":"UP云搜","name":"阿里|UP云搜","type":3,"api":"csp_UpYun","timeout":30, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json"}, 
+		},{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
+		{"key":"drpy_js_愛盤搜","name":"爱盘搜[js]|夸","type":3,"api":"https://gitee.com/ds360/ds/raw/master/pg/lib/drpy2.min.js","ext":"https://gitee.com/ds360/ds/raw/master/pg/js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
+		{"key":"drpy_js_人人影视","name":"人人影视[js]|搜","type":3,"api":"https://gitee.com/ds360/ds/raw/master/pg/lib/drpy2.min.js","ext":"https://gitee.com/ds360/ds/raw/master/pg/js/yyets.js", "quickSearch":1, "changeable":1, "timeout":30},
+		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"https://gitee.com/ds360/ds/raw/master/pg/lib/drpy2.min.js","ext":"https://gitee.com/ds360/ds/raw/master/pg/js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
+		{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/pg/lib/4khdr.txt$$$1"},
+		{"key":"UP云搜","name":"阿里|UP云搜","type":3,"api":"csp_UpYun","timeout":30, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json"}, 
 		{
 			"key": "JustLive",
 			"name": "JustLive",
@@ -232,12 +246,12 @@
 			"api": "csp_JustLive",
 			"searchable": 1,
 			"changeable": 0
-		},{"key":"Xinshijue","name":"新视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$https://gitee.com/ds360/ds/raw/master/lib/wogg.json"},
-		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"https://gitee.com/ds360/ds/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/ds360/ds/raw/master/js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
+		},{"key":"Xinshijue","name":"新视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$https://gitee.com/ds360/ds/raw/master/pg/lib/wogg.json"},
+		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"https://gitee.com/ds360/ds/raw/master/pg/lib/drpy2.min.js","ext":"https://gitee.com/ds360/ds/raw/master/pg/js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"BLSGod","name":"BLSGod|磁","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
 		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
-		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"https://gitee.com/ds360/ds/raw/master/js/alistjar.json"},
+		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"https://gitee.com/ds360/ds/raw/master/pg/js/alistjar.json"},
 		{
 			"key": "快看",
 			"name": "快看",
@@ -248,50 +262,50 @@
 			"changeable": 0,
 			"filterable": 1
 		},
-		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/lib/pushshare.txt$$$db$$$1",
+		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/pg/lib/pushshare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"AliShare","name":"阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/lib/alishare.txt$$$db$$$1",
+		{"key":"AliShare","name":"阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/pg/lib/alishare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"AliShareEBook","name":"阿里云盘书籍分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/lib/alishare.ebook.txt$$$db$$$1",
+		{"key":"AliShareEBook","name":"阿里云盘书籍分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/pg/lib/alishare.ebook.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/lib/quarkshare.txt",
+		{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/pg/lib/quarkshare.txt",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/lib/thundershare.txt",
+		{"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/pg/lib/thundershare.txt",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/lib/pikpakclass.json$$$https://gitee.com/ds360/ds/raw/master/lib/pikpakclass.json.txt.gz",
+		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/pg/lib/pikpakclass.json$$$https://gitee.com/ds360/ds/raw/master/pg/lib/pikpakclass.json.txt.gz",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"SambaShare","name":"Samba分享","type":3,"api":"csp_SambaShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/lib/sambashare.txt"},
+		{"key":"SambaShare","name":"Samba分享","type":3,"api":"csp_SambaShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/pg/lib/sambashare.txt"},
 		{
 			"key": "直播转点播",
 			"name": "🐼️┃电视┃直播",
 			"type": 3,
 			"searchable": 0,
-			"api": "https://gitee.com/ds360/ds/raw/master/lib/live2vod.js",
-			"ext": "https://gitee.com/ds360/ds/raw/master/lib/feimaolive.json"
+			"api": "https://gitee.com/ds360/ds/raw/master/pg/lib/live2vod.js",
+			"ext": "https://gitee.com/ds360/ds/raw/master/pg/lib/feimaolive.json"
 		},
 		{
 			"key": "FirstAid",
@@ -306,34 +320,23 @@
 				"ratio": 3.8
 			}
 		},
-		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"https://gitee.com/ds360/ds/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/ds360/ds/raw/master/js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1,
+		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"https://gitee.com/ds360/ds/raw/master/pg/lib/drpy2.min.js","ext":"https://gitee.com/ds360/ds/raw/master/pg/js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1,
 			"indexs":1
 		},
-		{
-			"key":"bili",
-			"name":"B站 | Bili[jar]",
-			"type":3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext":{
-				"type":"豫剧#河南坠子#太康道情#唢呐#广场舞#河南梆子#山东梆子#曲剧#京剧#秦腔#大平调#二夹弦#电影#电视剧#纪录片#综艺#舞蹈#影视#知识",
-				"cookie":""
-			}
-		},
-		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/lib/wogg.json"},
-		{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/lib/moli.json"},
-		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/lib/wogg.json"},
-		{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/lib/wogg.json"},
-		{"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
-		{"key":"Pan99","name":"盘99|网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
-		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$null$$$1"},
-		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"},
-		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
-		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$null$$$1"},
-		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
-		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://www.libvio.pro$$$null"},
+		
+
+		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/pg/lib/wogg.json"},
+		{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/pg/lib/moli.json"},
+		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/pg/lib/wogg.json"},
+		{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$https://gitee.com/ds360/ds/raw/master/pg/lib/wogg.json"},
+		{"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
+		{"key":"Pan99","name":"盘99|网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
+		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$null$$$1"},
+		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"},
+		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
+		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$null$$$1"},
+		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
+		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://www.libvio.pro$$$null"},
 		{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
 		{
 			"key": "Bdys_spider",
@@ -346,20 +349,20 @@
 			"searchable": 1,
 			"ext": "https://www.bdys10.com/$$$null$$$1"
 		},
-		{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json"},
-		{"key":"88Pan","name":"88网盘|网盘","type":3,"api":"csp_EightEight","timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://662688.xyz"},
-		{"key":"盘友圈","name":"盘友圈|网盘","type":3,"api":"csp_Panyq","timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json"},
-		{"key":"易搜","name":"易搜|网盘","type":3,"api":"csp_YiSo","timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/lib/yiso.txt"},
-		{"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan","timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json"},
-		{"key":"秒搜","name":"秒搜|网盘","type":3,"api":"csp_MiaoSou","timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json"},
-		{"key":"Funletu","name":"趣盘搜|夸克","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json"},
-		{"key":"QuarkPanso","name":"夸克盘搜|夸克","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json"},
-		{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"},
-		{"key":"DaPanSo","name":"大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://dapanso.com$$$null$$$1"},
-		{"key":"PikaSo","name":"皮卡搜|网盘","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://www.pikaso.top/$$$null"},
-		{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$https://gitee.com/ds360/ds/raw/master/lib/qianfan.txt$$$1"},
-		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://www.yunso.net$$$null$$$1"},
-		{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$1"},
+		{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json"},
+		{"key":"88Pan","name":"88网盘|网盘","type":3,"api":"csp_EightEight","timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://662688.xyz"},
+		{"key":"盘友圈","name":"盘友圈|网盘","type":3,"api":"csp_Panyq","timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json"},
+		{"key":"易搜","name":"易搜|网盘","type":3,"api":"csp_YiSo","timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://gitee.com/ds360/ds/raw/master/pg/lib/yiso.txt"},
+		{"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan","timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json"},
+		{"key":"秒搜","name":"秒搜|网盘","type":3,"api":"csp_MiaoSou","timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json"},
+		{"key":"Funletu","name":"趣盘搜|夸克","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json"},
+		{"key":"QuarkPanso","name":"夸克盘搜|夸克","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json"},
+		{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"},
+		{"key":"DaPanSo","name":"大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://dapanso.com$$$null$$$1"},
+		{"key":"PikaSo","name":"皮卡搜|网盘","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://www.pikaso.top/$$$null"},
+		{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$https://gitee.com/ds360/ds/raw/master/pg/lib/qianfan.txt$$$1"},
+		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://www.yunso.net$$$null$$$1"},
+		{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$1"},
 		{"key":"Yscapp","name":"影视车|App","type":3,"api":"csp_Yscapp","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "playerType":1, "playerType":1, "ext":"1"},
 		{
 			"key": "NanGua",
@@ -370,8 +373,8 @@
 			"changeable": 1,
 			"ext": "null$$$1"
 		},
-		{"key":"Dovx", "name": "阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json" },
-		{"key":"Gitcafe", "name": "阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json" },
+		{"key":"Dovx", "name": "阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json" },
+		{"key":"Gitcafe", "name": "阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json" },
 		{
 			"key": "新6V",
 			"name": "新6V|网盘",
@@ -380,7 +383,7 @@
 			"searchable": 1,
 			"changeable": 1,
 			"timeout": 60,
-			"ext": "https://gitee.com/ds360/ds/raw/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+			"ext": "https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
 		},
 		
 		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
@@ -555,11 +558,11 @@
 			"key": "愛看",
 			"name": "愛看",
 			"type": 3,
-			"api": "https://gitee.com/ds360/ds/raw/master/js/ikanbot_open.js",
+			"api": "https://gitee.com/ds360/ds/raw/master/pg/js/ikanbot_open.js",
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/ds360/ds/raw/master/lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"https://gitee.com/ds360/ds/raw/master/js/alist.json"},
+		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/ds360/ds/raw/master/pg/lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"https://gitee.com/ds360/ds/raw/master/pg/js/alist.json"},
 		{
 			"key": "短剧",
 			"name": "短剧",
@@ -602,7 +605,7 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://gitee.com/ds360/ds/raw/master/lib/tokenm.json"},
+		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://gitee.com/ds360/ds/raw/master/pg/lib/tokenm.json"},
 		{
 			"key": "應用商店",
 			"name": "應用商店",
@@ -614,9 +617,9 @@
 		}],
 		"lives":[
 			{
-				"name": "宝盒",
+				"name": "国军直播",
 				"type": 0,
-				"url": "https://gitcode.net/ygbh66/test/-/raw/master/tw.txt",
+				"url": "https://gitee.com/ds360/ds/raw/master/pg/ZB/daquan.jpg",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -634,7 +637,7 @@
 			{
 				"name": "live.ipv6.local",
 				"type": 0,
-				"url": "https://gitee.com/ds360/ds/raw/master/lib/live.ipv6.txt",
+				"url": "https://gitee.com/ds360/ds/raw/master/pg/lib/live.ipv6.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",

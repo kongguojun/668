@@ -1,0 +1,24 @@
+﻿{
+    "urls": [
+{
+            "url": "https://gitee.com/ds360/ds/raw/master/18/18.json",
+            "name": "🇨🇳国军收集18仓库"
+        },
+	{
+            "url": "https://gitee.com/ds360/ds/raw/master/188/188.json",
+            "name": "🇨🇳国军188仓库"
+        },
+			{
+            "url": "https://gitee.com/ds360/ds/raw/master/pro2.json",
+            "name": "🇨🇳国军18pro"
+    },
+				{
+            "url": "https://gitee.com/ds360/ds/raw/master/h/prox.json",
+            "name": "🇨🇳国军18proX"
+    },
+        {
+            "url": "https://gitee.com/ds360/ds/raw/master/18.json",
+            "name": "🇨🇳国军18"
+        }
+  ]
+}
