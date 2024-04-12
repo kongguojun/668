@@ -34,6 +34,12 @@ var rule= {
 			url = unescape(base64Decode(url))
 		}
 		if (/\\.m3u8|\\.mp4/.test(url)) {
+            const index = url.lastIndexOf('.m3u8');
+            var data = JSON.parse(request("https://jx.m3u8.biz/gg.php?url=" + url.slice(0, index) + '.m3u8'));
+            if (data.code == 200) {
+                url = data.url;
+            }
+
 			input = {
 				jx: 0,
 				url: url,
