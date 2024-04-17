@@ -16,6 +16,11 @@
             "url": "https://gitee.com/ds360/ds/raw/master/h/prox.json",
             "name": "🇨🇳国军18proX"
     },
+	    },
+				{
+            "url": "https://gitee.com/ds360/ds/raw/master/18js/18.json",
+            "name": "🇨🇳国军18js"
+    },
         {
             "url": "https://gitee.com/ds360/ds/raw/master/18.json",
             "name": "🇨🇳国军18"
