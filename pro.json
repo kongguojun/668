@@ -1,9 +1,9 @@
 {
-  "spider": "./pg.jar",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/pg.jar",
   "lives": [
     {
       "name": "live",
-      "url": "./ZB/zb",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/ZB/zb",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -30,7 +30,7 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./lib/douban.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/douban.json"
     },
     {
       "key": "网盘配置",
@@ -39,7 +39,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json"
     },
     {
       "key": "Local",
@@ -56,7 +56,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/wogg.json"
     },
     {
       "key": "Wogg",
@@ -67,7 +67,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/wogg.json"
     },
     {
       "key": "Wobg",
@@ -78,7 +78,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/wogg.json"
     },
     {
       "key": "baip",
@@ -99,7 +99,7 @@
         "分类": "电影$1#电视剧$2#动漫$3",
         "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
       },
-      "jar": "./lib/yg.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/yg.jar"
     },
     {
       "key": "蚂蚁",
@@ -107,7 +107,7 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://122.228.84.103:5822/api.php/app/",
-      "jar": "./lib/yg.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/yg.jar"
     },
     {
       "key": "saohuo",
@@ -115,7 +115,7 @@
       "type": 3,
       "searchable": 1,
       "changeable": 1,
-      "jar": "./lib/yg.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/yg.jar",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -138,8 +138,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/文才.json",
-      "jar": "./lib/hl.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/文才.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/hl.jar"
     },
     {
       "key": "csp_xBPQ_毒蛇",
@@ -149,15 +149,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/毒蛇影视.json",
-      "jar": "./lib/hl.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/毒蛇影视.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/hl.jar"
     },
     {
       "key": "XBPQ_黑狐影院",
       "name": "黑狐影院|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/yg.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/yg.jar",
       "ext": {
         "站名": "黑狐影院",
         "主页url": "http://fagmn.com",
@@ -194,7 +194,7 @@
     {
       "key": "XBPQ_电影先生",
       "name": "电影先生|XBPQ",
-      "jar": "./lib/yg.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/yg.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -243,7 +243,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./lib/jianpian.json$$$1",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/jianpian.json$$$1",
       "timeout": 60
     },
     {
@@ -317,7 +317,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -332,7 +332,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 120,
-      "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$proxy$$$1"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://www.meijumi.xyz/$$$proxy$$$1"
     },
     {
       "key": "Libvio",
@@ -343,7 +343,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://www.libvio.pro$$$null"
     },
     {
       "key": "Bt0",
@@ -365,7 +365,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://xpanpan.site$$$proxy$$$1",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://xpanpan.site$$$proxy$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -393,14 +393,14 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
     },
     {
       "key": "drpy_js_磁力熊",
       "name": "磁力熊[js]|索引",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/cilixiongp.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/cilixiongp.js",
       "playerType": "1",
       "searchable": 0,
       "quickSearch": 0,
@@ -429,7 +429,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/wogg.json"
     },
     {
       "key": "Xinshijue",
@@ -440,7 +440,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/wogg.json"
     },
     {
       "key": "影视车",
@@ -451,7 +451,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/wogg.json"
     },
     {
       "key": "团长资源",
@@ -462,7 +462,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$proxy$$$1"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$proxy$$$1"
     },
     {
       "key": "Moli",
@@ -473,7 +473,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/moli.json"
     },
     {
       "key": "Hdhive",
@@ -484,7 +484,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$proxy$$$1"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$proxy$$$1"
     },
     {
       "key": "Ppxzy",
@@ -495,7 +495,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$proxy$$$1"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://ppxzy.net$$$proxy$$$1"
     },
     {
       "key": "校长影视",
@@ -506,7 +506,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
     },
     {
       "key": "Bdys_spider",
@@ -524,7 +524,7 @@
       "type": 3,
       "api": "csp_YunPan",
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$null$$$proxy$$$1"
     },
     {
       "key": "YingSo",
@@ -532,7 +532,7 @@
       "type": 3,
       "api": "csp_YingSo",
       "timeout": 60,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json"
     },
     {
       "key": "混合盘",
@@ -540,7 +540,7 @@
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -552,7 +552,7 @@
       "type": 3,
       "api": "csp_EightEight",
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://662688.xyz$$$",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://662688.xyz$$$",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -567,7 +567,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json"
     },
     {
       "key": "盘友圈",
@@ -575,7 +575,7 @@
       "type": 3,
       "api": "csp_Panyq",
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$site$$$proxy"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$site$$$proxy"
     },
     {
       "key": "易搜",
@@ -583,7 +583,7 @@
       "type": 3,
       "api": "csp_YiSo",
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/yiso.txt",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/yiso.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -595,7 +595,7 @@
       "type": 3,
       "api": "csp_MiaoSou",
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -610,7 +610,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -625,7 +625,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -640,7 +640,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -655,7 +655,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
     },
     {
       "key": "PikaSo",
@@ -666,7 +666,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://www.pikaso.top/$$$null",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -681,7 +681,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/qianfan.txt$$$1"
     },
     {
       "key": "YunSo",
@@ -692,7 +692,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://www.yunso.net$$$null$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -707,7 +707,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$null$$$proxy$$$1"
     },
     {
       "key": "NanGua",
@@ -726,14 +726,14 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
       "key": "drpy_js_愛盤搜",
       "name": "爱盘搜[js]|夸",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/aipanso.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/aipanso.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 60,
@@ -746,8 +746,8 @@
       "key": "drpy_js_人人影视",
       "name": "人人影视[js]|搜",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/yyets.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/yyets.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 60,
@@ -760,8 +760,8 @@
       "key": "drpy_js_MP4US",
       "name": "MP4电影[js]|磁",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/mp4us.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/mp4us.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 60
@@ -775,7 +775,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/4khdr.txt$$$1",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json$$$https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/4khdr.txt$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -787,7 +787,7 @@
       "type": 3,
       "api": "csp_UpYun",
       "timeout": 30,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -805,8 +805,8 @@
       "key": "drpy_js_酷吧",
       "name": "酷吧[js]|磁",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/kuba.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/kuba.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 60
@@ -843,7 +843,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/alistjar.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/alistjar.json"
     },
     {
       "key": "快看",
@@ -888,7 +888,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./lib/duboku.json$$$proxy"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/duboku.json$$$proxy"
     },
     {
       "key": "haiwaikan",
@@ -1059,7 +1059,7 @@
       "key": "愛看",
       "name": "愛看",
       "type": 3,
-      "api": "./js/ikanbot_open.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/js/ikanbot_open.js",
       "searchable": 1,
       "changeable": 0
     },
@@ -1076,11 +1076,11 @@
       "key": "drpy_js_Alist",
       "name": "网盘 | Alist[js]",
       "type": 3,
-      "api": "./lib/alist.min.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/alist.min.js",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/alist.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/alist.json"
     },
     {
       "key": "MV_vod",
@@ -1122,7 +1122,7 @@
       "api": "csp_Push",
       "changeable": 0,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/tokenm.json"
     },
     {
       "key": "csp_Dm84",
@@ -1201,7 +1201,7 @@
       "changeable": 0,
       "timeout": 1801,
       "ext": "http://javdb523.com",
-      "jar": "./lib/p.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/p.jar"
     },
     {
       "key": "Zuise",
@@ -1218,11 +1218,11 @@
       "key": "ss直播",
       "name": "🔞ss直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/ss直播.js"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/ss直播.js"
     },
     {
       "key": "csp_91黑料",
@@ -1249,7 +1249,7 @@
         "分类标题": ">&&</a>",
         "分类ID": "/t/&&/"
       },
-      "jar": "./lib/hl.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/hl.jar"
     },
     {
       "key": "666",
@@ -1260,7 +1260,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/hl.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/hl.jar",
       "ext": {
         "直接播放": "1",
         "搜索链接后缀": "-1-1.html",
@@ -1275,7 +1275,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/hl.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/hl.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1296,15 +1296,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/777影院.json",
-      "jar": "./lib/xyqxbpq.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/777影院.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/xyqxbpq.jar"
     },
     {
       "key": "光棍H",
       "name": "🔞光棍影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/hl.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/hl.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -1331,22 +1331,22 @@
       "name": "🔞疯猫av",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/hl.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/hl.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/疯猫av.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/疯猫av.json"
     },
     {
       "key": "csp_XBPQ_奶很大",
       "name": "🔞奶很大",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/hl.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/hl.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/奶很大.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/奶很大.json"
     },
     {
       "key": "虎牙",
@@ -1395,8 +1395,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/天天直播.json",
-      "jar": "./lib/xb.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/天天直播.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/xb.jar"
     },
     {
       "key": "csp_jy",
@@ -1406,8 +1406,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/聚优直播0.json",
-      "jar": "./lib/xb.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/聚优直播0.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/xb.jar"
     },
     {
       "key": "csp_xBPQ_香蕉AV",
@@ -1417,8 +1417,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/天天综合.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/天天综合.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉资",
@@ -1428,8 +1428,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./h/天天中文字幕.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/h/天天中文字幕.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉超",
@@ -1439,19 +1439,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/天天国产传媒.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/天天国产传媒.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_土豪",
       "name": "🔞土豪影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/hl.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/hl.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/土豪.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/土豪.json"
     },
     {
       "key": "影视",
@@ -1493,7 +1493,7 @@
       "name": "🔞njav",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/hl.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/hl.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1519,8 +1519,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/ny.json",
-      "jar": "./lib/ny.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/ny.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/ny.jar"
     },
     {
       "key": "SeHuaTang",
@@ -1541,8 +1541,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./h/91s.json",
-      "jar": "./lib/xb.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/h/91s.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/xb.jar"
     },
     {
       "key": "老鸭",
@@ -2359,8 +2359,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/左临右射.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/左临右射.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ-四虎",
@@ -2370,8 +2370,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/四虎.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/四虎.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉AV解说",
@@ -2381,8 +2381,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/香蕉解说.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/香蕉解说.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉资源",
@@ -2392,8 +2392,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/香蕉资源.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/香蕉资源.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉超清",
@@ -2403,8 +2403,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/香蕉超清.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/香蕉超清.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉国产",
@@ -2414,8 +2414,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/香蕉国产.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/香蕉国产.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉久久热",
@@ -2425,8 +2425,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/香蕉久久热.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/香蕉久久热.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉废柴",
@@ -2436,8 +2436,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/香蕉废柴.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/香蕉废柴.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉搜索",
@@ -2447,8 +2447,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/香蕉搜索.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/香蕉搜索.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉直播",
@@ -2458,8 +2458,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/香蕉直播.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/香蕉直播.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_黄仓库",
@@ -2469,8 +2469,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/黄仓库.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/黄仓库.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_banban",
@@ -2480,8 +2480,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/banban.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/banban.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_麻豆映画",
@@ -2491,8 +2491,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/麻豆映画.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/麻豆映画.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_香蕉",
@@ -2502,8 +2502,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/香蕉.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/香蕉.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_性欲轮回",
@@ -2513,8 +2513,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/性欲轮回.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/性欲轮回.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_性欲轮回[分类]",
@@ -2524,8 +2524,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/性欲轮回[分类].json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/性欲轮回[分类].json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_精东影业1",
@@ -2535,8 +2535,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/精东影业1.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/精东影业1.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_精东影业2",
@@ -2546,8 +2546,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/精东影业2.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/精东影业2.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_顶级国产",
@@ -2557,8 +2557,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/顶级国产.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/顶级国产.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_黄瓜",
@@ -2568,8 +2568,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/黄瓜.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/黄瓜.json",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xf_18av",
@@ -2580,7 +2580,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://ftp6284928.host108.abeiyun.cn/h/xBPQ/18av.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "drpy_js_banan",
@@ -2652,7 +2652,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/xBPQ/Jable.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_玩偶姐姐",
@@ -2663,7 +2663,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/xBPQ/%e7%8e%a9%e5%81%b6%e5%a7%90%e5%a7%90.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_朱古力",
@@ -2674,7 +2674,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/xBPQ/%e6%9c%b1%e5%8f%a4%e5%8a%9b.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_NOWAV",
@@ -2685,7 +2685,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/xBPQ/NOWAV.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_xBPQ_女优",
@@ -2696,7 +2696,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/xBPQ/%e5%a5%b3%e4%bc%98.json",
-      "jar": "./lib/Yoursmile2.jar"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/Yoursmile2.jar"
     },
     {
       "key": "csp_Miss",
