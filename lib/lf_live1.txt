@@ -26,3 +26,5 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Ga
 ./ZB/setv.txt
 #xiangjiao
 ./ZB/xiangjiao.txt
+#188
+./ZB/188.txt
