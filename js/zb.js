@@ -5,10 +5,12 @@
 {"name": "小苹果直播",     "url": "http://tipu.xjqxz.top/live1213.txt"},
 {"name":"范明直播","url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
 {"name":"神仙直播","url":"http://dp.sxtv.top:88/zb.txt"},
-{"name":"收集直播1","url":"http://120.79.4.185/new/mdlive.txt"},
+{"name":"收集直播","url":"https://gitee.com/da-hei/direct-seeding/raw/master/pingfang.txt"},
+{"name":"收集直播1","url":"http://v.1ack.com/t.txt"},
+{"name":"收集直播2","url":"https://gitlab.com/tvtg/vip/-/raw/main/log.txt"},
 {"name":"虎牙","url":"https://live.freetv.top/huyayqk.m3u"},
 {"name":"斗鱼","url":"https://live.freetv.top/douyuyqk.m3u"},
 {"name":"YY","url":"https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top"},
 {"name":"BILIBLI","url":"https://www.goodiptv.club/bililive.m3u"},
-{"name":"天威","url":"https://tvkj.top/tvlive.txt"}
+{"name":"KAIXIN","url":"http://rihou.vip:55/lib/kx2024.txt"}
 ]
