@@ -215,6 +215,242 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+🌟V6央视,#genre#
+CCTV-1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+CCTV-2财经,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+CCTV-3综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
+CCTV-4中文,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
+CCTV-5体育,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
+CCTV-5+赛事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+CCTV-6电影,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
+CCTV-7国防军事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
+CCTV-8电视剧,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
+CCTV-9纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
+CCTV-10科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
+CCTV-11戏曲,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
+CCTV-12社会与法,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
+CCTV-13新闻,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
+CCTV-14少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
+CCTV-15音乐,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
+CCTV-16奥林匹克,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
+CCTV-17农业农村,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
+
+CCTV-1综合,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
+CCTV-2财经,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
+CCTV-3综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
+CCTV-4中文,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
+CCTV-5体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8
+CCTV-5+赛事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
+CCTV-6电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/1.m3u8
+CCTV-7国防军事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/1.m3u8
+CCTV-8电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8
+CCTV-9纪录,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010217/1.m3u8
+CCTV-10科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+CCTV-11戏曲,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV-12社会与法,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+CCTV-13新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+CCTV-14少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+CCTV-15音乐,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV-16奥林匹克,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
+CCTV-17农村农业,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
+CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4中文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+CCTV-1综合,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-3综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-5体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5+赛事,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-6电影,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-7国防,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8电视剧,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-9纪录,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10科教,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11戏曲,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
+CCTV-12社会与法,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-14少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-15音乐,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8
+CCTV-16奥林匹克,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
+CCTV-17农业农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
+
+CETV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
+🌟V6卫视,#genre#
+湖南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8
+江苏卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225938/index.m3u8
+江苏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+东方卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225942/index.m3u8
+安徽卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+安徽卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225925/index.m3u8
+北京卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
+北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+东南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226038/index.m3u8
+东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+东南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8
+贵州卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226030/index.m3u8
+贵州卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225974/index.m3u8
+贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+海南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
+河北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225961/index.m3u8
+河北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225991/index.m3u8
+河南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226023/index.m3u8
+河南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8
+河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+湖北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
+湖北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226015/index.m3u8
+江苏卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225929/index.m3u8
+江西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225935/index.m3u8
+江西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+山东卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225952/index.m3u8
+山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+甘肃卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+陕西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8
+西安新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
+山西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
+四川卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8
+四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+天津卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8
+天津卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+浙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225959/index.m3u8
+重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
+重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+河北卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?fmmv6
+宁夏卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?fmmv6
+厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
+青海卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?fmmv6
+新疆卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?fmmv6
+纪实人文,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000365/index.m3u8?fmmv6
+四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+山西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+内蒙古卫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+宁夏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+云南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
+青海卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+新疆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+兵团卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+延边卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+大湾区卫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+安多卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+康巴卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+
+黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226006/index.m3u8
+黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
+三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+广西卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+江西卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河北卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+海南卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+山西卫视,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+东南卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+贵州卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+内蒙古卫视,http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+宁夏卫视,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+吉林卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+云南卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+大湾区卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+陕西卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+三沙卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
+甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+北京卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181361BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUVKcU8XeU8C9ZEn2TN9C%2BRcwoDIwMxbrlyyVy9x6ZDKnfS6nBeQejvigwfjRd2x%2BU7thmluKAkd%2BIGySvIyq4AU
+湖南卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181358BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUds%2BUtPKX7dYKgp%2FtymOuOt9pHjY5eGh1%2F3MQt0stvVIffnHpm3K91ELxLBLxf9DE3IGliSDUqkfu%2BEzvoBJvtA
+浙江卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111130BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUclW6AUI%2FSIO%2Bs%2F9KaqCfRAwoDIwMxbrlyyVy9x6ZDKnvfae09h%2Fzg38THB%2B%2FvaO%2BqCb7fDXq%2F%2BRzM2c4SN6TJM
+江苏卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111129BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUcGtOwREJFyiNDdTdcs12AwwoDIwMxbrlyyVy9x6ZDKnBkF6L%2FLitKpXlc5tHW6%2BFmFsnQjgK5quHb1RYo8bFps
+东方卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111131BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaKz9fMrAi6%2FC6MZg8Mm9JQwoDIwMxbrlyyVy9x6ZDKnJ1LnEAwl4s1JgSBXbCxhRiWmveR7x9HhnhsF9G%2Bd4f8
+广东卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181359BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUW%2B%2FF4NzOzOt3cAWjhMHEuMwoDIwMxbrlyyVy9x6ZDKn1U8f2vJUVL98LlyeZUOMSmC30dkrUFt%2FE8JGKMphXYE
+重庆卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840707BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUexeCsKxlG2LwkJhai31bTFVx1a9Sup7dkPMGVMX2%2Byf7FdK%2F47YrMnN4FTTQ%2B1lu6KCMf7MV7FmSuEDyoLe%2Bvo
+深圳卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181362BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTYjXE4%2FzHcB4DvaRB5Fv5MwoDIwMxbrlyyVy9x6ZDKneDM0LfUyK1%2BahEGNL2DZu0fEvbcgscnXPl2IbJvqKAk
+四川卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840706BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUexeCsKxlG2LwkJhai31bTGuXYXralHX2VS7ob25to85GPdBSQnb6X4MP9N0MoC%2FOefakVOC0E4dsoMVDkuWsho
+广西卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000045BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QPdo%2FUL80msfbhDYvoWpNl3Ui3SDbjEyrngRN3z0PFPHWA%2BXaedl3%2F3flCrB%2Fqh7fg
+东南卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540417BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXv1bCET6%2FGP6LFvnNC2DgH0ZQXwaiVktPr6ILPKXqwO%2B40ghr%2F2EQqAw4TSfOQgwgjPkFLBGBm%2FRxwhWL4Q3uM
+天津卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3450000BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUZnlX6d6Ukio1jy49XlNnaUAmpLefguRLiOPXiDRWhxHtqJ1Caox489JiEKddi6MNiecVT4WDzN0xwhlk8OSvQg
+安徽卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540416BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXv1bCET6%2FGP6LFvnNC2DgGVSARKsxkWGZw7vFUuOj2Qc9XJS6ezvAUx%2FdaE2fSJr3cdTmmqJgNdIzUOCi9%2BOyg
+山东卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911992BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUYPFYDnFP%2FDAPuH7S4egu%2BwwoDIwMxbrlyyVy9x6ZDKni2tPDnaOO8v3uGUKi1hZOhPazmZ%2B8tgH3leYQIsqfKE
+江西卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3468921BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXW3f2sUwP9Bgt6tJshUHYl6RFrn%2FfItZOLbXLG9CvVKOn3P%2BbRKDON3XQg2p1czePDS4wR7j8ZW2%2BKTcTUdq9I
+河北卫视「IPV6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN100000002BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaxEcGF7BsTm3tBZ5QM10A3THYCGyx0KiW2nghgGHiPYyNBht0ohR2xRP7wFZyAPWYATALvCqK4y6nrLdX80fn4
+河南卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000044BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QOuXozn3alq9%2BUx7ZLG1w9aOfw%2Ftj8uByLI%2F9b3T9xKHSKRmZDiwMOFotvfGaGd4Uw
+海南卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252684BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaBeOsoiQC4O7YVlhWLaUupjXkJIrEMFMF2spHJh%2FN1RLi84Ue88x97wZoubXLeSwCFBwRVp81CkC12%2Foosdnmw
+湖北卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911989BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTjwoxLREP8RbFWdRUM4faswoDIwMxbrlyyVy9x6ZDKnEdPk51m%2FYpbAXpN4hljdv%2Fuo7x98HZteEPqTZvSaqAE
+贵州卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252663BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdU0MzAxFlzyxwiiSP3V3o4YgTd85YleALR8HHnPHszLOK1g6ts8oU5k12ayN74FbOAmnKUze1Wh5%2FkX5b2rvxw
+辽宁卫视「IPV6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3450001BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUZnlX6d6Ukio1jy49XlNnaV6RFrn%2FfItZOLbXLG9CvVKOdpK010CNswDEcoUF1v%2B2IMStPGOlRBQsPY%2BeXp9d3o
+吉林卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000046BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QOVSARKsxkWGZw7vFUuOj2QqUR6TTs3uuC0H2mr3p6fRRazyiEPmSIyh%2BRO1%2BU3q84
+黑龙江卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181356BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXUvBVoIpV7IZ8uInlLPonswoDIwMxbrlyyVy9x6ZDKn9MTOKFsVhR5Pg7Vvr2jf7Z0qxx5spaZs3xlZNl%2FA5wE
+云南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
+甘肃卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
+青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
+
 
 🎀河南频道,#genre#
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
@@ -243,639 +479,6 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
 西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
 邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?zhend
-央视频,#genre#
-CCTV1,http://www.sxtv.top/cctv.php?id=cctv1
-CCTV2,http://www.sxtv.top/cctv.php?id=cctv2
-CCTV3,http://www.sxtv.top/cctv.php?id=cctv3
-CCTV4,http://www.sxtv.top/cctv.php?id=cctv4
-CCTV5,http://www.sxtv.top/cctv.php?id=cctv5
-CCTV5+,http://www.sxtv.top/cctv.php?id=cctv5p
-CCTV6,http://www.sxtv.top/cctv.php?id=cctv6
-CCTV6,http://www.sxtv.top/cctv.php?id=cctv6hd
-CCTV7,http://www.sxtv.top/cctv.php?id=cctv7
-CCTV8,http://www.sxtv.top/cctv.php?id=cctv8
-CCTV9,http://www.sxtv.top/cctv.php?id=cctv9
-CCTV10,http://www.sxtv.top/cctv.php?id=cctv10
-CCTV11,http://www.sxtv.top/cctv.php?id=cctv11
-CCTV12,http://www.sxtv.top/cctv.php?id=cctv12
-CCTV13,http://www.sxtv.top/cctv.php?id=cctv13
-CCTV14,http://www.sxtv.top/cctv.php?id=cctv14
-CCTV15,http://www.sxtv.top/cctv.php?id=cctv15
-CCTV16,http://www.sxtv.top/cctv.php?id=cctv16
-CCTV17,http://www.sxtv.top/cctv.php?id=cctv17
-中国教育1,http://www.sxtv.top/cctv.php?id=cetv1
-CCTV兵器科技,http://www.sxtv.top/cctv.php?id=bqkj
-CCTV第一剧场,http://www.sxtv.top/cctv.php?id=dyjc
-CCTV怀旧剧场,http://www.sxtv.top/cctv.php?id=hjjc
-CCTV风云剧场,http://www.sxtv.top/cctv.php?id=fyjc
-CCTV风云音乐,http://www.sxtv.top/cctv.php?id=fyyy
-CCTV风云足球,http://www.sxtv.top/cctv.php?id=fyzq
-CCTV电视指南,http://www.sxtv.top/cctv.php?id=dszn
-CCTV女性时尚,http://www.sxtv.top/cctv.php?id=nxss
-CCTV央视文化精品,http://www.sxtv.top/cctv.php?id=whjp
-CCTV世界地理,http://www.sxtv.top/cctv.php?id=sjdl
-CCTV高尔夫网球,http://www.sxtv.top/cctv.php?id=gefwq
-CCTV央视台球,http://www.sxtv.top/cctv.php?id=ystq
-CCTV卫生健康,http://www.sxtv.top/cctv.php?id=wsjk
-CGTN,http://www.sxtv.top/cctv.php?id=cgtn
-CGTN纪录,http://www.sxtv.top/cctv.php?id=cgtnjl
-CGTN西语,http://www.sxtv.top/cctv.php?id=cgtne
-CGTN法语,http://www.sxtv.top/cctv.php?id=cgtnf
-CGTN阿语,http://www.sxtv.top/cctv.php?id=cgtna
-CGTN俄语,http://www.sxtv.top/cctv.php?id=cgtnr
-北京卫视,http://www.sxtv.top/cctv.php?id=bjws
-东方卫视,http://www.sxtv.top/cctv.php?id=dfws
-天津卫视,http://www.sxtv.top/cctv.php?id=tjws
-重庆卫视,http://www.sxtv.top/cctv.php?id=cqws
-黑龙江卫视,http://www.sxtv.top/cctv.php?id=hljws
-辽宁卫视,http://www.sxtv.top/cctv.php?id=lnws
-河北卫视,http://www.sxtv.top/cctv.php?id=hbws
-山东卫视,http://www.sxtv.top/cctv.php?id=sdws
-安徽卫视,http://www.sxtv.top/cctv.php?id=ahws
-河南卫视,http://www.sxtv.top/cctv.php?id=hnws
-湖北卫视,http://www.sxtv.top/cctv.php?id=hubws
-湖南卫视,http://www.sxtv.top/cctv.php?id=hunws
-江西卫视,http://www.sxtv.top/cctv.php?id=jxws
-江苏卫视,http://www.sxtv.top/cctv.php?id=jsws
-浙江卫视,http://www.sxtv.top/cctv.php?id=zjws
-东南卫视,http://www.sxtv.top/cctv.php?id=dnws
-广东卫视,http://www.sxtv.top/cctv.php?id=gdws
-深圳卫视,http://www.sxtv.top/cctv.php?id=szws
-广西卫视,http://www.sxtv.top/cctv.php?id=gxws
-贵州卫视,http://www.sxtv.top/cctv.php?id=gzws
-四川卫视,http://www.sxtv.top/cctv.php?id=scws
-新疆卫视,http://www.sxtv.top/cctv.php?id=xjws
-海南卫视,http://www.sxtv.top/cctv.php?id=hinws
-兵团卫视,http://www.sxtv.top/cctv.php?id=btws
-
-百视通,#genre#
-CCTV1,http://dp.sxtv.top:88/5c/bestv.php?id=cctv1
-CCTV2,http://dp.sxtv.top:88/5c/bestv.php?id=cctv2
-CCTV3,http://dp.sxtv.top:88/5c/bestv.php?id=cctv3
-CCTV4,http://dp.sxtv.top:88/5c/bestv.php?id=cctv4
-CCTV5,http://dp.sxtv.top:88/5c/bestv.php?id=cctv5
-CCTV6,http://dp.sxtv.top:88/5c/bestv.php?id=cctv6
-CCTV7,http://dp.sxtv.top:88/5c/bestv.php?id=cctv7
-CCTV8,http://dp.sxtv.top:88/5c/bestv.php?id=cctv8
-CCTV9,http://dp.sxtv.top:88/5c/bestv.php?id=cctv9
-CCTV10,http://dp.sxtv.top:88/5c/bestv.php?id=cctv10
-CCTV11,http://dp.sxtv.top:88/5c/bestv.php?id=cctv11
-CCTV12,http://dp.sxtv.top:88/5c/bestv.php?id=cctv12
-CCTV13,http://dp.sxtv.top:88/5c/bestv.php?id=cctv13
-CCTV14,http://dp.sxtv.top:88/5c/bestv.php?id=cctv14
-CCTV15,http://dp.sxtv.top:88/5c/bestv.php?id=cctv15
-CCTV16,http://dp.sxtv.top:88/5c/bestv.php?id=cctv16
-CCTV16,http://dp.sxtv.top:88/5c/bestv.php?id=cctv164k
-CCTV17,http://dp.sxtv.top:88/5c/bestv.php?id=cctv17
-CCTV5+,http://dp.sxtv.top:88/5c/bestv.php?id=cctv5p
-CCTV5+,http://dp.sxtv.top:88/5c/bestv.php?id=cctv5p2
-CCTV4K,http://dp.sxtv.top:88/5c/bestv.php?id=cctv4k
-CGTN,http://dp.sxtv.top:88/5c/bestv.php?id=cgtn
-中国教育1台,http://dp.sxtv.top:88/5c/bestv.php?id=zgjy1
-中国教育2台,http://dp.sxtv.top:88/5c/bestv.php?id=zgjy2
-中国教育4台,http://dp.sxtv.top:88/5c/bestv.php?id=zgjy4
-广西卫视,http://dp.sxtv.top:88/5c/bestv.php?id=gxws
-广东卫视,http://dp.sxtv.top:88/5c/bestv.php?id=gdws
-深圳卫视,http://dp.sxtv.top:88/5c/bestv.php?id=szws
-海南卫视,http://dp.sxtv.top:88/5c/bestv.php?id=hainan
-三沙卫视,http://dp.sxtv.top:88/5c/bestv.php?id=ssws
-云南卫视,http://dp.sxtv.top:88/5c/bestv.php?id=ynws
-贵州卫视,http://dp.sxtv.top:88/5c/bestv.php?id=gzws
-东南卫视,http://dp.sxtv.top:88/5c/bestv.php?id=dnws
-厦门卫视,http://dp.sxtv.top:88/5c/bestv.php?id=xmws
-江西卫视,http://dp.sxtv.top:88/5c/bestv.php?id=jxws
-安徽卫视,http://dp.sxtv.top:88/5c/bestv.php?id=ahws
-湖南卫视,http://dp.sxtv.top:88/5c/bestv.php?id=hunan
-湖北卫视,http://dp.sxtv.top:88/5c/bestv.php?id=hubei
-河南卫视,http://dp.sxtv.top:88/5c/bestv.php?id=hnws
-河北卫视,http://dp.sxtv.top:88/5c/bestv.php?id=hbws
-重庆卫视,http://dp.sxtv.top:88/5c/bestv.php?id=cqws
-四川卫视,http://dp.sxtv.top:88/5c/bestv.php?id=scws
-浙江卫视,http://dp.sxtv.top:88/5c/bestv.php?id=zjws
-江苏卫视,http://dp.sxtv.top:88/5c/bestv.php?id=jsws
-东方卫视,http://dp.sxtv.top:88/5c/bestv.php?id=dfws
-东方卫视,http://dp.sxtv.top:88/5c/bestv.php?id=zqpd
-山东卫视,http://dp.sxtv.top:88/5c/bestv.php?id=sdws
-北京卫视,http://dp.sxtv.top:88/5c/bestv.php?id=bjws
-天津卫视,http://dp.sxtv.top:88/5c/bestv.php?id=tjws
-辽宁卫视,http://dp.sxtv.top:88/5c/bestv.php?id=lnws
-吉林卫视,http://dp.sxtv.top:88/5c/bestv.php?id=jlws
-黑龙江卫视,http://dp.sxtv.top:88/5c/bestv.php?id=hljws
-陕西卫视,http://dp.sxtv.top:88/5c/bestv.php?id=sxws
-山西卫视,http://dp.sxtv.top:88/5c/bestv.php?id=shanxi
-甘肃卫视,http://dp.sxtv.top:88/5c/bestv.php?id=gsws
-宁夏卫视,http://dp.sxtv.top:88/5c/bestv.php?id=nxws
-青海卫视,http://dp.sxtv.top:88/5c/bestv.php?id=qhws
-西藏卫视,http://dp.sxtv.top:88/5c/bestv.php?id=xzws
-新疆卫视,http://dp.sxtv.top:88/5c/bestv.php?id=xjws
-兵团卫视,http://dp.sxtv.top:88/5c/bestv.php?id=btws
-内蒙古卫视,http://dp.sxtv.top:88/5c/bestv.php?id=nmgws
-康巴卫视,http://dp.sxtv.top:88/5c/bestv.php?id=kbws
-卡酷少儿,http://dp.sxtv.top:88/5c/bestv.php?id=kkse
-金鹰卡通,http://dp.sxtv.top:88/5c/bestv.php?id=jykt
-哈哈炫动,http://dp.sxtv.top:88/5c/bestv.php?id=hhxd
-嘉佳卡通,http://dp.sxtv.top:88/5c/bestv.php?id=jjkt
-中国天气,http://dp.sxtv.top:88/5c/bestv.php?id=zgtq
-财富天下,http://dp.sxtv.top:88/5c/bestv.php?id=cftx
-茶频道,http://dp.sxtv.top:88/5c/bestv.php?id=cpd
-快乐垂钓,http://dp.sxtv.top:88/5c/bestv.php?id=klcd
-欢笑剧场4K,http://dp.sxtv.top:88/5c/bestv.php?id=hxjc
-欢笑剧场4K,http://dp.sxtv.top:88/5c/bestv.php?id=hxjc4k
-都市剧场,http://dp.sxtv.top:88/5c/bestv.php?id=dsjc
-动漫秀场,http://dp.sxtv.top:88/5c/bestv.php?id=dmxc
-乐游,http://dp.sxtv.top:88/5c/bestv.php?id=leyou
-游戏风云,http://dp.sxtv.top:88/5c/bestv.php?id=yxfy
-劲爆体育,http://dp.sxtv.top:88/5c/bestv.php?id=jbty
-魅力足球,http://dp.sxtv.top:88/5c/bestv.php?id=mlzq
-新视觉,http://dp.sxtv.top:88/5c/bestv.php?id=xsj
-法治天地,http://dp.sxtv.top:88/5c/bestv.php?id=fztd
-金色学堂,http://dp.sxtv.top:88/5c/bestv.php?id=jsxt
-七彩戏剧,http://dp.sxtv.top:88/5c/bestv.php?id=qcxj
-生活时尚,http://dp.sxtv.top:88/5c/bestv.php?id=shss
-东方财经,http://dp.sxtv.top:88/5c/bestv.php?id=dfcj
-星光影院,http://dp.sxtv.top:88/5c/bestv.php?id=xgyy
-谍战剧场,http://dp.sxtv.top:88/5c/bestv.php?id=dzjc
-华语影院,http://dp.sxtv.top:88/5c/bestv.php?id=hyyy
-全球大片,http://dp.sxtv.top:88/5c/bestv.php?id=qqdp
-热门剧场,http://dp.sxtv.top:88/5c/bestv.php?id=rmjc
-青春动漫,http://dp.sxtv.top:88/5c/bestv.php?id=qcdm
-宝宝动画,http://dp.sxtv.top:88/5c/bestv.php?id=bbdh
-电竞天堂,http://dp.sxtv.top:88/5c/bestv.php?id=djtt
-热门综艺,http://dp.sxtv.top:88/5c/bestv.php?id=rmzy
-健康养生,http://dp.sxtv.top:88/5c/bestv.php?id=jkys
-戏曲精选,http://dp.sxtv.top:88/5c/bestv.php?id=xqjx
-百变课堂,http://dp.sxtv.top:88/5c/bestv.php?id=bbkt
-看天下精选,http://dp.sxtv.top:88/5c/bestv.php?id=ktxjx
-东方影视,http://dp.sxtv.top:88/5c/bestv.php?id=dfys
-纪实人文,http://dp.sxtv.top:88/5c/bestv.php?id=jsrw
-金鹰纪实,http://dp.sxtv.top:88/5c/bestv.php?id=jyjs
-北京纪实科教,http://dp.sxtv.top:88/5c/bestv.php?id=bjjskj
-五星体育,http://dp.sxtv.top:88/5c/bestv.php?id=wxty
-第一财经,http://dp.sxtv.top:88/5c/bestv.php?id=dycj
-海峡卫视,http://dp.sxtv.top:88/5c/bestv.php?id=hxws
-东方购物,http://dp.sxtv.top:88/5c/bestv.php?id=dfgw
-福建电视剧,http://dp.sxtv.top:88/5c/bestv.php?id=fjdsj
-福建教育,http://dp.sxtv.top:88/5c/bestv.php?id=fjjy
-福建经济,http://dp.sxtv.top:88/5c/bestv.php?id=fjjj
-福建旅游,http://dp.sxtv.top:88/5c/bestv.php?id=fjly
-福建少儿,http://dp.sxtv.top:88/5c/bestv.php?id=fjse
-福建文体,http://dp.sxtv.top:88/5c/bestv.php?id=fjwt
-福建乡村振兴公共,http://dp.sxtv.top:88/5c/bestv.php?id=fjgg
-福建新闻,http://dp.sxtv.top:88/5c/bestv.php?id=fjxw
-福建综合,http://dp.sxtv.top:88/5c/bestv.php?id=fjzh
-浦东电视台,http://dp.sxtv.top:88/5c/bestv.php?id=pudong
-上海ICS,http://dp.sxtv.top:88/5c/bestv.php?id=shics
-上海都市,http://dp.sxtv.top:88/5c/bestv.php?id=shds
-上海教育,http://dp.sxtv.top:88/5c/bestv.php?id=shjy
-上海新闻综合,http://dp.sxtv.top:88/5c/bestv.php?id=shxwzh
-西藏藏语,http://dp.sxtv.top:88/5c/bestv.php?id=xzzy
-空中课堂一年级,http://dp.sxtv.top:88/5c/bestv.php?id=kzkt1
-空中课堂二年级,http://dp.sxtv.top:88/5c/bestv.php?id=kzkt2
-空中课堂三年级,http://dp.sxtv.top:88/5c/bestv.php?id=kzkt3
-空中课堂四年级,http://dp.sxtv.top:88/5c/bestv.php?id=kzkt4
-空中课堂五年级,http://dp.sxtv.top:88/5c/bestv.php?id=kzkt5
-空中课堂六年级,http://dp.sxtv.top:88/5c/bestv.php?id=kzkt6
-空中课堂七年级,http://dp.sxtv.top:88/5c/bestv.php?id=kzkt7
-空中课堂八年级,http://dp.sxtv.top:88/5c/bestv.php?id=kzkt8
-空中课堂九年级,http://dp.sxtv.top:88/5c/bestv.php?id=kzkt9
-空中课堂高一,http://dp.sxtv.top:88/5c/bestv.php?id=kzktg1
-空中课堂高二,http://dp.sxtv.top:88/5c/bestv.php?id=kzktg2
-空中课堂高三,http://dp.sxtv.top:88/5c/bestv.php?id=kzktg3
-
-咪咕,#genre#
-CCTV1综合,http://dp.sxtv.top:88/5c/migu.php?id=cctv1
-CCTV2财经,http://dp.sxtv.top:88/5c/migu.php?id=cctv2
-CCTV3综艺,http://dp.sxtv.top:88/5c/migu.php?id=cctv3
-CCTV4中文国际,http://dp.sxtv.top:88/5c/migu.php?id=cctv4
-CCTV4美洲,http://dp.sxtv.top:88/5c/migu.php?id=cctv4a
-CCTV4欧洲,http://dp.sxtv.top:88/5c/migu.php?id=cctv4o
-CCTV5体育,http://dp.sxtv.top:88/5c/migu.php?id=cctv5
-CCTV5+体育赛事,http://dp.sxtv.top:88/5c/migu.php?id=cctv5p
-CCTV6电影,http://dp.sxtv.top:88/5c/migu.php?id=cctv6
-CCTV7国防军事,http://dp.sxtv.top:88/5c/migu.php?id=cctv7
-CCTV8电视剧,http://dp.sxtv.top:88/5c/migu.php?id=cctv8
-CCTV9纪录,http://dp.sxtv.top:88/5c/migu.php?id=cctv9
-CCTV10科教,http://dp.sxtv.top:88/5c/migu.php?id=cctv10
-CCTV11戏曲,http://dp.sxtv.top:88/5c/migu.php?id=cctv11
-CCTV12社会与法,http://dp.sxtv.top:88/5c/migu.php?id=cctv12
-CCTV13新闻,http://dp.sxtv.top:88/5c/migu.php?id=cctv13
-CCTV14少儿,http://dp.sxtv.top:88/5c/migu.php?id=cctv14
-CCTV15音乐,http://dp.sxtv.top:88/5c/migu.php?id=cctv15
-CCTV17农业农村,http://dp.sxtv.top:88/5c/migu.php?id=cctv17
-CCTV发现之旅,http://dp.sxtv.top:88/5c/migu.php?id=fxzl
-CCTV老故事,http://dp.sxtv.top:88/5c/migu.php?id=lgs
-CCTV中学生,http://dp.sxtv.top:88/5c/migu.php?id=zxs
-CGTN,http://dp.sxtv.top:88/5c/migu.php?id=cgtn
-CGTN纪录,http://dp.sxtv.top:88/5c/migu.php?id=cgtnjl
-CCTV西班牙语,http://dp.sxtv.top:88/5c/migu.php?id=cgtne
-CCTV法语,http://dp.sxtv.top:88/5c/migu.php?id=cgtnf
-CCTV阿拉伯语,http://dp.sxtv.top:88/5c/migu.php?id=cgtna
-CCTV俄语,http://dp.sxtv.top:88/5c/migu.php?id=cgtnr
-东方卫视x,http://dp.sxtv.top:88/5c/migu.php?id=dfws
-重庆卫视,http://dp.sxtv.top:88/5c/migu.php?id=cqws
-吉林卫视,http://dp.sxtv.top:88/5c/migu.php?id=jlws
-辽宁卫视,http://dp.sxtv.top:88/5c/migu.php?id=lnws
-内蒙古卫视,http://dp.sxtv.top:88/5c/migu.php?id=nmws
-宁夏卫视x,http://dp.sxtv.top:88/5c/migu.php?id=nxws
-甘肃卫视,http://dp.sxtv.top:88/5c/migu.php?id=gsws
-青海卫视,http://dp.sxtv.top:88/5c/migu.php?id=qhws
-陕西卫视,http://dp.sxtv.top:88/5c/migu.php?id=sxws
-山东卫视,http://dp.sxtv.top:88/5c/migu.php?id=sdws
-河南卫视,http://dp.sxtv.top:88/5c/migu.php?id=hnws
-湖北卫视,http://dp.sxtv.top:88/5c/migu.php?id=hubws
-湖南卫视x,http://dp.sxtv.top:88/5c/migu.php?id=hunws
-江西卫视,http://dp.sxtv.top:88/5c/migu.php?id=jxws
-江苏卫视,http://dp.sxtv.top:88/5c/migu.php?id=jsws
-东南卫视x,http://dp.sxtv.top:88/5c/migu.php?id=dnws
-海峡卫视,http://dp.sxtv.top:88/5c/migu.php?id=hxws
-广东卫视x,http://dp.sxtv.top:88/5c/migu.php?id=gdws
-大湾区卫视,http://dp.sxtv.top:88/5c/migu.php?id=dwqws
-广西卫视,http://dp.sxtv.top:88/5c/migu.php?id=gxws
-云南卫视,http://dp.sxtv.top:88/5c/migu.php?id=ynws
-贵州卫视,http://dp.sxtv.top:88/5c/migu.php?id=gzws
-新疆卫视,http://dp.sxtv.top:88/5c/migu.php?id=xjws
-西藏卫视,http://dp.sxtv.top:88/5c/migu.php?id=xzws
-海南卫视,http://dp.sxtv.top:88/5c/migu.php?id=hinws
-四海钓鱼,http://dp.sxtv.top:88/5c/migu.php?id=shdy
-CHC动作电影,http://dp.sxtv.top:88/5c/migu.php?id=chcdzdy
-CHC家庭影院,http://dp.sxtv.top:88/5c/migu.php?id=chcjtdy
-东方影视,http://dp.sxtv.top:88/5c/migu.php?id=dfys
-上海新闻综合,http://dp.sxtv.top:88/5c/migu.php?id=shxwzh
-上海第一财经,http://dp.sxtv.top:88/5c/migu.php?id=dycj
-上视纪实人文,http://dp.sxtv.top:88/5c/migu.php?id=shjsrw
-上海外语,http://dp.sxtv.top:88/5c/migu.php?id=shics
-法治天地,http://dp.sxtv.top:88/5c/migu.php?id=fztd
-劲爆体育,http://dp.sxtv.top:88/5c/migu.php?id=jbty
-魅力足球,http://dp.sxtv.top:88/5c/migu.php?id=mlzq
-乐游,http://dp.sxtv.top:88/5c/migu.php?id=ly
-欢笑剧场,http://dp.sxtv.top:88/5c/migu.php?id=hxjc
-七彩戏剧,http://dp.sxtv.top:88/5c/migu.php?id=qcxj
-游戏风云,http://dp.sxtv.top:88/5c/migu.php?id=yxfy
-临洮电视台,http://dp.sxtv.top:88/5c/migu.php?id=lttv
-江苏城市,http://dp.sxtv.top:88/5c/migu.php?id=jscs
-江苏综艺,http://dp.sxtv.top:88/5c/migu.php?id=jszy
-江苏影视,http://dp.sxtv.top:88/5c/migu.php?id=jsys
-江苏公共新闻,http://dp.sxtv.top:88/5c/migu.php?id=jsggxw
-江苏国际,http://dp.sxtv.top:88/5c/migu.php?id=jsgj
-江苏教育,http://dp.sxtv.top:88/5c/migu.php?id=jsjy
-江苏体育休闲,http://dp.sxtv.top:88/5c/migu.php?id=jstyxx
-优漫卡通,http://dp.sxtv.top:88/5c/migu.php?id=ymkt
-南京新闻综合,http://dp.sxtv.top:88/5c/migu.php?id=njxwzh
-南京教科,http://dp.sxtv.top:88/5c/migu.php?id=njkj
-南京十八,http://dp.sxtv.top:88/5c/migu.php?id=njsb
-淮安新闻综合,http://dp.sxtv.top:88/5c/migu.php?id=haxwzh
-连云港新闻综合,http://dp.sxtv.top:88/5c/migu.php?id=lygxwzh
-苏州新闻综合,http://dp.sxtv.top:88/5c/migu.php?id=szxwzh
-泰州新闻综合,http://dp.sxtv.top:88/5c/migu.php?id=tzxwzh
-宿迁新闻综合,http://dp.sxtv.top:88/5c/migu.php?id=sqxwzh
-徐州新闻综合,http://dp.sxtv.top:88/5c/migu.php?id=xzxwzh
-广东影视,http://dp.sxtv.top:88/5c/migu.php?id=gdys
-嘉佳卡通,http://dp.sxtv.top:88/5c/migu.php?id=jjkt
-24小时亚洲杯频道,http://dp.sxtv.top:88/5c/migu.php?id=24hyzb
-CBA经典,http://dp.sxtv.top:88/5c/migu.php?id=cbajd
-掼蛋精英赛,http://dp.sxtv.top:88/5c/migu.php?id=gdjys
-高清大片,http://dp.sxtv.top:88/5c/migu.php?id=gqdp
-和平精英赛事,http://dp.sxtv.top:88/5c/migu.php?id=hpjxss
-红色轮播台,http://dp.sxtv.top:88/5c/migu.php?id=hslbt
-经典动画大集合,http://dp.sxtv.top:88/5c/migu.php?id=jddhdjh
-经典深圳旁边电影,http://dp.sxtv.top:88/5c/migu.php?id=jdxgdy
-军事迷必看大片,http://dp.sxtv.top:88/5c/migu.php?id=jsdp
-历届春晚回顾,http://dp.sxtv.top:88/5c/migu.php?id=ljcwhg
-咪咕24小时体育台,http://dp.sxtv.top:88/5c/migu.php?id=mg24hty
-玫瑰轮播台,http://dp.sxtv.top:88/5c/migu.php?id=mglbt
-NBA经典,http://dp.sxtv.top:88/5c/migu.php?id=nbajd
-欧洲足球风云,http://dp.sxtv.top:88/5c/migu.php?id=ozzqfy
-全民乒乓,http://dp.sxtv.top:88/5c/migu.php?id=qmpp
-热剧联播,http://dp.sxtv.top:88/5c/migu.php?id=rjlb
-赛事最经典,http://dp.sxtv.top:88/5c/migu.php?id=sszjd
-体坛名栏汇,http://dp.sxtv.top:88/5c/migu.php?id=ttmlh
-UFC格斗精选,http://dp.sxtv.top:88/5c/migu.php?id=ufcgdjx
-五大联赛经典,http://dp.sxtv.top:88/5c/migu.php?id=wdlsjd
-乡村振兴,http://dp.sxtv.top:88/5c/migu.php?id=xczx
-幸福中国年,http://dp.sxtv.top:88/5c/migu.php?id=xfzgn
-新片放映厅,http://dp.sxtv.top:88/5c/migu.php?id=xpfyt
-英雄联盟赛事,http://dp.sxtv.top:88/5c/migu.php?id=yxlmss
-周杰伦现场,http://dp.sxtv.top:88/5c/migu.php?id=zjlxc
-最强综艺趴,http://dp.sxtv.top:88/5c/migu.php?id=zqzyp
-熊猫01高清,http://dp.sxtv.top:88/5c/migu.php?id=xmpd
-熊猫1,http://dp.sxtv.top:88/5c/migu.php?id=xm1
-熊猫2,http://dp.sxtv.top:88/5c/migu.php?id=xm2
-熊猫3,http://dp.sxtv.top:88/5c/migu.php?id=xm3
-熊猫4,http://dp.sxtv.top:88/5c/migu.php?id=xm4
-熊猫5,http://dp.sxtv.top:88/5c/migu.php?id=xm5
-熊猫6,http://dp.sxtv.top:88/5c/migu.php?id=xm6
-熊猫7,http://dp.sxtv.top:88/5c/migu.php?id=xm7
-熊猫8,http://dp.sxtv.top:88/5c/migu.php?id=xm8
-熊猫9,http://dp.sxtv.top:88/5c/migu.php?id=xm9
-熊猫10,http://dp.sxtv.top:88/5c/migu.php?id=xm10
-龙胜龙脊梯田,http://dp.sxtv.top:88/5c/migu.php?id=lsljtt
-大藤峡,http://dp.sxtv.top:88/5c/migu.php?id=dtx
-邕城,http://dp.sxtv.top:88/5c/migu.php?id=yc
-遇龙河,http://dp.sxtv.top:88/5c/migu.php?id=ylh
-开封金明广场,http://dp.sxtv.top:88/5c/migu.php?id=kfjmgc
-开封清明上河园西门,http://dp.sxtv.top:88/5c/migu.php?id=kfqmshyxm
-开封连霍高速路口,http://dp.sxtv.top:88/5c/migu.php?id=kflhgsgl
-开封鼓楼,http://dp.sxtv.top:88/5c/migu.php?id=kfgl
-武汉光谷,http://dp.sxtv.top:88/5c/migu.php?id=whgg
-武汉江汉关,http://dp.sxtv.top:88/5c/migu.php?id=whjhg
-武汉黄鹤楼,http://dp.sxtv.top:88/5c/migu.php?id=whhhl
-
-亦非云,#genre#
-CCTV1综合,http://dp.sxtv.top:88/5c/yfy.php?id=1
-CCTV2财经,http://dp.sxtv.top:88/5c/yfy.php?id=2
-CCTV3综艺,http://dp.sxtv.top:88/5c/yfy.php?id=3
-CCTV4中文国际,http://dp.sxtv.top:88/5c/yfy.php?id=4
-CCTV5体育,http://dp.sxtv.top:88/5c/yfy.php?id=5
-CCTV5+体育赛事,http://dp.sxtv.top:88/5c/yfy.php?id=13
-CCTV6电影,http://dp.sxtv.top:88/5c/yfy.php?id=6
-CCTV7国防军事,http://dp.sxtv.top:88/5c/yfy.php?id=7
-CCTV8电视剧,http://dp.sxtv.top:88/5c/yfy.php?id=8
-CCTV9纪录,http://dp.sxtv.top:88/5c/yfy.php?id=9
-CCTV10科教,http://dp.sxtv.top:88/5c/yfy.php?id=10
-CCTV11戏曲,http://dp.sxtv.top:88/5c/yfy.php?id=41
-CCTV12社会与法,http://dp.sxtv.top:88/5c/yfy.php?id=11
-CCTV13新闻,http://dp.sxtv.top:88/5c/yfy.php?id=39
-CCTV14少儿,http://dp.sxtv.top:88/5c/yfy.php?id=12
-CCTV15音乐,http://dp.sxtv.top:88/5c/yfy.php?id=40
-CCTV16奥林匹克,http://dp.sxtv.top:88/5c/yfy.php?id=116
-CCTV17农业农村,http://dp.sxtv.top:88/5c/yfy.php?id=90
-CGTN纪录,http://dp.sxtv.top:88/5c/yfy.php?id=14
-CGTN,http://dp.sxtv.top:88/5c/yfy.php?id=15
-CETV1中教1台,http://dp.sxtv.top:88/5c/yfy.php?id=33
-CETV4中教4台,http://dp.sxtv.top:88/5c/yfy.php?id=38
-广东卫视,http://dp.sxtv.top:88/5c/yfy.php?id=16
-深圳卫视,http://dp.sxtv.top:88/5c/yfy.php?id=17
-江苏卫视,http://dp.sxtv.top:88/5c/yfy.php?id=18
-浙江卫视,http://dp.sxtv.top:88/5c/yfy.php?id=19
-吉林卫视,http://dp.sxtv.top:88/5c/yfy.php?id=20
-湖北卫视,http://dp.sxtv.top:88/5c/yfy.php?id=21
-江西卫视,http://dp.sxtv.top:88/5c/yfy.php?id=22
-安徽卫视,http://dp.sxtv.top:88/5c/yfy.php?id=23
-北京卫视,http://dp.sxtv.top:88/5c/yfy.php?id=24
-湖南卫视,http://dp.sxtv.top:88/5c/yfy.php?id=25
-东方卫视,http://dp.sxtv.top:88/5c/yfy.php?id=26
-黑龙江卫视,http://dp.sxtv.top:88/5c/yfy.php?id=27
-天津卫视,http://dp.sxtv.top:88/5c/yfy.php?id=28
-山东卫视,http://dp.sxtv.top:88/5c/yfy.php?id=29
-贵州卫视,http://dp.sxtv.top:88/5c/yfy.php?id=30
-四川卫视,http://dp.sxtv.top:88/5c/yfy.php?id=31
-辽宁卫视,http://dp.sxtv.top:88/5c/yfy.php?id=32
-广东体育,http://dp.sxtv.top:88/5c/yfy.php?id=34
-蛇口电视台,http://dp.sxtv.top:88/5c/yfy.php?id=37
-深圳宜和购物,http://dp.sxtv.top:88/5c/yfy.php?id=42
-广东民生,http://dp.sxtv.top:88/5c/yfy.php?id=45
-深圳都市,http://dp.sxtv.top:88/5c/yfy.php?id=46
-深圳电视剧,http://dp.sxtv.top:88/5c/yfy.php?id=47
-深圳财经生活,http://dp.sxtv.top:88/5c/yfy.php?id=48
-深圳娱乐,http://dp.sxtv.top:88/5c/yfy.php?id=49
-深圳体育健康,http://dp.sxtv.top:88/5c/yfy.php?id=50
-深圳少儿,http://dp.sxtv.top:88/5c/yfy.php?id=51
-深圳公共,http://dp.sxtv.top:88/5c/yfy.php?id=52
-优漫卡通,http://dp.sxtv.top:88/5c/yfy.php?id=53
-山西卫视,http://dp.sxtv.top:88/5c/yfy.php?id=54
-陕西卫视,http://dp.sxtv.top:88/5c/yfy.php?id=55
-重庆卫视,http://dp.sxtv.top:88/5c/yfy.php?id=56
-甘肃卫视,http://dp.sxtv.top:88/5c/yfy.php?id=57
-大湾区卫视,http://dp.sxtv.top:88/5c/yfy.php?id=58
-广西卫视,http://dp.sxtv.top:88/5c/yfy.php?id=59
-青海卫视,http://dp.sxtv.top:88/5c/yfy.php?id=60
-云南卫视,http://dp.sxtv.top:88/5c/yfy.php?id=61
-海南卫视,http://dp.sxtv.top:88/5c/yfy.php?id=62
-广东少儿,http://dp.sxtv.top:88/5c/yfy.php?id=63
-新疆卫视,http://dp.sxtv.top:88/5c/yfy.php?id=64
-广东珠江,http://dp.sxtv.top:88/5c/yfy.php?id=65
-西藏卫视,http://dp.sxtv.top:88/5c/yfy.php?id=66
-兵团卫视,http://dp.sxtv.top:88/5c/yfy.php?id=67
-宁夏卫视,http://dp.sxtv.top:88/5c/yfy.php?id=69
-河南卫视,http://dp.sxtv.top:88/5c/yfy.php?id=78
-河北卫视,http://dp.sxtv.top:88/5c/yfy.php?id=79
-东南卫视,http://dp.sxtv.top:88/5c/yfy.php?id=80
-金鹰卡通,http://dp.sxtv.top:88/5c/yfy.php?id=81
-内蒙古卫视,http://dp.sxtv.top:88/5c/yfy.php?id=93
-北京纪实科教,http://dp.sxtv.top:88/5c/yfy.php?id=11001
-卡酷少儿,http://dp.sxtv.top:88/5c/yfy.php?id=11003
-车迷频道,http://dp.sxtv.top:88/5c/yfy.php?id=11004
-环球旅游,http://dp.sxtv.top:88/5c/yfy.php?id=11005
-中国天气,http://dp.sxtv.top:88/5c/yfy.php?id=11006
-优优宝贝,http://dp.sxtv.top:88/5c/yfy.php?id=11007
-聚鲨环球精选,http://dp.sxtv.top:88/5c/yfy.php?id=11008
-书画频道,http://dp.sxtv.top:88/5c/yfy.php?id=11009
-央广购物,http://dp.sxtv.top:88/5c/yfy.php?id=11011
-河北三佳购物,http://dp.sxtv.top:88/5c/yfy.php?id=12001
-河南梨园,http://dp.sxtv.top:88/5c/yfy.php?id=13001
-河北杂技,http://dp.sxtv.top:88/5c/yfy.php?id=13002
-河北经济生活,http://dp.sxtv.top:88/5c/yfy.php?id=13003
-河北农民,http://dp.sxtv.top:88/5c/yfy.php?id=13004
-河北都市,http://dp.sxtv.top:88/5c/yfy.php?id=13005
-河北影视剧,http://dp.sxtv.top:88/5c/yfy.php?id=13006
-河北少儿科教,http://dp.sxtv.top:88/5c/yfy.php?id=13007
-河北公共,http://dp.sxtv.top:88/5c/yfy.php?id=13008
-邯郸新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=13009
-河北收视指南,http://dp.sxtv.top:88/5c/yfy.php?id=13010
-石家庄娱乐,http://dp.sxtv.top:88/5c/yfy.php?id=13011
-石家庄生活,http://dp.sxtv.top:88/5c/yfy.php?id=13012
-石家庄都市,http://dp.sxtv.top:88/5c/yfy.php?id=13013
-石家庄新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=13014
-唐山新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=13110
-唐山生活服务,http://dp.sxtv.top:88/5c/yfy.php?id=13111
-唐山影视,http://dp.sxtv.top:88/5c/yfy.php?id=13112
-唐山公共,http://dp.sxtv.top:88/5c/yfy.php?id=13113
-家庭理财,http://dp.sxtv.top:88/5c/yfy.php?id=21001
-家有购物,http://dp.sxtv.top:88/5c/yfy.php?id=22002
-北京纪实科教,http://dp.sxtv.top:88/5c/yfy.php?id=22030
-聚鲨环球精选2,http://dp.sxtv.top:88/5c/yfy.php?id=32010
-山东教育卫视,http://dp.sxtv.top:88/5c/yfy.php?id=37001
-中华美食,http://dp.sxtv.top:88/5c/yfy.php?id=37002
-河南都市,http://dp.sxtv.top:88/5c/yfy.php?id=41101
-河南民生,http://dp.sxtv.top:88/5c/yfy.php?id=41102
-河南法治,http://dp.sxtv.top:88/5c/yfy.php?id=41103
-河南电视剧,http://dp.sxtv.top:88/5c/yfy.php?id=41104
-河南新闻,http://dp.sxtv.top:88/5c/yfy.php?id=41105
-河南公共,http://dp.sxtv.top:88/5c/yfy.php?id=41106
-河南乡村,http://dp.sxtv.top:88/5c/yfy.php?id=41107
-河南睛彩中原,http://dp.sxtv.top:88/5c/yfy.php?id=41108
-河南移动戏曲,http://dp.sxtv.top:88/5c/yfy.php?id=41109
-河南功夫,http://dp.sxtv.top:88/5c/yfy.php?id=41110
-河南收藏天下,http://dp.sxtv.top:88/5c/yfy.php?id=41111
-郑州新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41112
-周口新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41113
-开封新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41114
-洛阳新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41115
-平顶山新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41116
-安阳新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41117
-鹤壁新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41118
-新乡新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41119
-焦作新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41120
-濮阳新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41121
-许昌综合,http://dp.sxtv.top:88/5c/yfy.php?id=41122
-漯河新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41123
-三门峡新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41124
-商丘新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41125
-驻马店新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41126
-南阳新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41127
-信阳新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=41128
-济源1套,http://dp.sxtv.top:88/5c/yfy.php?id=41129
-长城铝综合,http://dp.sxtv.top:88/5c/yfy.php?id=41130
-嘉佳卡通,http://dp.sxtv.top:88/5c/yfy.php?id=41133
-东方财经,http://dp.sxtv.top:88/5c/yfy.php?id=41135
-兰铁TV,http://dp.sxtv.top:88/5c/yfy.php?id=41136
-人民铁道,http://dp.sxtv.top:88/5c/yfy.php?id=41137
-湖南教育,http://dp.sxtv.top:88/5c/yfy.php?id=43021
-湖南经视,http://dp.sxtv.top:88/5c/yfy.php?id=43024
-金鹰卡通,http://dp.sxtv.top:88/5c/yfy.php?id=43025
-湖南娱乐,http://dp.sxtv.top:88/5c/yfy.php?id=43027
-湖南都市,http://dp.sxtv.top:88/5c/yfy.php?id=43028
-湖南电影,http://dp.sxtv.top:88/5c/yfy.php?id=43029
-湖南电视剧,http://dp.sxtv.top:88/5c/yfy.php?id=43030
-快乐购,http://dp.sxtv.top:88/5c/yfy.php?id=43032
-四海钓鱼,http://dp.sxtv.top:88/5c/yfy.php?id=43036
-劲爆体育,http://dp.sxtv.top:88/5c/yfy.php?id=43038
-欢笑剧场,http://dp.sxtv.top:88/5c/yfy.php?id=43039
-乐游,http://dp.sxtv.top:88/5c/yfy.php?id=43040
-游戏风云,http://dp.sxtv.top:88/5c/yfy.php?id=43041
-生活时尚,http://dp.sxtv.top:88/5c/yfy.php?id=43043
-动漫秀场,http://dp.sxtv.top:88/5c/yfy.php?id=43045
-CHC高清电影,http://dp.sxtv.top:88/5c/yfy.php?id=43063
-湖南爱晚,http://dp.sxtv.top:88/5c/yfy.php?id=43080
-新视觉,http://dp.sxtv.top:88/5c/yfy.php?id=43082
-魅力足球,http://dp.sxtv.top:88/5c/yfy.php?id=43083
-劲爆体育,http://dp.sxtv.top:88/5c/yfy.php?id=43084
-都市剧场,http://dp.sxtv.top:88/5c/yfy.php?id=43085
-金鹰纪实,http://dp.sxtv.top:88/5c/yfy.php?id=43087
-益阳新闻综合,http://dp.sxtv.top:88/5c/yfy.php?id=43088
-益阳教育,http://dp.sxtv.top:88/5c/yfy.php?id=43089
-益阳公共,http://dp.sxtv.top:88/5c/yfy.php?id=43090
-湖南都市,http://dp.sxtv.top:88/5c/yfy.php?id=43094
-湖南电影,http://dp.sxtv.top:88/5c/yfy.php?id=43098
-
-
-重庆有线,#genre#
-CCTV1综合,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv1
-CCTV2财经,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv2
-CCTV3综艺,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv3
-CCTV4中文国际,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv4
-CCTV5体育,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv5
-CCTV5+体育赛事,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv5p
-CCTV6电影,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv6
-CCTV7国防军事,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv7
-CCTV8电视剧,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv8
-CCTV9纪录,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv9
-CCTV10科教,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv10
-CCTV11戏曲,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv11
-CCTV12社会与法,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv12
-CCTV13新闻,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv13
-CCTV14少儿,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv14
-CCTV15音乐,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv15
-CCTV16奥林匹克,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv16
-CCTV17农业农村,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv17
-CCTV4K 高清,http://dp.sxtv.top:88/5c/cqyx.php?id=cctv4k
-CCTV兵器科技,http://dp.sxtv.top:88/5c/cqyx.php?id=bqkj
-CCTV第一剧场,http://dp.sxtv.top:88/5c/cqyx.php?id=dyjc
-CCTV怀旧剧场,http://dp.sxtv.top:88/5c/cqyx.php?id=hjjc
-CCTV风云剧场,http://dp.sxtv.top:88/5c/cqyx.php?id=fyjc
-CCTV风云音乐,http://dp.sxtv.top:88/5c/cqyx.php?id=fyyy
-CCTV风云足球,http://dp.sxtv.top:88/5c/cqyx.php?id=fyzq
-CCTV央视文化精品,http://dp.sxtv.top:88/5c/cqyx.php?id=whjp
-CCTV女性时尚,http://dp.sxtv.top:88/5c/cqyx.php?id=nxss
-CCTV高尔夫网球,http://dp.sxtv.top:88/5c/cqyx.php?id=gefwq
-CCTV央视台球,http://dp.sxtv.top:88/5c/cqyx.php?id=ystq
-CCTV央广购物,http://dp.sxtv.top:88/5c/cqyx.php?id=yggw
-CCTV中视购物,http://dp.sxtv.top:88/5c/cqyx.php?id=zsgw
-中学生,http://dp.sxtv.top:88/5c/cqyx.php?id=zxs
-发现之旅,http://dp.sxtv.top:88/5c/cqyx.php?id=fxzl
-老故事,http://dp.sxtv.top:88/5c/cqyx.php?id=lgs
-书画,http://dp.sxtv.top:88/5c/cqyx.php?id=sh
-中国天气,http://dp.sxtv.top:88/5c/cqyx.php?id=zgtq
-CGTN,http://dp.sxtv.top:88/5c/cqyx.php?id=cgtn
-CETV1中教1台,http://dp.sxtv.top:88/5c/cqyx.php?id=cetv1
-CETV4中教4台,http://dp.sxtv.top:88/5c/cqyx.php?id=cetv4
-CETV早期教育,http://dp.sxtv.top:88/5c/cqyx.php?id=zqjy
-CHC高清电影,http://dp.sxtv.top:88/5c/cqyx.php?id=chcgq
-CHC动作电影,http://dp.sxtv.top:88/5c/cqyx.php?id=chcdz
-CHC家庭影院,http://dp.sxtv.top:88/5c/cqyx.php?id=chcjt
-北京卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=bjws
-东方卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=dfws
-天津卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=tjws
-重庆卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=cqws
-黑龙江卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=hljws
-吉林卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=jlws
-辽宁卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=lnws
-内蒙古卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=nmws
-宁夏卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=nxws
-青海卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=qhws
-河北卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=hbws
-山西卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=sxiws
-安徽卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=ahws
-河南卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=hnws
-湖北卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=hubws
-湖南卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=hunws
-江西卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=jxws
-江苏卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=jsws
-浙江卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=zjws
-东南卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=dnws
-广东卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=gdws
-深圳卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=szws
-广西卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=gxws
-云南卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=ynws
-贵州卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=gzws
-四川卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=scws
-新疆卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=xjws
-兵团卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=btws
-西藏卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=xzws
-海南卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=hinws
-三沙卫视,http://dp.sxtv.top:88/5c/cqyx.php?id=ssws
-北京纪实科教,http://dp.sxtv.top:88/5c/cqyx.php?id=bjjskj
-北京卡酷,http://dp.sxtv.top:88/5c/cqyx.php?id=bjkk
-中华特产,http://dp.sxtv.top:88/5c/cqyx.php?id=zhtc
-生态环境,http://dp.sxtv.top:88/5c/cqyx.php?id=sthj
-四海钓鱼,http://dp.sxtv.top:88/5c/cqyx.php?id=shdy
-车迷频道,http://dp.sxtv.top:88/5c/cqyx.php?id=cmpd
-百姓健康,http://dp.sxtv.top:88/5c/cqyx.php?id=bxjk
-环球奇观,http://dp.sxtv.top:88/5c/cqyx.php?id=hqqg
-环球旅游,http://dp.sxtv.top:88/5c/cqyx.php?id=hqly
-优优宝贝,http://dp.sxtv.top:88/5c/cqyx.php?id=yybb
-聚鲨环球精选,http://dp.sxtv.top:88/5c/cqyx.php?id=jshwjx
-东方财经,http://dp.sxtv.top:88/5c/cqyx.php?id=dfcj
-欢笑剧场,http://dp.sxtv.top:88/5c/cqyx.php?id=hxjc
-都市剧场,http://dp.sxtv.top:88/5c/cqyx.php?id=dsjc
-魅力足球,http://dp.sxtv.top:88/5c/cqyx.php?id=mlxq
-动漫秀场,http://dp.sxtv.top:88/5c/cqyx.php?id=dmxc
-游戏风云,http://dp.sxtv.top:88/5c/cqyx.php?id=yxfy
-生活时尚,http://dp.sxtv.top:88/5c/cqyx.php?id=shss
-法治天地,http://dp.sxtv.top:88/5c/cqyx.php?id=fztd
-金色学堂,http://dp.sxtv.top:88/5c/cqyx.php?id=jsxt
-重庆新闻,http://dp.sxtv.top:88/5c/cqyx.php?id=cqxw
-重庆科教,http://dp.sxtv.top:88/5c/cqyx.php?id=cqkj
-重庆影视,http://dp.sxtv.top:88/5c/cqyx.php?id=cqys
-重庆文体娱乐,http://dp.sxtv.top:88/5c/cqyx.php?id=cqwtyl
-重庆少儿,http://dp.sxtv.top:88/5c/cqyx.php?id=cqse
-重庆时尚生活,http://dp.sxtv.top:88/5c/cqyx.php?id=cqsssh
-重庆新农村,http://dp.sxtv.top:88/5c/cqyx.php?id=cqxnc
-重庆社会与法,http://dp.sxtv.top:88/5c/cqyx.php?id=cqshyf
-重庆移动,http://dp.sxtv.top:88/5c/cqyx.php?id=cqyd
-重庆汽摩,http://dp.sxtv.top:88/5c/cqyx.php?id=cqqm
-重广融媒,http://dp.sxtv.top:88/5c/cqyx.php?id=cgrm
-爱看导视,http://dp.sxtv.top:88/5c/cqyx.php?id=akds
-合川综合,http://dp.sxtv.top:88/5c/cqyx.php?id=hczh
-长寿综合,http://dp.sxtv.top:88/5c/cqyx.php?id=cszh
-酉阳综合,http://dp.sxtv.top:88/5c/cqyx.php?id=yyzh
-云阳综合,http://dp.sxtv.top:88/5c/cqyx.php?id=yunyzh
-铜梁综合,http://dp.sxtv.top:88/5c/cqyx.php?id=tlzh
-家有购物,http://dp.sxtv.top:88/5c/cqyx.php?id=jygw
-新动漫,http://dp.sxtv.top:88/5c/cqyx.php?id=xdm
-证券服务,http://dp.sxtv.top:88/5c/cqyx.php?id=zqfw
-山东教育,http://dp.sxtv.top:88/5c/cqyx.php?id=sdjy
-收藏天下,http://dp.sxtv.top:88/5c/cqyx.php?id=sctx
-国学频道,http://dp.sxtv.top:88/5c/cqyx.php?id=gxpd
-快乐垂钓,http://dp.sxtv.top:88/5c/cqyx.php?id=klcd
-金鹰卡通,http://dp.sxtv.top:88/5c/cqyx.php?id=jykt
-先锋乒羽,http://dp.sxtv.top:88/5c/cqyx.php?id=xfpy
-风尚购物,http://dp.sxtv.top:88/5c/cqyx.php?id=fsgw
-财富天下,http://dp.sxtv.top:88/5c/cqyx.php?id=cftx
-天元围棋,http://dp.sxtv.top:88/5c/cqyx.php?id=tywq
-摄影频道,http://dp.sxtv.top:88/5c/cqyx.php?id=sypd
-求索纪录,http://dp.sxtv.top:88/5c/cqyx.php?id=qsjl
-重温经典,http://dp.sxtv.top:88/5c/cqyx.php?id=cwjd
 
 
 咪咕V6,#genre#
@@ -929,6 +532,7 @@ CCTV17,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 咪咕足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 西安新闻综合,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
+
 
 龙江IPV6,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -999,51 +603,79 @@ NewTv 精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PL
 NewTv 精品体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 NewTv 精品大剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 NewTv 精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-咪咕直播4K Ⅰ,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-咪咕直播4K Ⅱ,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
-咪咕直播 1*,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕直播 2*,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕直播 3*,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕直播 4*,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-咪咕直播 1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-咪咕直播 2,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
-咪咕直播 3,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-咪咕直播 4,http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-咪咕直播 5,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-咪咕直播 6,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-咪咕直播 7,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-咪咕直播 8,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-咪咕直播 9,http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-咪咕直播 10,http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-咪咕直播 11,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-咪咕直播 12,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-咪咕直播 13,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-咪咕直播 14,http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-咪咕直播 15,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-咪咕直播 16,http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-咪咕直播 17,http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-咪咕直播 18,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-咪咕直播 19,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-咪咕直播 20,http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
-咪咕直播 21,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-咪咕直播 22,http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-咪咕直播 23,http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-咪咕直播 24,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-咪咕直播 25,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-咪咕直播 26,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-咪咕直播 27,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-咪咕直播 28,http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-咪咕直播 29,http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-咪咕直播 30,http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-咪咕直播 31,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-咪咕直播 32,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-咪咕直播 33,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-咪咕直播 34,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-咪咕直播 35,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-咪咕直播 36,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-咪咕直播 37,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-咪咕直播 38,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 
+重温🌟经典,#genre#
+封神榜86版,http://43.138.170.29:35455/yy/1353426319
+射雕英雄传83版,http://43.138.170.29:35455/yy/1354210357
+红楼梦87版,http://43.138.170.29:35455/yy/1382745084
+新三国演义10版,http://43.138.170.29:35455/yy/23512910
+天龙八部黄日华版,http://43.138.170.29:35455/yy/1351814644
+倚天屠龙记苏有朋版,http://43.138.170.29:35455/yy/1449856066
+铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
+康熙微服私访记,https://live.metshop.top/yy/1352811698
+大汉天子,https://live.metshop.top/yy/1382736807
+宰相刘罗锅,http://43.138.170.29:35455/yy/1382745191
+神医喜来乐,http://43.138.170.29:35455/yy/1382714119
+忠烈杨家将,https://live.metshop.top/yy/1382749909
+少年歌行,http://43.138.170.29:35455/yy/1450556636
+雪中悍刀行,http://43.138.170.29:35455/yy/1382660835
+鹊刀门传奇,http://43.138.170.29:35455/yy/1355344777
+花千骨,http://43.138.170.29:35455/yy/1354943110
+知否知否应是绿肥红瘦,http://43.138.170.29:35455/yy/21881901
+神探狄仁杰,http://43.138.170.29:35455/yy/1351755386
+仙剑奇侠传,http://43.138.170.29:35455/yy/1382749903
+武林外传,http://43.138.170.29:35455/yy/1355652820
+宝莲灯前传,http://43.138.170.29:35455/yy/1354931631
+西游记后传,http://43.138.170.29:35455/yy/1382736846
+济公游记,http://43.138.170.29:35455/yy/1355265814
+上海滩80版,http://43.138.170.29:35455/yy/1382745184
+新白娘子传奇,http://43.138.170.29:35455/yy/1354930969
+福贵,http://43.138.170.29:35455/yy/1354926537
+金婚,http://43.138.170.29:35455/yy/1382736832
+正阳门下,http://43.138.170.29:35455/yy/1354931580
+天道,https://live.metshop.top/yy/1382735574
+血色浪漫,http://43.138.170.29:35455/yy/1354926676
+情满四合院,http://43.138.170.29:35455/yy/1382736888
+永远一家人,http://43.138.170.29:35455/yy/1382736873
+回家的诱惑,http://43.138.170.29:35455/yy/1354658048
+粉红色女郎,http://43.138.170.29:35455/yy/1354888671
+放羊的星星,http://43.138.170.29:35455/yy/1355260662
+来自星星的你,http://43.138.170.29:35455/yy/1354930976
+大江大河,https://live.metshop.top/yy/1382736806
+大江大河2,https://live.metshop.top/yy/1382736797
+我的前半生,http://43.138.170.29:35455/yy/1382735564
+欢乐颂,http://43.138.170.29:35455/douyu/3756989
+好先生,http://43.138.170.29:35455/douyu/9650792
+我的体育老师,http://43.138.170.29:35455/yy/1382745169
+生逢灿烂的日子,http://43.138.170.29:35455/yy/1382745085
+狂飙,http://43.138.170.29:35455/yy/1355142167
+士兵突击,http://43.138.170.29:35455/yy/1382828766
+火蓝刀锋,http://43.138.170.29:35455/yy/1382737892
+我是特种兵,http://43.138.170.29:35455/yy/37999586
+特种兵火凤凰,http://43.138.170.29:35455/yy/1463088777
+地下交通站,http://43.138.170.29:35455/yy/37880083
+小兵张嘎,http://43.138.170.29:35455/yy/1354930225
+津门飞鹰,http://43.138.170.29:35455/yy/1354143942
+五号特工组,http://43.138.170.29:35455/yy/1507704566
+怪医文三块,http://43.138.170.29:35455/yy/1354936154
+二炮手,http://43.138.170.29:35455/yy/1354930964
+风筝,http://43.138.170.29:35455/yy/1354931585
+伪装者,http://43.138.170.29:35455/yy/1382851593
+叛逆者,https://live.metshop.top/yy/1382736868
+法证先锋Ⅰ,https://live.metshop.top/yy/1354930939
+谈判专家,https://live.metshop.top/yy/1382735560
+读心神探,https://live.metshop.top/yy/1382736875
+心理追凶,https://live.metshop.top/yy/1354936207
+刑事侦缉档案,http://cfss.cc/cdn/hy/23734169.flv
+创世纪,http://cfss.cc/cdn/hy/23749083.flv
+流金岁月,http://43.138.170.29:35455/yy/1382736891
+男亲女爱,http://43.138.170.29:35455/yy/1382736715
+溏心风暴之家好月圆,https://live.metshop.top/yy/1354888747
+金玉满堂,https://live.metshop.top/yy/1382736881
+天下第一,https://live.metshop.top/yy/1382736838
+宫心计,https://live.metshop.top/yy/1354932429
+寻秦记,http://43.138.170.29:35455/yy/1382749900
+西游记张卫健版,http://43.138.170.29:35455/yy/1354936155
 红色电影和戏曲,#genre#
 梁山伯与祝英台,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
 牛郎织女,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
@@ -1362,439 +994,930 @@ NewTv 精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PL
 电影迷小雅,https://www.goodiptv.club/douyu/9639225
 1900影剧室,https://www.goodiptv.club/douyu/7796193
 
-YY电影轮播,#genre#
-封神榜,https://lunbo.freetv.top/yy/1353426319
-过年了,https://lunbo.freetv.top/yy/1454553780
-神医喜来乐,https://lunbo.freetv.top/yy/1382714119
-德爷单挑荒野,https://lunbo.freetv.top/yy/27772604
-超喜剧地下交通站男神贾贵,https://lunbo.freetv.top/yy/1353428972
-纪晓岚,https://lunbo.freetv.top/yy/1354143978
-少年包青天1-3蓝光版,https://lunbo.freetv.top/yy/38498680
-鹿鼎记-高清全集,https://lunbo.freetv.top/yy/1382704650
-超级吓人鬼片 恐怖片,https://lunbo.freetv.top/yy/1355641195
-欢乐集结号-每天笑不停,https://lunbo.freetv.top/yy/1382741642
-【鹿鼎记】金庸经典,https://lunbo.freetv.top/yy/28265277
-雍正王朝 高清 护眼版,https://lunbo.freetv.top/yy/23206872
-进来 陪你看动漫,https://lunbo.freetv.top/yy/1352866135
-【战狼3吴京】独播,https://lunbo.freetv.top/yy/37999586
-绝版电影 600部,https://lunbo.freetv.top/yy/1382764593
-YY恐怖电影,https://lunbo.freetv.top/yy/24066336
-【动漫】斗罗斗破,https://lunbo.freetv.top/yy/1353098382
-神探狄仁杰,https://lunbo.freetv.top/yy/38338029
-【义+】+奈奈新正在直播,https://lunbo.freetv.top/yy/1462815850
-狄仁杰,https://lunbo.freetv.top/yy/1351755386
-【新三国】萌儿陪看,https://lunbo.freetv.top/yy/29216766
-英叔僵尸 3000部,https://lunbo.freetv.top/yy/1353685311
-知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
-康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
-情满四合院,https://lunbo.freetv.top/yy/30736888
-宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
-经典港片800部,https://lunbo.freetv.top/yy/1382800018
-少年包青天,https://lunbo.freetv.top/yy/1382651363
-【一代枭雄】24h,https://lunbo.freetv.top/yy/1355917294
-花儿开心吧,https://lunbo.freetv.top/yy/1354930984
-新三国,https://lunbo.freetv.top/yy/26744898
-武林外传,https://lunbo.freetv.top/yy/1353852605
-泡芙陪你看电影,https://lunbo.freetv.top/yy/24407222
-鹿鼎记-周星驰版,https://lunbo.freetv.top/yy/1354658049
-燕双鹰,https://lunbo.freetv.top/yy/1354143942
-66车讯,https://lunbo.freetv.top/yy/1382571192
-速度与激情全集,https://lunbo.freetv.top/yy/1382749892
-燕双鹰系列,https://lunbo.freetv.top/yy/1457622044
-【老九门】首播,https://lunbo.freetv.top/yy/1353877164
-燕双鹰,https://lunbo.freetv.top/yy/1352227153
-西游记后传 蓝光,https://lunbo.freetv.top/yy/1353392400
-新三国24小时播放,https://lunbo.freetv.top/yy/1354555195
-放羊的星星,https://lunbo.freetv.top/yy/1355260662
-星爷功夫 经典武侠,https://lunbo.freetv.top/yy/74613175
-丫头动漫 斗罗斗破,https://lunbo.freetv.top/yy/1458722520
-[鬼怪.惊辣.墓穴],https://lunbo.freetv.top/yy/1382748585
-父母爱情,https://lunbo.freetv.top/yy/1382746276
-狂飙2港片电影,https://lunbo.freetv.top/yy/28099939
-神探狄仁杰1—5部全集,https://lunbo.freetv.top/yy/1382705592
-我和僵尸有个约会,https://lunbo.freetv.top/yy/1354143966
-盗慕笔记鬼灯,https://lunbo.freetv.top/yy/1382765507
-斗罗斗破,https://lunbo.freetv.top/yy/1354768828
-举起手来-惊险抗日,https://lunbo.freetv.top/yy/1382736877
-倚天屠龙记,https://lunbo.freetv.top/yy/1449856066
-新主播，求照顾,https://lunbo.freetv.top/yy/29197808
-【周星驰超级搞笑电影,https://lunbo.freetv.top/yy/38670875
-抗日奇侠 首播,https://lunbo.freetv.top/yy/39204655
-送欢乐,https://lunbo.freetv.top/yy/34093016
-鬼片赌片经典电影,https://lunbo.freetv.top/yy/1351496216
-雪中悍刀行,https://lunbo.freetv.top/yy/1354943110
-新白娘子传奇,https://lunbo.freetv.top/yy/1354490667
-英叔全集经典鬼片,https://lunbo.freetv.top/yy/1354869861
-武工队传奇,https://lunbo.freetv.top/yy/1354790484
-灌篮高手 正在直播,https://lunbo.freetv.top/yy/1351417866
-燕双鹰,https://lunbo.freetv.top/yy/1355358366
-笑傲江湖 4K超清,https://lunbo.freetv.top/yy/1354282410
-九品芝麻官包龙星,https://lunbo.freetv.top/yy/1354930968
-燕双鹰专场,https://lunbo.freetv.top/yy/23026835
-经典动漫,https://lunbo.freetv.top/yy/24180320
-港片 喜剧 动作,https://lunbo.freetv.top/yy/1355480591
-布丁-玄幻电影正在直播,https://lunbo.freetv.top/yy/1455460998
-打狗棍,https://lunbo.freetv.top/yy/1354773122
-火蓝刀锋,https://lunbo.freetv.top/yy/1382737892
-士兵突击,https://lunbo.freetv.top/yy/1382828766
-【陪你看】金刚葫芦娃,https://lunbo.freetv.top/yy/1353323999
-斗破苍穹玄幻剧,https://lunbo.freetv.top/yy/1356051105
-寻秦记-穿越剧经典,https://lunbo.freetv.top/yy/1382749900
-奇领 铁山靠【Y 正在直播,https://lunbo.freetv.top/yy/41584371
-24灌篮高手正在直播,https://lunbo.freetv.top/yy/1350984033
-彭禺厶鬼怪奇幻系列电影,https://lunbo.freetv.top/yy/1355249116
-星爷经典-百看不厌,https://lunbo.freetv.top/yy/1382736808
-经典港片电影,https://lunbo.freetv.top/yy/1382793140
-天道-9.2高分好剧,https://lunbo.freetv.top/yy/1382735574
-宋小宝小品合集,https://lunbo.freetv.top/yy/1354931577
-炊事班的故事II,https://lunbo.freetv.top/yy/1382736885
-【狂飙】4K,https://lunbo.freetv.top/yy/1382773728
-小兵张嘎,https://lunbo.freetv.top/yy/1354930225
-主播-求关注.24小时,https://lunbo.freetv.top/yy/1456625255
-斗罗斗破动漫,https://lunbo.freetv.top/yy/1420843376
-笑傲帮,https://lunbo.freetv.top/yy/1382735555
-情满四合院,https://lunbo.freetv.top/yy/1382736888
-康熙王朝,https://lunbo.freetv.top/yy/1382736818
-【动漫】斗罗斗破,https://lunbo.freetv.top/yy/35742228
-辽宁七七与你相见恨晚,https://lunbo.freetv.top/yy/1451760831
-【神雕侠侣】金庸经典,https://lunbo.freetv.top/yy/1382704651
-今夜欢乐颂,https://lunbo.freetv.top/yy/1382735572
-我的前半生,https://lunbo.freetv.top/yy/1382735564
-济公游记,https://lunbo.freetv.top/yy/1355265814
-一起合租的快乐生活~,https://lunbo.freetv.top/yy/38525272
-炊事班的故事III,https://lunbo.freetv.top/yy/1382736716
-家花与野花,https://lunbo.freetv.top/yy/1354420982
-妹子高分搞笑电影,https://lunbo.freetv.top/yy/33478222
-现代军旅,https://lunbo.freetv.top/yy/1382830638
-【案发现场】1-4部全集,https://lunbo.freetv.top/yy/33567888
-鬼片恐怖片 美女陪你看,https://lunbo.freetv.top/yy/1335509613
-经典电影,https://lunbo.freetv.top/yy/1355142167
-【动漫】斗罗斗破超清全屏,https://lunbo.freetv.top/yy/1382689904
-吴京 特种战士,https://lunbo.freetv.top/yy/76101626
-【林正英】僵尸 鬼片,https://lunbo.freetv.top/yy/30668277
-经典港剧《法证先锋》,https://lunbo.freetv.top/yy/1461993663
-烧脑破案24h陪你看,https://lunbo.freetv.top/yy/1355171357
-经典鬼片3000部,https://lunbo.freetv.top/yy/29460894
-【战狼3吴京首播】,https://lunbo.freetv.top/yy/1354752072
-【电影】超然巨作,https://lunbo.freetv.top/yy/29170933
-吕小羊鬼片 正在直播,https://lunbo.freetv.top/yy/1354792118
-利刃出击乐乐陪看,https://lunbo.freetv.top/yy/1352946111
-林正英 经典鬼片,https://lunbo.freetv.top/yy/1353312849
-《刑事侦缉档案》4部连播,https://lunbo.freetv.top/yy/95017956
-天龙神雕经典回忆,https://lunbo.freetv.top/yy/68260522
-破案港剧,https://lunbo.freetv.top/yy/1350670730
-《石敢当》六耳猕猴,https://lunbo.freetv.top/yy/1394156613
-[影视] 济公游记,https://lunbo.freetv.top/yy/25221556
-欧阳震华带你起飞,https://lunbo.freetv.top/yy/1456829119
-案发现场全集,https://lunbo.freetv.top/yy/1354775242
-西游记后传,https://lunbo.freetv.top/yy/1382736846
-德爷单挑荒野,https://lunbo.freetv.top/yy/62370558
-法证先锋,https://lunbo.freetv.top/yy/1354930939
-燃爆动作片,https://lunbo.freetv.top/yy/1382736801
-欢乐集结号,https://lunbo.freetv.top/yy/1354931582
-法证先锋Ⅱ,https://lunbo.freetv.top/yy/1354888736
-【港台】鬼片 惊悚 喜剧,https://lunbo.freetv.top/yy/1351030377
-【荒野求生】德爷贝爷各种,https://lunbo.freetv.top/yy/21831828
-恐怖片 女鬼,https://lunbo.freetv.top/yy/1455891197
-易中天品三国,https://lunbo.freetv.top/yy/1354931498
-妖魔鬼怪 超好看,https://lunbo.freetv.top/yy/1459714870
-情满四合院,https://lunbo.freetv.top/yy/1382736848
-亲爱的热爱的,https://lunbo.freetv.top/yy/1354932433
-炊事班的故事,https://lunbo.freetv.top/yy/1382646846
-贾玲春晚小品,https://lunbo.freetv.top/yy/1382736720
-平凡岁月,https://lunbo.freetv.top/yy/1382745117
-天龙八部蓝光,https://lunbo.freetv.top/yy/1355652820
-大话西游至尊宝,https://lunbo.freetv.top/yy/1382736910
-薛元帅传奇,https://lunbo.freetv.top/yy/31313785
-百家讲坛――之明太祖朱元璋,https://lunbo.freetv.top/yy/1354936149
-华子系列,https://lunbo.freetv.top/yy/1354888726
-中国味道 第4季-美食纪录片,https://lunbo.freetv.top/yy/1382736845
-【玄幻电影】,https://lunbo.freetv.top/yy/1355065896
-惊恐鬼怪盗暮,https://lunbo.freetv.top/yy/1382749525
-【港片】赌片 动作,https://lunbo.freetv.top/yy/24921161
-赌神-发哥,https://lunbo.freetv.top/yy/1354889044
-无敌燕双鹰,https://lunbo.freetv.top/yy/1354825244
-鸡毛飞上天,https://lunbo.freetv.top/yy/1354806550
-国外科幻,https://lunbo.freetv.top/yy/1382736800
-毒液：致命守护者,https://lunbo.freetv.top/yy/1382745095
-枕上书正在直播,https://lunbo.freetv.top/yy/1351844200
-变形金刚,https://lunbo.freetv.top/yy/1382736803
-三国演义,https://lunbo.freetv.top/yy/32788000
-的直播间,https://lunbo.freetv.top/yy/1354129442
-华语经典电影,https://lunbo.freetv.top/yy/1382779065
-24小时循环播电视剧,https://lunbo.freetv.top/yy/53320802
-小敏,https://lunbo.freetv.top/yy/1382736890
-陈情令,https://lunbo.freetv.top/yy/1382745121
-国内外惊悚恐怖片,https://lunbo.freetv.top/yy/1356075281
-我和僵尸有个约会,https://lunbo.freetv.top/yy/1355277480
-动漫奥斯卡正在直播,https://lunbo.freetv.top/yy/1382626335
-电影百团大战,https://lunbo.freetv.top/yy/1382736871
-热血抗日电影,https://lunbo.freetv.top/yy/1382749907
-空谷幽兰,https://lunbo.freetv.top/yy/1382745182
-福贵,https://lunbo.freetv.top/yy/1354926537
-澳门风云,https://lunbo.freetv.top/yy/1459243913
-单挑荒野第一季,https://lunbo.freetv.top/yy/1354933535
-法证先锋2,https://lunbo.freetv.top/yy/1382736870
-宝莲灯前传,https://lunbo.freetv.top/yy/1354931631
-小沈阳春晚小品,https://lunbo.freetv.top/yy/1382749941
-战争 二战 《狙击电影》,https://lunbo.freetv.top/yy/1450828388
-洪金宝福星系列,https://lunbo.freetv.top/yy/1354924839
-影视剧场,https://lunbo.freetv.top/yy/1355260855
-公主嫁到,https://lunbo.freetv.top/yy/1382736915
-木乃伊全集,https://lunbo.freetv.top/yy/1354889024
-【电视剧】天下第一,https://lunbo.freetv.top/yy/1354780649
-香港院线大片-最新,https://lunbo.freetv.top/yy/1354936242
-奇缘39262港台影院,https://lunbo.freetv.top/yy/1354889234
-�逋鞠盗�-国产喜剧,https://lunbo.freetv.top/yy/1382736856
-惊天大瓜,https://lunbo.freetv.top/yy/1353327982
-神秘探险热播电视剧,https://lunbo.freetv.top/yy/1355336008
-天下第一,https://lunbo.freetv.top/yy/1355554637
-逐梦传媒-007 正在直播,https://lunbo.freetv.top/yy/1456685522
-特种兵归来-国产电影,https://lunbo.freetv.top/yy/1382735581
-法证先锋Ⅲ,https://lunbo.freetv.top/yy/1382736802
-传奇英雄,https://lunbo.freetv.top/yy/1382735578
-勇敢的心,https://lunbo.freetv.top/yy/1354792480
-赵家班电视剧,https://lunbo.freetv.top/yy/1382737099
-战争大片-国外电影,https://lunbo.freetv.top/yy/1382736857
-舌尖上的中国第2季,https://lunbo.freetv.top/yy/1354930943
-铭记历史-甲午大海战,https://lunbo.freetv.top/yy/1354936195
-探秘中华美食,https://lunbo.freetv.top/yy/1354930954
-临界婚姻,https://lunbo.freetv.top/yy/1354932365
-经典动作电影,https://lunbo.freetv.top/yy/1370293254
-河山,https://lunbo.freetv.top/yy/1382749952
-远去的飞鹰-影视剧,https://lunbo.freetv.top/yy/1354930912
-发哥系列,https://lunbo.freetv.top/yy/1354888733
-经典抗日电影,https://lunbo.freetv.top/yy/1354936141
-剩女李夏天的求爱之路,https://lunbo.freetv.top/yy/1382749910
-九亿少女的噩梦,https://lunbo.freetv.top/yy/1354921392
-魔幻手机,https://lunbo.freetv.top/yy/1382735544
-成龙系列,https://lunbo.freetv.top/yy/1354888751
-探案！探案！,https://lunbo.freetv.top/yy/1382829413
-战狼3,https://lunbo.freetv.top/yy/1355913027
-小戏骨黄飞鸿,https://lunbo.freetv.top/yy/1354936181
-国外黑色喜剧：冷幽默小剧场,https://lunbo.freetv.top/yy/1382745175
-金庸武侠系列,https://lunbo.freetv.top/yy/40959929
-超级英雄系列电影,https://lunbo.freetv.top/yy/1382736863
-国威影院 仙侠系列,https://lunbo.freetv.top/yy/1354866665
-国内战争大片合集,https://lunbo.freetv.top/yy/1382749950
-红楼梦1987经典版,https://lunbo.freetv.top/yy/1382745084
-正阳门下小女人,https://lunbo.freetv.top/yy/1508778570
-大汉贤后卫子夫,https://lunbo.freetv.top/yy/1382735569
-怀旧小品,https://lunbo.freetv.top/yy/1382736821
-【科幻】超炫特效,https://lunbo.freetv.top/yy/37988782
-超精彩武打场景,https://lunbo.freetv.top/yy/1354936131
-宫心计,https://lunbo.freetv.top/yy/1354932429
-国产大片电影,https://lunbo.freetv.top/yy/1354926655
-热血战争片,https://lunbo.freetv.top/yy/1354932409
-大汉天子S1,https://lunbo.freetv.top/yy/1382749902
-战狼10086,https://lunbo.freetv.top/yy/1382773686
-漫威十年老粉福利来了,https://lunbo.freetv.top/yy/1354930233
-洪大哥系列,https://lunbo.freetv.top/yy/1354888743
-鬼片 恐怖片超好看,https://lunbo.freetv.top/yy/1382780025
-名媛望族-精彩港剧,https://lunbo.freetv.top/yy/1354932431
-仙剑奇侠传-神仙姐姐驾到,https://lunbo.freetv.top/yy/1382749903
-灌篮高手,https://lunbo.freetv.top/yy/1382735626
-春晚小品,https://lunbo.freetv.top/yy/1382773708
-超炫科幻大片,https://lunbo.freetv.top/yy/1382736840
-钟馗传说,https://lunbo.freetv.top/yy/1382736839
-上海滩,https://lunbo.freetv.top/yy/1382745184
-金三角大营救,https://lunbo.freetv.top/yy/1354930924
-卖拐 范伟,https://lunbo.freetv.top/yy/1382773719
-最后的狮子-探险纪录片,https://lunbo.freetv.top/yy/1382735577
-鹿鼎记,https://lunbo.freetv.top/yy/1355104118
-生逢灿烂的日子,https://lunbo.freetv.top/yy/1382745085
-风靡全球的谍战片,https://lunbo.freetv.top/yy/1382736817
-非诚勿扰,https://lunbo.freetv.top/yy/1382735583
-熊出没之探险日记S1-国漫,https://lunbo.freetv.top/yy/1354930977
-岳云鹏宋小宝也来演电影了？,https://lunbo.freetv.top/yy/1354926612
-【聚星】菊瓜娃,https://lunbo.freetv.top/yy/1382773718
-无敌县令,https://lunbo.freetv.top/yy/1354932390
-重生之超级赛亚人,https://lunbo.freetv.top/yy/1354936124
-国内动作片,https://lunbo.freetv.top/yy/1382735561
-好先生,https://lunbo.freetv.top/yy/29067617
-鹿鼎记-陈小春版,https://lunbo.freetv.top/yy/1382736920
-动作大片,https://lunbo.freetv.top/yy/1354930816
-末日系列-外国电影合集,https://lunbo.freetv.top/yy/1354889019
-历年春晚小品合集,https://lunbo.freetv.top/yy/1355555484
-【聚星】小猴子,https://lunbo.freetv.top/yy/1382773710
-24小时播放电视剧,https://lunbo.freetv.top/yy/1354127609
-一分钟学道菜,https://lunbo.freetv.top/yy/1382736901
-水浒传梁山好汉,https://lunbo.freetv.top/yy/1382832087
-中国第一神探-狄仁杰,https://lunbo.freetv.top/yy/1354932438
-科幻大片,https://lunbo.freetv.top/yy/1382745181
-来看修牛蹄,https://lunbo.freetv.top/yy/1382749887
-春晚小品,https://lunbo.freetv.top/yy/1382773705
-大太监-tvb经典古装,https://lunbo.freetv.top/yy/1382736886
-雪儿动漫,https://lunbo.freetv.top/yy/1354143938
-动作大片,https://lunbo.freetv.top/yy/1354888739
-科幻片：来看神奇的地球,https://lunbo.freetv.top/yy/1354930897
-降服魔女的手段-泰剧,https://lunbo.freetv.top/yy/1354932405
-你不知道的黄河故事,https://lunbo.freetv.top/yy/1382745189
-忠烈杨家将,https://lunbo.freetv.top/yy/1382749909
-小米粒Mili,https://lunbo.freetv.top/yy/1382736842
-国产喜剧,https://lunbo.freetv.top/yy/1382735584
-风味原产地潮汕,https://lunbo.freetv.top/yy/1382745178
-穿越时空的爱恋,https://lunbo.freetv.top/yy/1382735567
-十大经典港剧之《大时代》,https://lunbo.freetv.top/yy/1354930891
-战争大片,https://lunbo.freetv.top/yy/1382735556
-三国演义【1994】,https://lunbo.freetv.top/yy/1354930932
-深海利剑,https://lunbo.freetv.top/yy/1382736906
-国外侦探电影,https://lunbo.freetv.top/yy/1382745099
-谈判专家,https://lunbo.freetv.top/yy/1382735560
-欢乐集结号4,https://lunbo.freetv.top/yy/1382736889
-巩汉林春晚小品合集,https://lunbo.freetv.top/yy/1354889035
-热血动作电影,https://lunbo.freetv.top/yy/1382736804
-高分动作大片-热血出击,https://lunbo.freetv.top/yy/1382736909
-张译电视剧/电影,https://lunbo.freetv.top/yy/1355119593
-快乐经典，小芸妹妹求电,https://lunbo.freetv.top/yy/1355911201
-农家小菜,https://lunbo.freetv.top/yy/1382736894
-来自星星的你,https://lunbo.freetv.top/yy/1354930976
-高分科幻动作片,https://lunbo.freetv.top/yy/1382749948
-外国科幻大片,https://lunbo.freetv.top/yy/1382747628
-国内科幻片,https://lunbo.freetv.top/yy/1382745110
-动作大片,https://lunbo.freetv.top/yy/1354930887
-小宝让你乐翻天：6到9集,https://lunbo.freetv.top/yy/1354930971
-动物世界-领略原始野性,https://lunbo.freetv.top/yy/1382743138
-欢天喜地七仙女,https://lunbo.freetv.top/yy/1382735553
-缉妖法海传-国内电影,https://lunbo.freetv.top/yy/1354936203
-超英集结,https://lunbo.freetv.top/yy/1382745091
-战火中的故事,https://lunbo.freetv.top/yy/1382735625
-飓风营救,https://lunbo.freetv.top/yy/1382735547
-欢乐集结号2,https://lunbo.freetv.top/yy/1354930919
-小鬼当家-童年回忆,https://lunbo.freetv.top/yy/1382745104
-欢乐集结号58-70,https://lunbo.freetv.top/yy/1382745119
-张国荣与周润发的兄弟情,https://lunbo.freetv.top/yy/1354930961
-编辑部的故事,https://lunbo.freetv.top/yy/1354936120
-倚天屠龙记,https://lunbo.freetv.top/yy/1451866697
-蔡明春晚小品,https://lunbo.freetv.top/yy/1354936177
-动物世界,https://lunbo.freetv.top/yy/1382749889
-经典二战,https://lunbo.freetv.top/yy/1354936238
-喜剧闹翻天,https://lunbo.freetv.top/yy/1382735548
-野性欧洲,https://lunbo.freetv.top/yy/1354926622
-古装喜剧合集，还能玩起穿越？！,https://lunbo.freetv.top/yy/1382749905
-战争大片,https://lunbo.freetv.top/yy/1382736798
-大汉天子S2,https://lunbo.freetv.top/yy/1382736807
-地球上的地狱,https://lunbo.freetv.top/yy/1382736918
-通天狄仁杰,https://lunbo.freetv.top/yy/1382749906
-脑洞大开的精彩科幻片,https://lunbo.freetv.top/yy/1382736723
-国内科幻片来袭,https://lunbo.freetv.top/yy/1354930821
-非诚勿扰,https://lunbo.freetv.top/yy/1382745106
-飞虎之雷霆极战,https://lunbo.freetv.top/yy/1382736869
-拆弹专家-刘德华,https://lunbo.freetv.top/yy/1382745111
-大江大河-高分影视推荐,https://lunbo.freetv.top/yy/1382736806
-粉红女郎,https://lunbo.freetv.top/yy/1354888671
-新世界,https://lunbo.freetv.top/yy/1382736850
-国外院线动作大片,https://lunbo.freetv.top/yy/1382735570
-经典搞笑影片,https://lunbo.freetv.top/yy/1382749878
-香港动作大片,https://lunbo.freetv.top/yy/1382736816
-国内动作大片,https://lunbo.freetv.top/yy/1382749917
-原始人大挑战,https://lunbo.freetv.top/yy/1382736884
-三个女人一个因,https://lunbo.freetv.top/yy/1382749953
-致敬星爷致敬经典,https://lunbo.freetv.top/yy/1354889048
-影视娱乐剧场,https://lunbo.freetv.top/yy/1354748830
-红色经典影视剧-风语,https://lunbo.freetv.top/yy/1354926671
-家有九凤-影视剧,https://lunbo.freetv.top/yy/1354930894
-舌尖上的中国第一季,https://lunbo.freetv.top/yy/1354930952
-回家的诱惑,https://lunbo.freetv.top/yy/1354658043
-蓝色星球-自然-纪录片,https://lunbo.freetv.top/yy/1354930936
-机械战警1-3,https://lunbo.freetv.top/yy/1382736854
-国外侦探,https://lunbo.freetv.top/yy/1382736896
-喜剧电影合集,https://lunbo.freetv.top/yy/1354926637
-本山快乐营,https://lunbo.freetv.top/yy/1382736852
-大唐双龙传,https://lunbo.freetv.top/yy/1354930979
-了不起的萝莉小玲,https://lunbo.freetv.top/yy/1382736799
-渴望,https://lunbo.freetv.top/yy/1354930963
-《一剑开天门》,https://lunbo.freetv.top/yy/34313906
-小生物的故事,https://lunbo.freetv.top/yy/1382736834
-憨豆先生,https://lunbo.freetv.top/yy/1354930189
-萌鸡小队S1-国漫,https://lunbo.freetv.top/yy/1382736904
-热播喜剧,https://lunbo.freetv.top/yy/1354936169
-魔域桃源-刘德华主演,https://lunbo.freetv.top/yy/1382749904
-妖神记之黑狱篇,https://lunbo.freetv.top/yy/1382745173
-【请进来观看】,https://lunbo.freetv.top/yy/37033366
-娘亲舅大,https://lunbo.freetv.top/yy/1354932360
-吐槽大会 第2季,https://lunbo.freetv.top/yy/1354936145
-赶海新发现,https://lunbo.freetv.top/yy/1382749912
-攻壳机动队,https://lunbo.freetv.top/yy/1382745089
-漫威超级英雄系列,https://lunbo.freetv.top/yy/1354932402
-法证先锋,https://lunbo.freetv.top/yy/1354930965
-银河护卫队-国外科幻巨作,https://lunbo.freetv.top/yy/1382736815
-吾儿可教,https://lunbo.freetv.top/yy/1354932391
-家族荣耀-精彩港剧,https://lunbo.freetv.top/yy/1382745103
-欢迎来到爆笑剧场,https://lunbo.freetv.top/yy/1382736916
-白夜追凶第一季,https://lunbo.freetv.top/yy/1354932359
-宫心计-港剧-古装,https://lunbo.freetv.top/yy/1354933540
-聪明的顺溜之雄鹰小子S2-国漫,https://lunbo.freetv.top/yy/1382736903
-百家讲坛-之女皇武则天,https://lunbo.freetv.top/yy/1354889015
-本山快乐营-爆笑小品,https://lunbo.freetv.top/yy/1354930948
-法证先锋Ⅳ,https://lunbo.freetv.top/yy/1354932426
-欢乐集结号,https://lunbo.freetv.top/yy/1382749911
-赵本山爆笑小品2,https://lunbo.freetv.top/yy/1354936217
-金装四大才子,https://lunbo.freetv.top/yy/1354926600
-什么会让你快乐,https://lunbo.freetv.top/yy/54886912
-公主嫁到-电视剧,https://lunbo.freetv.top/yy/1354930957
-凡人的品格-影视剧,https://lunbo.freetv.top/yy/1354936116
-丁大命,https://lunbo.freetv.top/yy/1382735579
-地心历险记2,https://lunbo.freetv.top/yy/1354936228
-大力女都奉顺-韩剧,https://lunbo.freetv.top/yy/1382735542
-我比你更懂车 你偏不信,https://lunbo.freetv.top/yy/85042287
-国外战争,https://lunbo.freetv.top/yy/1382735571
-刺激！国外战争,https://lunbo.freetv.top/yy/1354936142
-越策越开心2015,https://lunbo.freetv.top/yy/1382735559
-记忆中的TVB,https://lunbo.freetv.top/yy/1382749951
-寻味顺德-美食纪录片,https://lunbo.freetv.top/yy/1382736844
-德鲁纳酒店-韩剧,https://lunbo.freetv.top/yy/1354931488
-林正英 九叔 僵尸 鬼片,https://lunbo.freetv.top/yy/1382828957
-绝美！航拍中国第1季,https://lunbo.freetv.top/yy/1354936136
-笑傲江湖-电视剧,https://lunbo.freetv.top/yy/1354936128
-男生女生向前冲,https://lunbo.freetv.top/yy/1382745122
-爱的迫降-韩剧,https://lunbo.freetv.top/yy/1354889042
-开心麻花街,https://lunbo.freetv.top/yy/1354926643
-外国爆笑喜剧,https://lunbo.freetv.top/yy/1382745093
-男亲女爱-经典港剧,https://lunbo.freetv.top/yy/1382736715
-王朝-自然-纪录片,https://lunbo.freetv.top/yy/1354930927
-碟中谍系列-国外动作大片,https://lunbo.freetv.top/yy/1354930181
-今夜百乐门,https://lunbo.freetv.top/yy/1382736912
-笑傲江湖 第2季,https://lunbo.freetv.top/yy/1382736914
-越策越开心23-33,https://lunbo.freetv.top/yy/1354930967
-心理追凶-港剧,https://lunbo.freetv.top/yy/1354936207
-真心想让你幸福,https://lunbo.freetv.top/yy/1382736876
-一起来笑吧,https://lunbo.freetv.top/yy/1454859415
-洗地毯,https://lunbo.freetv.top/yy/1382736859
-国内喜剧,https://lunbo.freetv.top/yy/1382735563
-丈夫在外有人？真相竟然是！,https://lunbo.freetv.top/yy/1354932375
-经典24小时电影剧场,https://lunbo.freetv.top/yy/37880083
-白鹿原,https://lunbo.freetv.top/yy/1451064143
-仙女影视,https://lunbo.freetv.top/yy/1356038038
-王牌逗王牌-喜剧,https://lunbo.freetv.top/yy/1354658048
-熊出没-国漫,https://lunbo.freetv.top/yy/1354936157
-吐槽大会 第1季,https://lunbo.freetv.top/yy/1354936210
-老表，你好Hea！-精彩港剧,https://lunbo.freetv.top/yy/1382736873
-溏心风暴之家好月圆,https://lunbo.freetv.top/yy/1354888747
-五行只缺你,https://lunbo.freetv.top/yy/22325556
-跳远生命线-优质港剧,https://lunbo.freetv.top/yy/1382735566
-中年计划,https://lunbo.freetv.top/yy/1354658051
-烧脑！国外侦探,https://lunbo.freetv.top/yy/1382735551
-摔跤吧爸爸！院线大片,https://lunbo.freetv.top/yy/1382736851
-地心历险记-科幻,https://lunbo.freetv.top/yy/1382736911
-国外喜剧电影,https://lunbo.freetv.top/yy/1354936178
-国内科幻,https://lunbo.freetv.top/yy/1354936170
-无罪推定,https://lunbo.freetv.top/yy/1354936208
-外国战争经典,https://lunbo.freetv.top/yy/1382749890
-大君-描绘爱情,https://lunbo.freetv.top/yy/1382736874
-10年没洗的地毯,https://lunbo.freetv.top/yy/1354931585
-能耐大了！德云社演技爆棚,https://lunbo.freetv.top/yy/1354930915
-越策越开心12-22,https://lunbo.freetv.top/yy/1382735558
-失忆24小时,https://lunbo.freetv.top/yy/1382741640
-仙灵儿,https://lunbo.freetv.top/yy/1382736887
-火线追凶-侦探系列电影,https://lunbo.freetv.top/yy/1382745090
-闲暇观看综艺,https://lunbo.freetv.top/yy/1354932379
-梦想改造家 第1季,https://lunbo.freetv.top/yy/1382736892
-冲上云霄-经典港剧,https://lunbo.freetv.top/yy/1382736833
-翡翠凤凰-影视剧,https://lunbo.freetv.top/yy/1354926666
-命中注定我爱你-泰剧,https://lunbo.freetv.top/yy/1354930903
-一起峡谷相遇吗,https://lunbo.freetv.top/yy/1354342554
-武工队传奇,https://lunbo.freetv.top/yy/22089862
+斗鱼-精选,#genre#
+国语译制电影,http://43.138.170.29:35455/douyu/2436390
+第一滴血全集,http://43.138.170.29:35455/yy/1354932355
+速度激情全集,http://43.138.170.29:35455/yy/1382749892
+速度与激情集,http://43.138.170.29:35455/yy/1382736911
+漫威系列轮播,http://43.138.170.29:35455/yy/1354932402
+哈利波特全集,http://43.138.170.29:35455/yy/1382745105
+美剧解说轮播,http://43.138.170.29:35455/douyu/9643264
+经典美剧解说,http://43.138.170.29:35455/douyu/9123570
+我的体育老师,http://43.138.170.29:35455/yy/1382745169
+欢乐颂电视剧,http://43.138.170.29:35455/douyu/3756989
+好先生电视剧,http://43.138.170.29:35455/douyu/9650792
+我的前半生剧,http://43.138.170.29:35455/yy/1382735564
+伪装者电视剧,http://43.138.170.29:35455/yy/1354936244
+新雪豹电视剧,http://43.138.170.29:35455/yy/28099939
+二炮手电视剧,http://43.138.170.29:35455/yy/1354930964
+风筝电视轮播,http://43.138.170.29:35455/yy/1354931585
+周星驰,http://www.xuran1983.cn:20230/douyu.php?id=122402
+刘德华,http://www.xuran1983.cn:20230/douyu.php?id=2516864
+好先生,http://www.xuran1983.cn:20230/douyu.php?id=9650792
+庆余年,http://www.xuran1983.cn:20230/douyu.php?id=5908256
+欢乐综艺,http://www.xuran1983.cn:20230/douyu.php?id=131977
+万合出品,http://www.xuran1983.cn:20230/douyu.php?id=9220456
+吃米滴虫,http://www.xuran1983.cn:20230/douyu.php?id=315457
+高分电影,http://www.xuran1983.cn:20230/douyu.php?id=7254536
+豆瓣高分,http://www.xuran1983.cn:20230/douyu.php?id=8770422
+漫威影院,http://www.xuran1983.cn:20230/douyu.php?id=6140589
+特辑电影,http://www.xuran1983.cn:20230/douyu.php?id=3637778
+粤语电影,http://www.xuran1983.cn:20230/douyu.php?id=1226741
+国产电影,http://www.xuran1983.cn:20230/douyu.php?id=5423
+喜剧电影,http://www.xuran1983.cn:20230/douyu.php?id=323876
+恐怖电影,http://www.xuran1983.cn:20230/douyu.php?id=218859
+恐怖鬼怪,http://www.xuran1983.cn:20230/douyu.php?id=1165374
+童年阴影,http://www.xuran1983.cn:20230/douyu.php?id=2935323
+惊悚电影,http://www.xuran1983.cn:20230/douyu.php?id=96577
+华语影视,http://www.xuran1983.cn:20230/douyu.php?id=3928
+神乐影视,http://www.xuran1983.cn:20230/douyu.php?id=85894
+冰冰影厅,http://www.xuran1983.cn:20230/douyu.php?id=74374
+刀刀影院,http://www.xuran1983.cn:20230/douyu.php?id=747764
+奶虫影院,http://www.xuran1983.cn:20230/douyu.php?id=263824
+贝爷贰厅,http://www.xuran1983.cn:20230/douyu.php?id=4332
+贝爷叁厅,http://www.xuran1983.cn:20230/douyu.php?id=36337
+凌儿影院,http://www.xuran1983.cn:20230/douyu.php?id=1377142
+花卷影院,http://www.xuran1983.cn:20230/douyu.php?id=52787
+橙記港剧,http://www.xuran1983.cn:20230/douyu.php?id=4549169
+蚂蚱影视,http://www.xuran1983.cn:20230/douyu.php?id=6079455
+怡寶影视,http://www.xuran1983.cn:20230/douyu.php?id=434971
+圆子影视,http://www.xuran1983.cn:20230/douyu.php?id=6566658
+贝贝影视,http://www.xuran1983.cn:20230/douyu.php?id=431460
+可乐影视,http://www.xuran1983.cn:20230/douyu.php?id=20415
+下饭神剧,http://www.xuran1983.cn:20230/douyu.php?id=276200
+古装神剧,http://www.xuran1983.cn:20230/douyu.php?id=338759
+酒染影视,http://www.xuran1983.cn:20230/douyu.php?id=7550220
+芊珏影视,http://www.xuran1983.cn:20230/douyu.php?id=8814650
+热门港剧,http://www.xuran1983.cn:20230/douyu.php?id=5522351
+国产剧集,http://www.xuran1983.cn:20230/douyu.php?id=8157860
+国产剧场,http://www.xuran1983.cn:20230/douyu.php?id=308752
+爱情公寓,http://www.xuran1983.cn:20230/douyu.php?id=2838296
+经典剧集,http://www.xuran1983.cn:20230/douyu.php?id=6863367
+李卫当官,http://www.xuran1983.cn:20230/douyu.php?id=7473576
+龙门镖局,http://www.xuran1983.cn:20230/douyu.php?id=9650860
+雍正帝王,http://www.xuran1983.cn:20230/douyu.php?id=9650836
+隋唐演义,http://www.xuran1983.cn:20230/douyu.php?id=7552568
+音乐欣赏,http://www.xuran1983.cn:20230/douyu.php?id=3186217
+舌尖美食,http://www.xuran1983.cn:20230/douyu.php?id=9650849
+篮球人物,http://www.xuran1983.cn:20230/douyu.php?id=8434598
+史君说剧,http://www.xuran1983.cn:20230/douyu.php?id=9419771
+史剧解说,http://www.xuran1983.cn:20230/douyu.php?id=297689
+老秦说剧,http://www.xuran1983.cn:20230/douyu.php?id=9650131
+老蔡解说,http://www.xuran1983.cn:20230/douyu.php?id=8869614
+长片短解,http://www.xuran1983.cn:20230/douyu.php?id=9410946
+宇哥解说,http://www.xuran1983.cn:20230/douyu.php?id=8651489
+夜魔人老王,http://www.xuran1983.cn:20230/douyu.php?id=610972
+皮皮看动漫,http://www.xuran1983.cn:20230/douyu.php?id=9837291
+开心锤动漫,http://www.xuran1983.cn:20230/douyu.php?id=9018297
+拳叔二次元,http://www.xuran1983.cn:20230/douyu.php?id=9484105
+老邪说电影,http://www.xuran1983.cn:20230/douyu.php?id=9222870
+洗碗君解说,http://www.xuran1983.cn:20230/douyu.php?id=9446706
+百晓生说剧,http://www.xuran1983.cn:20230/douyu.php?id=9649681
+百晓生解说,http://www.xuran1983.cn:20230/douyu.php?id=9653063
+小司马说剧,http://www.xuran1983.cn:20230/douyu.php?id=4808115
+小司马解说,http://www.xuran1983.cn:20230/douyu.php?id=9660127
+星君说电影,http://www.xuran1983.cn:20230/douyu.php?id=8014467
+刘哔讲电影,http://www.xuran1983.cn:20230/douyu.php?id=2632223
+老王说电影,http://www.xuran1983.cn:20230/douyu.php?id=9687733
+牛叔说电影,http://www.xuran1983.cn:20230/douyu.php?id=2758565
+侃片大师兄,http://www.xuran1983.cn:20230/douyu.php?id=9338839
+虫哥说电影,http://www.xuran1983.cn:20230/douyu.php?id=8915074
+电影迷小雅,http://www.xuran1983.cn:20230/douyu.php?id=9639225
+1900影剧室,http://www.xuran1983.cn:20230/douyu.php?id=7796193
+刘老师说电影,http://www.xuran1983.cn:20230/douyu.php?id=8317926
+来呀官人解说,http://www.xuran1983.cn:20230/douyu.php?id=9986305
+科幻Fans布玛,http://www.xuran1983.cn:20230/douyu.php?id=3508304
+小片片说大片,http://www.xuran1983.cn:20230/douyu.php?id=4258555
+大片片说小片,http://www.xuran1983.cn:20230/douyu.php?id=7489563
+火龙果说电影,http://www.xuran1983.cn:20230/douyu.php?id=9559158
+
+斗鱼一起看,#genre#
+小约翰可汗,http://www.xuran1983.cn:20230/douyu.php?id=9738854
+游钓中国李大毛,http://www.xuran1983.cn:20230/douyu.php?id=791411
+自说自话的总裁,http://www.xuran1983.cn:20230/douyu.php?id=9317739
+老高与小茉的死忠粉,http://www.xuran1983.cn:20230/douyu.php?id=236461
+我是郭杰瑞V,http://www.xuran1983.cn:20230/douyu.php?id=7357786
+发条张的电影最TOP,http://www.xuran1983.cn:20230/douyu.php?id=2164691
+灬魔丶力灬,http://www.xuran1983.cn:20230/douyu.php?id=11578014
+烟雨抚风,http://www.xuran1983.cn:20230/douyu.php?id=11649079
+丨灬释怀灬丨,http://www.xuran1983.cn:20230/douyu.php?id=11391949
+绛橘色的落丶,http://www.xuran1983.cn:20230/douyu.php?id=11578904
+执念丶眺望,http://www.xuran1983.cn:20230/douyu.php?id=11646306
+回忆总是陌路丶,http://www.xuran1983.cn:20230/douyu.php?id=11618658
+孤心凉026,http://www.xuran1983.cn:20230/douyu.php?id=11685263
+小黛兮丶,http://www.xuran1983.cn:20230/douyu.php?id=11553944
+棉花糖丶蔷薇,http://www.xuran1983.cn:20230/douyu.php?id=11578540
+龙视本山快乐营,http://www.xuran1983.cn:20230/douyu.php?id=9374865
+老烟斗鬼故事,http://www.xuran1983.cn:20230/douyu.php?id=2337939
+小片片说大片二台,http://www.xuran1983.cn:20230/douyu.php?id=10011547
+Only邵氏,http://www.xuran1983.cn:20230/douyu.php?id=4246519
+徐大sao,http://www.xuran1983.cn:20230/douyu.php?id=7107176
+7师傅,http://www.xuran1983.cn:20230/douyu.php?id=17732
+甜漫妮666,http://www.xuran1983.cn:20230/douyu.php?id=1569773
+牛奶味的梦猪猪,http://www.xuran1983.cn:20230/douyu.php?id=5261342
+小粤兒,http://www.xuran1983.cn:20230/douyu.php?id=5033502
+師落,http://www.xuran1983.cn:20230/douyu.php?id=6582435
+世界未解之谜M,http://www.xuran1983.cn:20230/douyu.php?id=9369468
+流浪吧王温暖,http://www.xuran1983.cn:20230/douyu.php?id=655973
+用青春去旅行,http://www.xuran1983.cn:20230/douyu.php?id=9629423
+民间高手show,http://www.xuran1983.cn:20230/douyu.php?id=10372765
+Sy一渣男李元芳,http://www.xuran1983.cn:20230/douyu.php?id=7812810
+胡椒粉的胡歌,http://www.xuran1983.cn:20230/douyu.php?id=5448413
+聚聚聚一个月,http://www.xuran1983.cn:20230/douyu.php?id=4105989
+苹果Zei妖,http://www.xuran1983.cn:20230/douyu.php?id=2793084
+宇宙探索飞船,http://www.xuran1983.cn:20230/douyu.php?id=9456028
+茶啊二中官方,http://www.xuran1983.cn:20230/douyu.php?id=2925610
+Cloud猪,http://www.xuran1983.cn:20230/douyu.php?id=527502
+彼岸KARA,http://www.xuran1983.cn:20230/douyu.php?id=40471
+网神影厅,http://www.xuran1983.cn:20230/douyu.php?id=508118
+爱旅行的巧克力,http://www.xuran1983.cn:20230/douyu.php?id=9653323
+钓鱼欧尼AnglerJJung,http://www.xuran1983.cn:20230/douyu.php?id=10616765
+宇宙视界,http://www.xuran1983.cn:20230/douyu.php?id=9498354
+渔人东川,http://www.xuran1983.cn:20230/douyu.php?id=9348769
+粤知一二,http://www.xuran1983.cn:20230/douyu.php?id=2940299
+维塔利在野外,http://www.xuran1983.cn:20230/douyu.php?id=9804068
+去种田的向凹凸,http://www.xuran1983.cn:20230/douyu.php?id=9570290
+芒果酱Mangoo,http://www.xuran1983.cn:20230/douyu.php?id=138959
+往事vs随风1,http://www.xuran1983.cn:20230/douyu.php?id=3113309
+都是奔奔的错丶,http://www.xuran1983.cn:20230/douyu.php?id=8953746
+张二千11,http://www.xuran1983.cn:20230/douyu.php?id=8945323
+南波儿的柠檬,http://www.xuran1983.cn:20230/douyu.php?id=3379942
+这夜空中最亮的星,http://www.xuran1983.cn:20230/douyu.php?id=9290755
+秋月剪水,http://www.xuran1983.cn:20230/douyu.php?id=9588891
+Miss北月,http://www.xuran1983.cn:20230/douyu.php?id=8366759
+lele1894,http://www.xuran1983.cn:20230/douyu.php?id=292098
+ryandradian,http://www.xuran1983.cn:20230/douyu.php?id=3756989
+诃德先生,http://www.xuran1983.cn:20230/douyu.php?id=3758762
+橙沫小幺妹,http://www.xuran1983.cn:20230/douyu.php?id=1584198
+美娘家的猪猪,http://www.xuran1983.cn:20230/douyu.php?id=9019945
+劉星星呀,http://www.xuran1983.cn:20230/douyu.php?id=7422897
+我也想要一个千反田,http://www.xuran1983.cn:20230/douyu.php?id=9290734
+pipi丫,http://www.xuran1983.cn:20230/douyu.php?id=9651304
+历史经典烩,http://www.xuran1983.cn:20230/douyu.php?id=9487003
+非一般的视觉体验,http://www.xuran1983.cn:20230/douyu.php?id=9292492
+爱喝养乐多的派大星,http://www.xuran1983.cn:20230/douyu.php?id=9176009
+好剧看不停,http://www.xuran1983.cn:20230/douyu.php?id=9388938
+中二日记搞笑动画,http://www.xuran1983.cn:20230/douyu.php?id=9505575
+英大吉来了,http://www.xuran1983.cn:20230/douyu.php?id=9174097
+影视笑工场,http://www.xuran1983.cn:20230/douyu.php?id=10298846
+智仗心,http://www.xuran1983.cn:20230/douyu.php?id=5635000
+是晓葑呀,http://www.xuran1983.cn:20230/douyu.php?id=9650783
+史君观影,http://www.xuran1983.cn:20230/douyu.php?id=9644669
+胥渡吧直播号,http://www.xuran1983.cn:20230/douyu.php?id=2040822
+南南AKRAPOVIC,http://www.xuran1983.cn:20230/douyu.php?id=3627728
+只关于篮球的只老师,http://www.xuran1983.cn:20230/douyu.php?id=9367541
+壹丨哥,http://www.xuran1983.cn:20230/douyu.php?id=5692901
+植物椿de房间,http://www.xuran1983.cn:20230/douyu.php?id=9771247
+梦媛家的小杰哥,http://www.xuran1983.cn:20230/douyu.php?id=8507023
+是个小可爱iiii,http://www.xuran1983.cn:20230/douyu.php?id=9650782
+有部电影儿,http://www.xuran1983.cn:20230/douyu.php?id=9736479
+贝爷求生影视,http://www.xuran1983.cn:20230/douyu.php?id=9661369
+铁血影视汇,http://www.xuran1983.cn:20230/douyu.php?id=9649701
+祁乐丶,http://www.xuran1983.cn:20230/douyu.php?id=8066352
+探奇录,http://www.xuran1983.cn:20230/douyu.php?id=9746763
+勤时铭悦,http://www.xuran1983.cn:20230/douyu.php?id=8790357
+俗哥看电影,http://www.xuran1983.cn:20230/douyu.php?id=2161818
+尉迟杰影评,http://www.xuran1983.cn:20230/douyu.php?id=8850682
+怪事屋,http://www.xuran1983.cn:20230/douyu.php?id=8706084
+大蓝雀,http://www.xuran1983.cn:20230/douyu.php?id=8656759
+蓝光乐队,http://www.xuran1983.cn:20230/douyu.php?id=9572351
+小猪搞笑精选,http://www.xuran1983.cn:20230/douyu.php?id=10329752
+是搞笑君啊,http://www.xuran1983.cn:20230/douyu.php?id=10329719
+林林林林林啊丶,http://www.xuran1983.cn:20230/douyu.php?id=6747916
+阿依图娜,http://www.xuran1983.cn:20230/douyu.php?id=9047046
+C座802,http://www.xuran1983.cn:20230/douyu.php?id=8768943
+风云I人物志,http://www.xuran1983.cn:20230/douyu.php?id=9970047
+求求扣扣困困,http://www.xuran1983.cn:20230/douyu.php?id=8795274
+娱乐扒叔,http://www.xuran1983.cn:20230/douyu.php?id=9624581
+科幻战舰,http://www.xuran1983.cn:20230/douyu.php?id=8772060
+龙视开心麻花街,http://www.xuran1983.cn:20230/douyu.php?id=9374862
+海森堡事件录,http://www.xuran1983.cn:20230/douyu.php?id=9754849
+郑云工作室,http://www.xuran1983.cn:20230/douyu.php?id=2995636
+竹公子有礼了,http://www.xuran1983.cn:20230/douyu.php?id=8887432
+喜剧电影笑不停,http://www.xuran1983.cn:20230/douyu.php?id=10298856
+音乐台长,http://www.xuran1983.cn:20230/douyu.php?id=9629943
+电影刘油果,http://www.xuran1983.cn:20230/douyu.php?id=3985805
+荒野避难所,http://www.xuran1983.cn:20230/douyu.php?id=10234334
+日本女子摔角,http://www.xuran1983.cn:20230/douyu.php?id=425809
+锦书致南辞阿,http://www.xuran1983.cn:20230/douyu.php?id=2894528
+胖段段fre,http://www.xuran1983.cn:20230/douyu.php?id=9662856
+大坑侦探社,http://www.xuran1983.cn:20230/douyu.php?id=9440339
+奇妙博物馆,http://www.xuran1983.cn:20230/douyu.php?id=9409723
+竞技麻将,http://www.xuran1983.cn:20230/douyu.php?id=10217975
+贰哥电影,http://www.xuran1983.cn:20230/douyu.php?id=9338867
+果冻萌萌的丶,http://www.xuran1983.cn:20230/douyu.php?id=9607934
+据说放映室,http://www.xuran1983.cn:20230/douyu.php?id=8837964
+微梦屋,http://www.xuran1983.cn:20230/douyu.php?id=7027040
+二毛荒野垂钓生活1,http://www.xuran1983.cn:20230/douyu.php?id=10007687
+阿木讲电影,http://www.xuran1983.cn:20230/douyu.php?id=532050
+飞碟说官方,http://www.xuran1983.cn:20230/douyu.php?id=1449125
+思乡渔夫,http://www.xuran1983.cn:20230/douyu.php?id=9049634
+嘴巴鼻子没有沟,http://www.xuran1983.cn:20230/douyu.php?id=10217984
+爆笑行为大赏,http://www.xuran1983.cn:20230/douyu.php?id=10329767
+管哥视频,http://www.xuran1983.cn:20230/douyu.php?id=10181584
+渔村小马,http://www.xuran1983.cn:20230/douyu.php?id=1447771
+多多其木格,http://www.xuran1983.cn:20230/douyu.php?id=9075374
+开车大神,http://www.xuran1983.cn:20230/douyu.php?id=9759970
+TFBOYS饭团,http://www.xuran1983.cn:20230/douyu.php?id=9565765
+快看张不止,http://www.xuran1983.cn:20230/douyu.php?id=8413226
+竹儿公公,http://www.xuran1983.cn:20230/douyu.php?id=8807568
+鄂东老男孩,http://www.xuran1983.cn:20230/douyu.php?id=8837707
+龙视欢乐英雄转,http://www.xuran1983.cn:20230/douyu.php?id=9374836
+勇敢的荒野人,http://www.xuran1983.cn:20230/douyu.php?id=9618038
+荒野建筑指南,http://www.xuran1983.cn:20230/douyu.php?id=10226974
+OE档案,http://www.xuran1983.cn:20230/douyu.php?id=6725858
+宝蓝和朋友们,http://www.xuran1983.cn:20230/douyu.php?id=9283356
+荒野动物园,http://www.xuran1983.cn:20230/douyu.php?id=9663833
+天才简史,http://www.xuran1983.cn:20230/douyu.php?id=8662915
+魔术飞哥,http://www.xuran1983.cn:20230/douyu.php?id=517915
+大熊观影,http://www.xuran1983.cn:20230/douyu.php?id=8851140
+电影七十二变,http://www.xuran1983.cn:20230/douyu.php?id=9323164
+高能恐怖片段君,http://www.xuran1983.cn:20230/douyu.php?id=10401475
+阿成漫漫看,http://www.xuran1983.cn:20230/douyu.php?id=8799435
+fans圈娱乐,http://www.xuran1983.cn:20230/douyu.php?id=9630581
+户外老曹,http://www.xuran1983.cn:20230/douyu.php?id=9957389
+电影黑匣子,http://www.xuran1983.cn:20230/douyu.php?id=8706652
+喵来啦V,http://www.xuran1983.cn:20230/douyu.php?id=8657669
+到远方旅行,http://www.xuran1983.cn:20230/douyu.php?id=9614588
+民工小代,http://www.xuran1983.cn:20230/douyu.php?id=9616619
+瓦岗寨主坑爹李,http://www.xuran1983.cn:20230/douyu.php?id=7661496
+不思异剧场,http://www.xuran1983.cn:20230/douyu.php?id=9297412
+MK青凌,http://www.xuran1983.cn:20230/douyu.php?id=9488836
+每日好电影V,http://www.xuran1983.cn:20230/douyu.php?id=9533302
+大荒电影,http://www.xuran1983.cn:20230/douyu.php?id=3508538
+柠檬檬檬儿vlog,http://www.xuran1983.cn:20230/douyu.php?id=9624845
+鸡腿子软糖,http://www.xuran1983.cn:20230/douyu.php?id=8695854
+娱乐新番,http://www.xuran1983.cn:20230/douyu.php?id=9564845
+世界纪录大全,http://www.xuran1983.cn:20230/douyu.php?id=9406359
+老段带你钓青鱼,http://www.xuran1983.cn:20230/douyu.php?id=10105639
+血小板呐呐,http://www.xuran1983.cn:20230/douyu.php?id=4285043
+山里记,http://www.xuran1983.cn:20230/douyu.php?id=9410236
+小马哥说电影,http://www.xuran1983.cn:20230/douyu.php?id=9396672
+末日说电影,http://www.xuran1983.cn:20230/douyu.php?id=9431125
+搞笑院长,http://www.xuran1983.cn:20230/douyu.php?id=8829915
+农村幺妹儿,http://www.xuran1983.cn:20230/douyu.php?id=9344884
+沂沐啊,http://www.xuran1983.cn:20230/douyu.php?id=9481137
+腹黑电影,http://www.xuran1983.cn:20230/douyu.php?id=8867878
+好像视说故事,http://www.xuran1983.cn:20230/douyu.php?id=8891883
+羽翼天使的挽歌,http://www.xuran1983.cn:20230/douyu.php?id=9193179
+制造show,http://www.xuran1983.cn:20230/douyu.php?id=9550226
+小丽说电影,http://www.xuran1983.cn:20230/douyu.php?id=9368016
+大笑影院,http://www.xuran1983.cn:20230/douyu.php?id=10329300
+W总动员,http://www.xuran1983.cn:20230/douyu.php?id=9480767
+熊猫电影,http://www.xuran1983.cn:20230/douyu.php?id=3506483
+大魔王动漫解说,http://www.xuran1983.cn:20230/douyu.php?id=9963128
+丛林工程师,http://www.xuran1983.cn:20230/douyu.php?id=9804149
+滑稽中二梦V,http://www.xuran1983.cn:20230/douyu.php?id=8829706
+王坑坑聊电影,http://www.xuran1983.cn:20230/douyu.php?id=9402110
+搞笑孟文明,http://www.xuran1983.cn:20230/douyu.php?id=9766337
+鹏友说电影,http://www.xuran1983.cn:20230/douyu.php?id=9445244
+小超讲电影,http://www.xuran1983.cn:20230/douyu.php?id=3432645
+唐司令说电影,http://www.xuran1983.cn:20230/douyu.php?id=8774345
+轻风乍起的号,http://www.xuran1983.cn:20230/douyu.php?id=9445489
+咸车,http://www.xuran1983.cn:20230/douyu.php?id=9498554
+内蒙卡秋,http://www.xuran1983.cn:20230/douyu.php?id=9067858
+少女娜娜酱,http://www.xuran1983.cn:20230/douyu.php?id=9445557
+第七艺术坊,http://www.xuran1983.cn:20230/douyu.php?id=9737022
+麦绿素dustdream,http://www.xuran1983.cn:20230/douyu.php?id=9336437
+农村一级野钓大师,http://www.xuran1983.cn:20230/douyu.php?id=9433591
+光影故事汇,http://www.xuran1983.cn:20230/douyu.php?id=9541423
+目及WATCHER,http://www.xuran1983.cn:20230/douyu.php?id=8712204
+开箱嘤嘤怪,http://www.xuran1983.cn:20230/douyu.php?id=10319056
+学姐圆,http://www.xuran1983.cn:20230/douyu.php?id=9639735
+大胡子魏,http://www.xuran1983.cn:20230/douyu.php?id=8792763
+77说电影,http://www.xuran1983.cn:20230/douyu.php?id=9444320
+猫叔说电影,http://www.xuran1983.cn:20230/douyu.php?id=9820039
+洛克电影,http://www.xuran1983.cn:20230/douyu.php?id=9414884
+同同电影,http://www.xuran1983.cn:20230/douyu.php?id=10155359
+君笑坊,http://www.xuran1983.cn:20230/douyu.php?id=9444093
+爱星影视,http://www.xuran1983.cn:20230/douyu.php?id=9476806
+龙又z,http://www.xuran1983.cn:20230/douyu.php?id=9477915
+香兰爱影视,http://www.xuran1983.cn:20230/douyu.php?id=9487090
+海王尼加拉,http://www.xuran1983.cn:20230/douyu.php?id=10039005
+吟游诗人基德,http://www.xuran1983.cn:20230/douyu.php?id=9337049
+凤起青云,http://www.xuran1983.cn:20230/douyu.php?id=749124
+享看电影,http://www.xuran1983.cn:20230/douyu.php?id=8974130
+微笑影视解说,http://www.xuran1983.cn:20230/douyu.php?id=9476790
+冷君聊大片,http://www.xuran1983.cn:20230/douyu.php?id=9666219
+沫子瞪片,http://www.xuran1983.cn:20230/douyu.php?id=8783035
+王俊凯的资源组,http://www.xuran1983.cn:20230/douyu.php?id=8862216
+名人物语DY,http://www.xuran1983.cn:20230/douyu.php?id=9539063
+本主儿,http://www.xuran1983.cn:20230/douyu.php?id=9565677
+我是阿树酱,http://www.xuran1983.cn:20230/douyu.php?id=9486020
+开心逛剧场,http://www.xuran1983.cn:20230/douyu.php?id=10329310
+渔民老海,http://www.xuran1983.cn:20230/douyu.php?id=9272327
+某声悠,http://www.xuran1983.cn:20230/douyu.php?id=8896100
+梦觉教游泳,http://www.xuran1983.cn:20230/douyu.php?id=4531679
+电影笔记,http://www.xuran1983.cn:20230/douyu.php?id=9636034
+电影幕后喵,http://www.xuran1983.cn:20230/douyu.php?id=8884074
+粽子酱v,http://www.xuran1983.cn:20230/douyu.php?id=9390685
+见世君V,http://www.xuran1983.cn:20230/douyu.php?id=10220896
+维立方电影,http://www.xuran1983.cn:20230/douyu.php?id=8706393
+纸鸢SomniumV,http://www.xuran1983.cn:20230/douyu.php?id=9506782
+萨摩耶王小羊,http://www.xuran1983.cn:20230/douyu.php?id=9559063
+飞行员欧文讲故事,http://www.xuran1983.cn:20230/douyu.php?id=9678790
+几号房间,http://www.xuran1983.cn:20230/douyu.php?id=8829425
+撩电影8,http://www.xuran1983.cn:20230/douyu.php?id=9351043
+小鹏漫剪,http://www.xuran1983.cn:20230/douyu.php?id=9476810
+穆杉车话,http://www.xuran1983.cn:20230/douyu.php?id=9602107
+安琪儿的羽翼,http://www.xuran1983.cn:20230/douyu.php?id=9388783
+威生天霖579,http://www.xuran1983.cn:20230/douyu.php?id=9393403
+罗杰斯一家,http://www.xuran1983.cn:20230/douyu.php?id=9459265
+whitebuste,http://www.xuran1983.cn:20230/douyu.php?id=9481484
+渚岸汐潮233,http://www.xuran1983.cn:20230/douyu.php?id=9518082
+柠柠柠萌菌,http://www.xuran1983.cn:20230/douyu.php?id=9720895
+话很多的小姐姐们,http://www.xuran1983.cn:20230/douyu.php?id=8611011
+侃片黑菠萝,http://www.xuran1983.cn:20230/douyu.php?id=5803764
+一只魔玩,http://www.xuran1983.cn:20230/douyu.php?id=9606281
+树根龙门阵,http://www.xuran1983.cn:20230/douyu.php?id=1833459
+正直的陈易,http://www.xuran1983.cn:20230/douyu.php?id=9365118
+是纯洁上校,http://www.xuran1983.cn:20230/douyu.php?id=9666042
+电影漩涡,http://www.xuran1983.cn:20230/douyu.php?id=8706350
+夏夜柚子树,http://www.xuran1983.cn:20230/douyu.php?id=9606419
+中二大帝妮可姬,http://www.xuran1983.cn:20230/douyu.php?id=9612400
+仓鼠大逃亡,http://www.xuran1983.cn:20230/douyu.php?id=10354920
+总之看电影,http://www.xuran1983.cn:20230/douyu.php?id=8978669
+跟着盟哥去探秘,http://www.xuran1983.cn:20230/douyu.php?id=1178229
+老王的夜电影院,http://www.xuran1983.cn:20230/douyu.php?id=3498219
+金渐层沈同学,http://www.xuran1983.cn:20230/douyu.php?id=9516467
+CmoStar,http://www.xuran1983.cn:20230/douyu.php?id=10282256
+冰糖葫芦没放盐V,http://www.xuran1983.cn:20230/douyu.php?id=3505453
+婧公子,http://www.xuran1983.cn:20230/douyu.php?id=9464182
+村野趣事荟,http://www.xuran1983.cn:20230/douyu.php?id=5794474
+芳芳说故事,http://www.xuran1983.cn:20230/douyu.php?id=9401905
+小浅说电影,http://www.xuran1983.cn:20230/douyu.php?id=9665834
+晓麦讲电影,http://www.xuran1983.cn:20230/douyu.php?id=453963
+暴走兄弟v,http://www.xuran1983.cn:20230/douyu.php?id=9350960
+电影小班长,http://www.xuran1983.cn:20230/douyu.php?id=549693
+汪哥说电影,http://www.xuran1983.cn:20230/douyu.php?id=9312685
+潜伏sc,http://www.xuran1983.cn:20230/douyu.php?id=9458345
+乐儿丶Ler,http://www.xuran1983.cn:20230/douyu.php?id=8221699
+动物启示录,http://www.xuran1983.cn:20230/douyu.php?id=9443129
+预言家Alice,http://www.xuran1983.cn:20230/douyu.php?id=9483772
+臧老师好,http://www.xuran1983.cn:20230/douyu.php?id=9576994
+扒圈圈V,http://www.xuran1983.cn:20230/douyu.php?id=9649913
+Bella贝拉酱,http://www.xuran1983.cn:20230/douyu.php?id=9663084
+说笑武林,http://www.xuran1983.cn:20230/douyu.php?id=10329706
+小三笠笠酱,http://www.xuran1983.cn:20230/douyu.php?id=9188696
+利利川,http://www.xuran1983.cn:20230/douyu.php?id=9329249
+鲨说电影,http://www.xuran1983.cn:20230/douyu.php?id=9544628
+迷剧阿菁,http://www.xuran1983.cn:20230/douyu.php?id=9486024
+灵佑奇谈,http://www.xuran1983.cn:20230/douyu.php?id=9678207
+吟笑派,http://www.xuran1983.cn:20230/douyu.php?id=2987100
+调侃贫道XIN版,http://www.xuran1983.cn:20230/douyu.php?id=9463586
+笑点组长,http://www.xuran1983.cn:20230/douyu.php?id=9535757
+桃红梨白专栏,http://www.xuran1983.cn:20230/douyu.php?id=9568196
+小林家的意大利炮,http://www.xuran1983.cn:20230/douyu.php?id=9501444
+关云猖,http://www.xuran1983.cn:20230/douyu.php?id=8820996
+动画魂,http://www.xuran1983.cn:20230/douyu.php?id=9393242
+奇怪电影,http://www.xuran1983.cn:20230/douyu.php?id=9440966
+酋知鱼,http://www.xuran1983.cn:20230/douyu.php?id=5408225
+讲故事的角马,http://www.xuran1983.cn:20230/douyu.php?id=4400816
+小爱看大片,http://www.xuran1983.cn:20230/douyu.php?id=9312805
+女汉子说电影,http://www.xuran1983.cn:20230/douyu.php?id=9395966
+祝晓晗,http://www.xuran1983.cn:20230/douyu.php?id=9575293
+一朵老香菇解说,http://www.xuran1983.cn:20230/douyu.php?id=10050914
+超wu的大白兔,http://www.xuran1983.cn:20230/douyu.php?id=2925299
+是chshh,http://www.xuran1983.cn:20230/douyu.php?id=9570579
+魔女嘉尔Gabrielle,http://www.xuran1983.cn:20230/douyu.php?id=9674566
+新视角解说,http://www.xuran1983.cn:20230/douyu.php?id=8813254
+YIKa777,http://www.xuran1983.cn:20230/douyu.php?id=8868213
+小铁房乐队,http://www.xuran1983.cn:20230/douyu.php?id=9624976
+训练师十六,http://www.xuran1983.cn:20230/douyu.php?id=9721338
+驴哥说电影,http://www.xuran1983.cn:20230/douyu.php?id=5376478
+大力学姐,http://www.xuran1983.cn:20230/douyu.php?id=8784719
+少年阿虎233,http://www.xuran1983.cn:20230/douyu.php?id=9396762
+我的超能力女友,http://www.xuran1983.cn:20230/douyu.php?id=9501159
+隐紫大人不会吐槽,http://www.xuran1983.cn:20230/douyu.php?id=9207457
+狗毛电影,http://www.xuran1983.cn:20230/douyu.php?id=9356637
+律子桑,http://www.xuran1983.cn:20230/douyu.php?id=9371308
+育碧先生v,http://www.xuran1983.cn:20230/douyu.php?id=9505962
+莫扎金,http://www.xuran1983.cn:20230/douyu.php?id=9272077
+小青放映社,http://www.xuran1983.cn:20230/douyu.php?id=9314689
+怠惰守夜,http://www.xuran1983.cn:20230/douyu.php?id=8842108
+电视这个圈儿,http://www.xuran1983.cn:20230/douyu.php?id=9425669
+上来先丢大v,http://www.xuran1983.cn:20230/douyu.php?id=9566154
+剧燃有趣,http://www.xuran1983.cn:20230/douyu.php?id=10329702
+趣评测李杰灵,http://www.xuran1983.cn:20230/douyu.php?id=751316
+竹内亮导演,http://www.xuran1983.cn:20230/douyu.php?id=8933612
+Ethan清醒思考,http://www.xuran1983.cn:20230/douyu.php?id=9481151
+中二的枫哲酱,http://www.xuran1983.cn:20230/douyu.php?id=9541849
+火柴人HyunsDojo,http://www.xuran1983.cn:20230/douyu.php?id=9430394
+月影Yueing212,http://www.xuran1983.cn:20230/douyu.php?id=8885525
+御魔君,http://www.xuran1983.cn:20230/douyu.php?id=9199976
+戏晶SHOW,http://www.xuran1983.cn:20230/douyu.php?id=9565130
+潇湘公子L,http://www.xuran1983.cn:20230/douyu.php?id=9535657
+暮肆Mousse,http://www.xuran1983.cn:20230/douyu.php?id=9634199
+荒野万池王,http://www.xuran1983.cn:20230/douyu.php?id=9544576
+翦瞳秋,http://www.xuran1983.cn:20230/douyu.php?id=9623057
+OooOlivia奥莉蕉,http://www.xuran1983.cn:20230/douyu.php?id=9678862
+珞珞说电影,http://www.xuran1983.cn:20230/douyu.php?id=3718888
+迷影至下Filmlast,http://www.xuran1983.cn:20230/douyu.php?id=9187596
+永无叙V,http://www.xuran1983.cn:20230/douyu.php?id=9442980
+WANJINNY,http://www.xuran1983.cn:20230/douyu.php?id=9567755
+灯泡兄弟影游谈,http://www.xuran1983.cn:20230/douyu.php?id=1690081
+mzx阿哲,http://www.xuran1983.cn:20230/douyu.php?id=9483965
+庆皇龙利余,http://www.xuran1983.cn:20230/douyu.php?id=9524210
+一颗咕咕星,http://www.xuran1983.cn:20230/douyu.php?id=9388557
+夏日幻听MCE,http://www.xuran1983.cn:20230/douyu.php?id=9546437
+Devil青酱,http://www.xuran1983.cn:20230/douyu.php?id=9510544
+华白雨,http://www.xuran1983.cn:20230/douyu.php?id=9495454
+锅盖哒,http://www.xuran1983.cn:20230/douyu.php?id=9398828
+三七电影V,http://www.xuran1983.cn:20230/douyu.php?id=9457792
+田园小漠,http://www.xuran1983.cn:20230/douyu.php?id=8669435
+Michael说大片,http://www.xuran1983.cn:20230/douyu.php?id=8841881
+low君热剧,http://www.xuran1983.cn:20230/douyu.php?id=8461020
+菠萝说电影,http://www.xuran1983.cn:20230/douyu.php?id=3714736
+托尔兹桃花剑,http://www.xuran1983.cn:20230/douyu.php?id=8896743
+流小豆,http://www.xuran1983.cn:20230/douyu.php?id=2441228
+前任电影,http://www.xuran1983.cn:20230/douyu.php?id=9329242
+曹小灵比比叨,http://www.xuran1983.cn:20230/douyu.php?id=10289400
+鲁过一世,http://www.xuran1983.cn:20230/douyu.php?id=9716515
+农氏野钓,http://www.xuran1983.cn:20230/douyu.php?id=10103361
+电影先锋V,http://www.xuran1983.cn:20230/douyu.php?id=8711212
+龙哥盘电影,http://www.xuran1983.cn:20230/douyu.php?id=9736161
+猪弟驸马爷,http://www.xuran1983.cn:20230/douyu.php?id=8862501
+神羊说电影,http://www.xuran1983.cn:20230/douyu.php?id=9443552
+崽崽撩电影,http://www.xuran1983.cn:20230/douyu.php?id=8325511
+狂野的种马小说家,http://www.xuran1983.cn:20230/douyu.php?id=8849703
+程情寫意,http://www.xuran1983.cn:20230/douyu.php?id=9191358
+XCin888,http://www.xuran1983.cn:20230/douyu.php?id=3617935
+小鸭子老师,http://www.xuran1983.cn:20230/douyu.php?id=9627625
+钱小元说电影,http://www.xuran1983.cn:20230/douyu.php?id=9368265
+可乐撩电影,http://www.xuran1983.cn:20230/douyu.php?id=9371552
+俄罗斯女孩安娜,http://www.xuran1983.cn:20230/douyu.php?id=9314604
+豆客解说,http://www.xuran1983.cn:20230/douyu.php?id=8883122
+杨山羊goat,http://www.xuran1983.cn:20230/douyu.php?id=6300365
+追寻那解不开的问题,http://www.xuran1983.cn:20230/douyu.php?id=5727066
+神迹小霸霸,http://www.xuran1983.cn:20230/douyu.php?id=8837963
+鸡蛋高V,http://www.xuran1983.cn:20230/douyu.php?id=9367188
+黑色脑回路,http://www.xuran1983.cn:20230/douyu.php?id=9339300
+将军侃片,http://www.xuran1983.cn:20230/douyu.php?id=8529736
+看不见的罗杰,http://www.xuran1983.cn:20230/douyu.php?id=8821917
+猫八解说,http://www.xuran1983.cn:20230/douyu.php?id=9542831
+我是怪异君V,http://www.xuran1983.cn:20230/douyu.php?id=10279570
+千代语默,http://www.xuran1983.cn:20230/douyu.php?id=9484187
+丽姐说电影,http://www.xuran1983.cn:20230/douyu.php?id=9437283
+是小x同学呀,http://www.xuran1983.cn:20230/douyu.php?id=9415020
+小猪优版剧院,http://www.xuran1983.cn:20230/douyu.php?id=10297898
+阿松撩剧,http://www.xuran1983.cn:20230/douyu.php?id=8880843
+看个M啊,http://www.xuran1983.cn:20230/douyu.php?id=9720919
+情感测试小分队,http://www.xuran1983.cn:20230/douyu.php?id=9697688
+木JJ,http://www.xuran1983.cn:20230/douyu.php?id=9575463
+喵妹说电影,http://www.xuran1983.cn:20230/douyu.php?id=9312432
+尚大人OwO,http://www.xuran1983.cn:20230/douyu.php?id=9656124
+無才先生,http://www.xuran1983.cn:20230/douyu.php?id=8317571
+醉我天涯zwty,http://www.xuran1983.cn:20230/douyu.php?id=9479775
+小儛电影嘚啵嘚,http://www.xuran1983.cn:20230/douyu.php?id=8362978
+老王追剧吧,http://www.xuran1983.cn:20230/douyu.php?id=9937291
+内蒙胡子王,http://www.xuran1983.cn:20230/douyu.php?id=9043800
+阿九筒的春天,http://www.xuran1983.cn:20230/douyu.php?id=3705679
+槽槽说电影,http://www.xuran1983.cn:20230/douyu.php?id=752376
+庄尼兔拟音实验室,http://www.xuran1983.cn:20230/douyu.php?id=9546169
+花町馆长,http://www.xuran1983.cn:20230/douyu.php?id=2295993
+名曰老饕,http://www.xuran1983.cn:20230/douyu.php?id=1732550
+同行渔猎笔记,http://www.xuran1983.cn:20230/douyu.php?id=2718202
+西施撩电影,http://www.xuran1983.cn:20230/douyu.php?id=7532080
+龙馍馍UP,http://www.xuran1983.cn:20230/douyu.php?id=1717648
+十里说,http://www.xuran1983.cn:20230/douyu.php?id=9064711
+朔涵君,http://www.xuran1983.cn:20230/douyu.php?id=9354201
+梦夫人啊,http://www.xuran1983.cn:20230/douyu.php?id=9384527
+齐司礼,http://www.xuran1983.cn:20230/douyu.php?id=9481340
+旺仔大哥哥阿,http://www.xuran1983.cn:20230/douyu.php?id=9629361
+是真的林虎LinHu,http://www.xuran1983.cn:20230/douyu.php?id=9540113
+然续续,http://www.xuran1983.cn:20230/douyu.php?id=9609171
+小太V,http://www.xuran1983.cn:20230/douyu.php?id=9606954
+蔡恩雨Priscilla,http://www.xuran1983.cn:20230/douyu.php?id=9662853
+外卖仙人成天,http://www.xuran1983.cn:20230/douyu.php?id=9498506
+京城笑工坊,http://www.xuran1983.cn:20230/douyu.php?id=10329324
+天堂电影1895,http://www.xuran1983.cn:20230/douyu.php?id=9573592
+高攀了这人间1,http://www.xuran1983.cn:20230/douyu.php?id=9651506
+励志少年派,http://www.xuran1983.cn:20230/douyu.php?id=8700367
+快乐的小波子,http://www.xuran1983.cn:20230/douyu.php?id=9039399
+大兵动画,http://www.xuran1983.cn:20230/douyu.php?id=9516137
+白鱼Sakana,http://www.xuran1983.cn:20230/douyu.php?id=9611771
+幕撩电影,http://www.xuran1983.cn:20230/douyu.php?id=9486015
+我是瓜皮儿本人a,http://www.xuran1983.cn:20230/douyu.php?id=9665696
+PhantomStrider,http://www.xuran1983.cn:20230/douyu.php?id=9683911
+鹿老尸,http://www.xuran1983.cn:20230/douyu.php?id=857979
+双笙陈元汐,http://www.xuran1983.cn:20230/douyu.php?id=6476693
+林九影视,http://www.xuran1983.cn:20230/douyu.php?id=7212528
+百态人间大赏,http://www.xuran1983.cn:20230/douyu.php?id=8724904
+打工战士SWEET,http://www.xuran1983.cn:20230/douyu.php?id=8795660
+噬元兽影视,http://www.xuran1983.cn:20230/douyu.php?id=8896723
+泽静,http://www.xuran1983.cn:20230/douyu.php?id=9055742
+八幡老师1,http://www.xuran1983.cn:20230/douyu.php?id=9272043
+晓晓说电影,http://www.xuran1983.cn:20230/douyu.php?id=9430717
+Nino学长,http://www.xuran1983.cn:20230/douyu.php?id=9525473
+洛飕飕,http://www.xuran1983.cn:20230/douyu.php?id=9543361
+忆暄Ethan,http://www.xuran1983.cn:20230/douyu.php?id=9570042
+一颗糖糖canddy,http://www.xuran1983.cn:20230/douyu.php?id=9192852
+影子叔V,http://www.xuran1983.cn:20230/douyu.php?id=9446338
+黄栗子Ye,http://www.xuran1983.cn:20230/douyu.php?id=9046097
+德井鱼,http://www.xuran1983.cn:20230/douyu.php?id=9184833
+小馒头叫包几,http://www.xuran1983.cn:20230/douyu.php?id=9028721
+不会骑马的健身少年,http://www.xuran1983.cn:20230/douyu.php?id=8862198
+秦看番,http://www.xuran1983.cn:20230/douyu.php?id=9542832
+小手枪Newhandgun,http://www.xuran1983.cn:20230/douyu.php?id=8943060
+11No巴蒂11,http://www.xuran1983.cn:20230/douyu.php?id=9455937
+酒痴东梦a,http://www.xuran1983.cn:20230/douyu.php?id=9477805
+人生回答机本机,http://www.xuran1983.cn:20230/douyu.php?id=9409722
+辰哥说电影,http://www.xuran1983.cn:20230/douyu.php?id=9371407
+野生岛民,http://www.xuran1983.cn:20230/douyu.php?id=10217843
+巅峰球迷会,http://www.xuran1983.cn:20230/douyu.php?id=10417360
+齐木楠雄的哦呼v,http://www.xuran1983.cn:20230/douyu.php?id=9415755
+亚巴拉辛巴V,http://www.xuran1983.cn:20230/douyu.php?id=5179152
+喝水少年孙十一,http://www.xuran1983.cn:20230/douyu.php?id=9619048
+蓝格雷,http://www.xuran1983.cn:20230/douyu.php?id=5124602
+甜粉粉的旅人呀,http://www.xuran1983.cn:20230/douyu.php?id=7335280
+伦帝电影说,http://www.xuran1983.cn:20230/douyu.php?id=9368091
+巡鳝大王,http://www.xuran1983.cn:20230/douyu.php?id=9498156
+鐵牛杰哥,http://www.xuran1983.cn:20230/douyu.php?id=8815425
+昆仑决KLF,http://www.xuran1983.cn:20230/douyu.php?id=1753007
+李李李蚊香,http://www.xuran1983.cn:20230/douyu.php?id=4786399
+屿风体育,http://www.xuran1983.cn:20230/douyu.php?id=10329889
+BuriedAlien的号,http://www.xuran1983.cn:20230/douyu.php?id=9440728
+神之传说sh,http://www.xuran1983.cn:20230/douyu.php?id=9370168
+女神撩电影,http://www.xuran1983.cn:20230/douyu.php?id=9439594
+大帅比陈雅楠,http://www.xuran1983.cn:20230/douyu.php?id=9718700
+游钓文龙,http://www.xuran1983.cn:20230/douyu.php?id=10104803
+阳仔骑行,http://www.xuran1983.cn:20230/douyu.php?id=9329185
+火宗君丶,http://www.xuran1983.cn:20230/douyu.php?id=9580477
+逍遥自在白辰皓,http://www.xuran1983.cn:20230/douyu.php?id=8859276
+Ido漫说,http://www.xuran1983.cn:20230/douyu.php?id=9456379
+卡密密尼,http://www.xuran1983.cn:20230/douyu.php?id=9013989
+田浅浅w,http://www.xuran1983.cn:20230/douyu.php?id=9747144
+小红在农村,http://www.xuran1983.cn:20230/douyu.php?id=1492444
+吾恩5nn,http://www.xuran1983.cn:20230/douyu.php?id=9631914
+肥宅小草,http://www.xuran1983.cn:20230/douyu.php?id=8887438
+八月看大片,http://www.xuran1983.cn:20230/douyu.php?id=8816671
+数据库saber,http://www.xuran1983.cn:20230/douyu.php?id=9720506
+少年看电影,http://www.xuran1983.cn:20230/douyu.php?id=8762120
+笑笑笑团长,http://www.xuran1983.cn:20230/douyu.php?id=10329368
+三斤呦,http://www.xuran1983.cn:20230/douyu.php?id=9047933
+酉晨君,http://www.xuran1983.cn:20230/douyu.php?id=9484541
+王德发的导演小阿伟,http://www.xuran1983.cn:20230/douyu.php?id=9430799
+是忆昔啊,http://www.xuran1983.cn:20230/douyu.php?id=9455518
+28岁电影,http://www.xuran1983.cn:20230/douyu.php?id=8884164
+耗子像个战神,http://www.xuran1983.cn:20230/douyu.php?id=1557288
+功夫联盟2020,http://www.xuran1983.cn:20230/douyu.php?id=9169624
+莱纳电影,http://www.xuran1983.cn:20230/douyu.php?id=9356937
+MJ小林大人嗷,http://www.xuran1983.cn:20230/douyu.php?id=9204381
+JG影视解说,http://www.xuran1983.cn:20230/douyu.php?id=9391277
+SAO东西又再说SAO话,http://www.xuran1983.cn:20230/douyu.php?id=8833450
+我是吃泡面看电影,http://www.xuran1983.cn:20230/douyu.php?id=8851063
+在下小苏Su,http://www.xuran1983.cn:20230/douyu.php?id=8658051
+探秘者大正,http://www.xuran1983.cn:20230/douyu.php?id=9330485
+爱情公寓95001,http://www.xuran1983.cn:20230/douyu.php?id=11720507
+当燕双鹰遇见李元芳,http://www.xuran1983.cn:20230/douyu.php?id=3439096
+当铁手团遇到光复社,http://www.xuran1983.cn:20230/douyu.php?id=5875025
+当幽兰剑遇上链子刀,http://www.xuran1983.cn:20230/douyu.php?id=6027991
+电影🌟轮播,#genre#
+刘德华,http://43.138.170.29:35455/yy/1382745111
+周星驰,http://43.138.170.29:35455/yy/1354658049
+周星驰,http://43.138.170.29:35455/yy/1382736808
+周润发,http://43.138.170.29:35455/yy/1354888733
+周润发,http://43.138.170.29:35455/yy/1354889044
+林正英,http://43.138.170.29:35455/yy/1353685311
+林正英,http://43.138.170.29:35455/yy/1453996620
+林正英,http://43.138.170.29:35455/yy/1354932444
+李连杰,http://43.138.170.29:35455/yy/74613175
+洪金宝,http://43.138.170.29:35455/yy/1354924839
+香港电影,http://43.138.170.29:35455/yy/1382736910
+经典电影,http://43.138.170.29:35455/yy/1450556636
+电影2,http://43.138.170.29:35455/yy/1354889048
+恐怖故事,http://43.138.170.29:35455/douyu/2337939
+科幻动作,http://43.138.170.29:35455/douyu/4332
+怡寳影院,http://43.138.170.29:35455/douyu/434971
+粤语电影,http://43.138.170.29:35455/douyu/6566671
+苹果影院,http://43.138.170.29:35455/douyu/2793084
+午夜故事,http://43.138.170.29:35455/douyu/8722254
+译制国语,http://43.138.170.29:35455/douyu/2436390
+蚂蚱影院,http://43.138.170.29:35455/douyu/6079455
+贝爷求生,http://43.138.170.29:35455/douyu/454867
+恐怖丧尸鬼片,http://43.138.170.29:35455/douyu/263824
+荒野建造者,http://43.138.170.29:35455/douyu/9611578
+邦德影院,http://43.138.170.29:35455/douyu/9292499
+特辑影院,http://43.138.170.29:35455/douyu/3637778
+惊悚影院,http://43.138.170.29:35455/douyu/96577
+吃米滴虫,http://43.138.170.29:35455/douyu/315457
+漫威影片,http://43.138.170.29:35455/douyu/6140589
+刘德华电影1,http://43.138.170.29:35455/douyu/2516864
+豆瓣高分,http://43.138.170.29:35455/douyu/8770422
+林正英电影2,http://43.138.170.29:35455/douyu/7356023
+宇哥电影,http://43.138.170.29:35455/douyu/413573
+贝爷影厅2,http://43.138.170.29:35455/douyu/36337
+霍格影片,http://43.138.170.29:35455/douyu/8814650
+避风港影院,http://43.138.170.29:35455/douyu/9826611
+恐怖经典,http://43.138.170.29:35455/douyu/1165374
+华语电影,http://43.138.170.29:35455/douyu/3928
+喜剧电影,http://43.138.170.29:35455/douyu/9292492
+深海,https://vip1.lz-cdn1.com/20230324/20760_c088369d/1800k/hls/mixed.m3u8
+深海,https://vip1.lz-cdn1.com/20230324/20760_c088369d/index.m3u8
+一起看恐怖片,http://43.138.170.29:35455/douyu/9412287
+片荒的日子,http://43.138.170.29:35455/douyu/4258555
+大胡子魏,http://43.138.170.29:35455/douyu/8792763
+童年回忆,http://43.138.170.29:35455/douyu/8915074
+下饭神剧,http://43.138.170.29:35455/douyu/276200
+悬疑犯罪,http://43.138.170.29:35455/douyu/9171887
+不一样的电影,http://43.138.170.29:35455/douyu/2632223
+开心锤锤,http://43.138.170.29:35455/douyu/9018297
+凛冬之地,http://43.138.170.29:35455/douyu/8945323
+看美剧,http://43.138.170.29:35455/douyu/8869614
+动漫直播,http://43.138.170.29:35455/douyu/1487654
+神乐剧场,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐剧院,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+菜叔巭硬,http://43.138.170.29:35455/douyu/7882691
+夏夏夏夏夜丶,http://43.138.170.29:35455/douyu/6706214
+婷宝宝不卖萌,http://43.138.170.29:35455/douyu/7033626
+北京影帝的分身,http://43.138.170.29:35455/douyu/9805480
+南波儿的柠檬,http://43.138.170.29:35455/douyu/3379942
+萌宠丶飞翔哥,http://43.138.170.29:35455/douyu/9957400
+不愿透露姓氏的林百万,http://43.138.170.29:35455/douyu/2726977
+这夜空中最亮的星,http://43.138.170.29:35455/douyu/9290755
+秋月剪水,http://43.138.170.29:35455/douyu/9588891
+达达杀猪菜儿,http://43.138.170.29:35455/douyu/11751004
+Miss北月,http://43.138.170.29:35455/douyu/8366759
+lele1894,http://43.138.170.29:35455/douyu/292098
+ryandradian,http://43.138.170.29:35455/douyu/3756989
+云墨墨1,http://43.138.170.29:35455/douyu/11456622
+诃德先生,http://43.138.170.29:35455/douyu/3758762
+橙沫小幺妹,http://43.138.170.29:35455/douyu/1584198
+美娘家的猪猪,http://43.138.170.29:35455/douyu/9019945
+顾止最爱的小胖宝贝,http://43.138.170.29:35455/douyu/238643
+胸弟团丶嫣嫣,http://43.138.170.29:35455/douyu/7810803
+东大林俊杰,http://43.138.170.29:35455/douyu/8787737
+小小甜的骑士,http://43.138.170.29:35455/douyu/9236042
+IMR无名,http://43.138.170.29:35455/douyu/10882624
+小小天才搞笑视频,http://43.138.170.29:35455/douyu/9419678
+掌上Club,http://43.138.170.29:35455/douyu/1770806
+逍遥君小哥OVO,http://43.138.170.29:35455/douyu/7155751
+冈崎朋也丶,http://43.138.170.29:35455/douyu/808010
+李允儿er的助眠小窝,http://43.138.170.29:35455/douyu/9038894
+我也想要一个千反田,http://43.138.170.29:35455/douyu/9290734
+Cat丶猫儿,http://43.138.170.29:35455/douyu/9242659
+开心嘴炮,http://43.138.170.29:35455/douyu/9026377
+文西与阿漆,http://43.138.170.29:35455/douyu/8737695
+一入江湖难回首,http://43.138.170.29:35455/douyu/1381309
+恨鐵,http://43.138.170.29:35455/douyu/6369954
+悬疑MOVIE,http://43.138.170.29:35455/douyu/9601429
+再不减肥就胖成球了,http://43.138.170.29:35455/douyu/11595245
+丫头的胖小熊,http://43.138.170.29:35455/douyu/11781872
+林大师丶情感人生指引,http://43.138.170.29:35455/douyu/537946
+爱好恐怖片的美男子,http://43.138.170.29:35455/douyu/9280384
+不是狄胖胖,http://43.138.170.29:35455/douyu/6690194
+历史经典烩,http://43.138.170.29:35455/douyu/9487003
+Svip丶YoYo,http://43.138.170.29:35455/douyu/3472959
+工藤新医heart,http://43.138.170.29:35455/douyu/8741860
+趁我们还年轻812,http://43.138.170.29:35455/douyu/7805562
+机智帅气的一炫君,http://43.138.170.29:35455/douyu/3705472
+爱喝养乐多的派大星,http://43.138.170.29:35455/douyu/9176009
+猴哥陪你看,http://43.138.170.29:35455/douyu/11756364
+用户0691020364,http://43.138.170.29:35455/douyu/11796534
+JustXiaIt嘻咦啊看,http://43.138.170.29:35455/douyu/2660125
+上海朱医生,http://43.138.170.29:35455/douyu/4654883
+漫威君,http://43.138.170.29:35455/douyu/1713615
+好剧看不停,http://43.138.170.29:35455/douyu/9388938
+猎奇笔记本,http://43.138.170.29:35455/douyu/9627172
+小derder哟,http://43.138.170.29:35455/douyu/9974197
+代娱说美剧,http://43.138.170.29:35455/douyu/9123570
+真香动漫解说,http://43.138.170.29:35455/douyu/9391292
+英大吉来了,http://43.138.170.29:35455/douyu/9174097
+小陶气说动漫,http://43.138.170.29:35455/douyu/9527700
+一目十影,http://43.138.170.29:35455/douyu/3643605
+文大郎UP,http://43.138.170.29:35455/douyu/8060436
+老鱼说剧,http://43.138.170.29:35455/douyu/9994377
+影视笑工场,http://43.138.170.29:35455/douyu/10298846
+1003402830,http://43.138.170.29:35455/douyu/2436920
+奥雷卡尔克斯,http://43.138.170.29:35455/douyu/1224356
+智仗心,http://43.138.170.29:35455/douyu/5635000
+是晓葑呀,http://43.138.170.29:35455/douyu/9650783
+南国小豆豆,http://43.138.170.29:35455/douyu/3310454
+史君观影,http://43.138.170.29:35455/douyu/9644669
+我为奥迪上黄金,http://43.138.170.29:35455/douyu/9336286
+圈踢动漫,http://43.138.170.29:35455/douyu/1952680
+阿苏电影,http://43.138.170.29:35455/douyu/9037784
+绿阿掌,http://43.138.170.29:35455/douyu/2365
+我是一只西瓜啊,http://43.138.170.29:35455/douyu/9065082
+胥渡吧直播号,http://43.138.170.29:35455/douyu/2040822
+南南AKRAPOVIC,http://43.138.170.29:35455/douyu/3627728
+只关于篮球的只老师,http://43.138.170.29:35455/douyu/9367541
+岚FLL,http://43.138.170.29:35455/douyu/9409703
+壹丨哥,http://43.138.170.29:35455/douyu/5692901
+植物椿de房间,http://43.138.170.29:35455/douyu/9771247
+洋先生FT,http://43.138.170.29:35455/douyu/8595134
+是个小可爱iiii,http://43.138.170.29:35455/douyu/9650782
+楠者电影,http://43.138.170.29:35455/douyu/9485398
+有部电影儿,http://43.138.170.29:35455/douyu/9736479
+墨逗电影,http://43.138.170.29:35455/douyu/9614847
+我和僵尸有个约会放映,http://43.138.170.29:35455/douyu/11784450
+贝爷求生影视,http://43.138.170.29:35455/douyu/9661369
+铁血影视汇,http://43.138.170.29:35455/douyu/9649701
+松轩说电影,http://43.138.170.29:35455/douyu/1524969
+东倾电影,http://43.138.170.29:35455/douyu/8344251
+蛋泥动画,http://43.138.170.29:35455/douyu/9312460
+祁乐丶,http://43.138.170.29:35455/douyu/8066352
+探奇录,http://43.138.170.29:35455/douyu/9746763
+勤时铭悦,http://43.138.170.29:35455/douyu/8790357
+我叫萌迪迪V,http://43.138.170.29:35455/douyu/5354705
+俗哥看电影,http://43.138.170.29:35455/douyu/2161818
+尉迟杰影评,http://43.138.170.29:35455/douyu/8850682
+暴躁少女零九,http://43.138.170.29:35455/douyu/9065302
+怪事屋,http://43.138.170.29:35455/douyu/8706084
+大蓝雀,http://43.138.170.29:35455/douyu/8656759
+阎君说剧,http://43.138.170.29:35455/douyu/10475459
+九叔说电影v,http://43.138.170.29:35455/douyu/9348282
+蓝光乐队,http://43.138.170.29:35455/douyu/9572351
+逗米说电影,http://43.138.170.29:35455/douyu/421222
+爱爱小s,http://43.138.170.29:35455/douyu/10308312
+篮球长镜头,http://43.138.170.29:35455/douyu/9399887
+浩贤说电影,http://43.138.170.29:35455/douyu/10535867
+纪录片之家字幕组,http://43.138.170.29:35455/douyu/8834003
+楚哥说电影,http://43.138.170.29:35455/douyu/9375743
+小小鹿老师,http://43.138.170.29:35455/douyu/9442889
+行墨听雨,http://43.138.170.29:35455/douyu/11791770
+文曰小强,http://43.138.170.29:35455/douyu/2680501
+独立鱼电影,http://43.138.170.29:35455/douyu/2413555
+小猪搞笑精选,http://43.138.170.29:35455/douyu/10329752
+是搞笑君啊,http://43.138.170.29:35455/douyu/10329719
+沉郁观影,http://43.138.170.29:35455/douyu/9393577
+雨忆动漫,http://43.138.170.29:35455/douyu/9568700
+林林林林林啊丶,http://43.138.170.29:35455/douyu/6747916
+阿依图娜,http://43.138.170.29:35455/douyu/9047046
+荒野视界,http://43.138.170.29:35455/douyu/10675329
+五分钟电影汇,http://43.138.170.29:35455/douyu/8443438
+科学放映室,http://43.138.170.29:35455/douyu/9439712
+斗鱼恐怖游戏合集,http://43.138.170.29:35455/douyu/10401481
+郭云神奇,http://43.138.170.29:35455/douyu/8694831
+C座802,http://43.138.170.29:35455/douyu/8768943
+风云I人物志,http://43.138.170.29:35455/douyu/9970047
+求求扣扣困困,http://43.138.170.29:35455/douyu/8795274
+娱乐扒叔,http://43.138.170.29:35455/douyu/9624581
+哇哇哇妹,http://43.138.170.29:35455/douyu/8657920
+王者好气阿,http://43.138.170.29:35455/douyu/10076641
+秀才侃娱乐,http://43.138.170.29:35455/douyu/9382873
+Psyman塞门,http://43.138.170.29:35455/douyu/9753585
+尽整没用D,http://43.138.170.29:35455/douyu/8791622
+Fatal飞雪,http://43.138.170.29:35455/douyu/8813596
+说好的我们一起白嫖呢,http://43.138.170.29:35455/douyu/7421687
+百万巨星麒麟君,http://43.138.170.29:35455/douyu/3431701
+科幻战舰,http://43.138.170.29:35455/douyu/8772060
+龙视开心麻花街,http://43.138.170.29:35455/douyu/9374862
+海森堡事件录,http://43.138.170.29:35455/douyu/9754849
+郑云工作室,http://43.138.170.29:35455/douyu/2995636
+竹公子有礼了,http://43.138.170.29:35455/douyu/8887432
+不二真探,http://43.138.170.29:35455/douyu/10319545
+指缝里看电影,http://43.138.170.29:35455/douyu/9647834
+九冢嵬,http://43.138.170.29:35455/douyu/9393501
+喜剧电影笑不停,http://43.138.170.29:35455/douyu/10298856
+小姐姐Bie跑哦,http://43.138.170.29:35455/douyu/8666258
+罗叔说戏,http://43.138.170.29:35455/douyu/9788756
+安小闫说电影x,http://43.138.170.29:35455/douyu/1842621
+音乐台长,http://43.138.170.29:35455/douyu/9629943
+电影刘油果,http://43.138.170.29:35455/douyu/3985805
+荒野避难所,http://43.138.170.29:35455/douyu/10234334
+蓝星人一ET,http://43.138.170.29:35455/douyu/9431727
+日本女子摔角,http://43.138.170.29:35455/douyu/425809
+邸生,http://43.138.170.29:35455/douyu/9665298
+纳豆奶奶666,http://43.138.170.29:35455/douyu/8745628
+小侠来了,http://43.138.170.29:35455/douyu/9734042
+童乐说电影,http://43.138.170.29:35455/douyu/9660704
+宇哥讲电影,http://43.138.170.29:35455/douyu/2104744
+篮球之家老李,http://43.138.170.29:35455/douyu/9170147
+怪味爆米花电影,http://43.138.170.29:35455/douyu/9422144
+北大落说大片,http://43.138.170.29:35455/douyu/8828811
+老电影故事,http://43.138.170.29:35455/douyu/9167273
+龙视超级笑匠,http://43.138.170.29:35455/douyu/9375450
+冬粮说故事,http://43.138.170.29:35455/douyu/5192695
+火龙果讲电影本人,http://43.138.170.29:35455/douyu/2039501
+夜与白鲸V,http://43.138.170.29:35455/douyu/9734515
+锦书致南辞阿,http://43.138.170.29:35455/douyu/2894528
+胖段段fre,http://43.138.170.29:35455/douyu/9662856
+香菜碎碎念鸭,http://43.138.170.29:35455/douyu/9663665
+搞笑动漫大本营,http://43.138.170.29:35455/douyu/9650181
+LOUIS樱,http://43.138.170.29:35455/douyu/9235284
+17号说动漫,http://43.138.170.29:35455/douyu/9822277
+话龙电竞,http://43.138.170.29:35455/douyu/9957571
+大坑侦探社,http://43.138.170.29:35455/douyu/9440339
+奇妙博物馆,http://43.138.170.29:35455/douyu/9409723
+粤男有话儿,http://43.138.170.29:35455/douyu/8764282
+大狼狗刨祖坟,http://43.138.170.29:35455/douyu/10217975
+草泥泥影院,http://43.138.170.29:35455/douyu/9091049
+博然讲电影,http://43.138.170.29:35455/douyu/9561992
+阿轩速看,http://43.138.170.29:35455/douyu/9542676
+玫瑰叔品评,http://43.138.170.29:35455/douyu/8805720
+贰哥电影,http://43.138.170.29:35455/douyu/9338867
+果冻萌萌的丶,http://43.138.170.29:35455/douyu/9607934
+猪肉熟了,http://43.138.170.29:35455/douyu/296836
+强人说笑,http://43.138.170.29:35455/douyu/10329713
+哇萨比抓马WD,http://43.138.170.29:35455/douyu/8808506
+据说放映室,http://43.138.170.29:35455/douyu/8837964
+微梦屋,http://43.138.170.29:35455/douyu/7027040
+二毛荒野垂钓生活1,http://43.138.170.29:35455/douyu/10007687
+KyoKyo不是QQ,http://43.138.170.29:35455/douyu/4732337
+小乔讲电影,http://43.138.170.29:35455/douyu/8413908
+阿木讲电影,http://43.138.170.29:35455/douyu/532050
+飞碟说官方,http://43.138.170.29:35455/douyu/1449125
+果冻lui,http://43.138.170.29:35455/douyu/9191790
+我叫孙火旺,http://43.138.170.29:35455/douyu/9770949
+负担亡魂,http://43.138.170.29:35455/douyu/10308242
+胶片看电影,http://43.138.170.29:35455/douyu/3715426
+阿尔法是只边牧,http://43.138.170.29:35455/douyu/8662812
+三代鹿人v,http://43.138.170.29:35455/douyu/9629717
+快哥说老片,http://43.138.170.29:35455/douyu/10411518
+思乡渔夫,http://43.138.170.29:35455/douyu/9049634
+嘴巴鼻子没有沟,http://43.138.170.29:35455/douyu/10217984
+爆笑行为大赏,http://43.138.170.29:35455/douyu/10329767
+阿赫影视,http://43.138.170.29:35455/douyu/11800064
+人类早期驯服,http://43.138.170.29:35455/douyu/8892864
+管哥视频,http://43.138.170.29:35455/douyu/10181584
+不会弹琴雯雯猫,http://43.138.170.29:35455/douyu/11793007
+渔村小马,http://43.138.170.29:35455/douyu/1447771
+多多其木格,http://43.138.170.29:35455/douyu/9075374
+开车大神,http://43.138.170.29:35455/douyu/9759970
+大壮撞电影,http://43.138.170.29:35455/douyu/9437349
+伯乐说电影V,http://43.138.170.29:35455/douyu/9386057
+TFBOYS饭团,http://43.138.170.29:35455/douyu/9565765
+奇趣研究,http://43.138.170.29:35455/douyu/8661456
+犀利影评,http://43.138.170.29:35455/douyu/9647845
+我是目言,http://43.138.170.29:35455/douyu/8261344
+快看张不止,http://43.138.170.29:35455/douyu/8413226
+竹儿公公,http://43.138.170.29:35455/douyu/8807568
+天才霸总的狐崽崽,http://43.138.170.29:35455/douyu/10394922
+张宇394795,http://43.138.170.29:35455/douyu/7508566
+二哈讲电影,http://43.138.170.29:35455/douyu/8778280
+看电影了没V,http://43.138.170.29:35455/douyu/9562616
+神烦xp,http://43.138.170.29:35455/douyu/8286679
+鄂东老男孩,http://43.138.170.29:35455/douyu/8837707
+龙视欢乐英雄转,http://43.138.170.29:35455/douyu/9374836
+影视梗大叔,http://43.138.170.29:35455/douyu/9480648
+听wo姐说,http://43.138.170.29:35455/douyu/8830082
+屁屁鸭家族LOVE,http://43.138.170.29:35455/douyu/9461930
+戴萌兔,http://43.138.170.29:35455/douyu/9522315
+勇敢的荒野人,http://43.138.170.29:35455/douyu/9618038
+荒野建筑指南,http://43.138.170.29:35455/douyu/10226974
+梓帆说电影,http://43.138.170.29:35455/douyu/9769563
+爱吃素的汉尼拔VV,http://43.138.170.29:35455/douyu/6361974
+TUOK肖恩,http://43.138.170.29:35455/douyu/9392433
+宝蓝和朋友们,http://43.138.170.29:35455/douyu/9283356
+荒野动物园,http://43.138.170.29:35455/douyu/9663833
+政宗君de情敵,http://43.138.170.29:35455/douyu/9624330
+天才简史,http://43.138.170.29:35455/douyu/8662915
+魔术飞哥,http://43.138.170.29:35455/douyu/517915
+流心影者,http://43.138.170.29:35455/douyu/9447717
+刘也变z,http://43.138.170.29:35455/douyu/9489079
+周六野Zoey,http://43.138.170.29:35455/douyu/8912150
+大熊观影,http://43.138.170.29:35455/douyu/8851140
+电影七十二变,http://43.138.170.29:35455/douyu/9323164
+高能恐怖片段君,http://43.138.170.29:35455/douyu/10401475
+小林家的旗女仆,http://43.138.170.29:35455/douyu/9211287
+fans圈娱乐,http://43.138.170.29:35455/douyu/9630581
+拳击大王,http://43.138.170.29:35455/douyu/9385340
+蛋黄讲动漫,http://43.138.170.29:35455/douyu/9542834
+户外老曹,http://43.138.170.29:35455/douyu/9957389
+雪輝TnT,http://43.138.170.29:35455/douyu/8936207
+电影黑匣子,http://43.138.170.29:35455/douyu/8706652
+冷孝洪,http://43.138.170.29:35455/douyu/9527761
+方攵日央木几,http://43.138.170.29:35455/douyu/9942574
+3秒爱上学习V,http://43.138.170.29:35455/douyu/9541736
+经典拳赛,http://43.138.170.29:35455/douyu/9412138
+喵来啦V,http://43.138.170.29:35455/douyu/8657669
+到远方旅行,http://43.138.170.29:35455/douyu/9614588
+民工小代,http://43.138.170.29:35455/douyu/9616619
+瓦岗寨主坑爹李,http://43.138.170.29:35455/douyu/7661496
+不思异剧场,http://43.138.170.29:35455/douyu/9297412
+MK青凌,http://43.138.170.29:35455/douyu/9488836
+鑫酱盘动漫,http://43.138.170.29:35455/douyu/9547575
+每日好电影V,http://43.138.170.29:35455/douyu/9533302
+大荒电影,http://43.138.170.29:35455/douyu/3508538
+柠檬檬檬儿vlog,http://43.138.170.29:35455/douyu/9624845
+鸡腿子软糖,http://43.138.170.29:35455/douyu/8695854
+娱乐新番,http://43.138.170.29:35455/douyu/9564845
+世界纪录大全,http://43.138.170.29:35455/douyu/9406359
+11554444,http://43.138.170.29:35455/douyu/11484175
+亮亮也是酿酿,http://43.138.170.29:35455/douyu/4340136
+电影吐槽汇,http://43.138.170.29:35455/douyu/9447668
+罗休休休,http://43.138.170.29:35455/douyu/9403178
+老段带你钓青鱼,http://43.138.170.29:35455/douyu/10105639
+血小板呐呐,http://43.138.170.29:35455/douyu/4285043
+山里记,http://43.138.170.29:35455/douyu/9410236
+小马哥说电影,http://43.138.170.29:35455/douyu/9396672
+9iota,http://43.138.170.29:35455/douyu/8881729
+搞笑天堂岛,http://43.138.170.29:35455/douyu/6916081
+是不是Pro,http://43.138.170.29:35455/douyu/9475113
+电影冷知识,http://43.138.170.29:35455/douyu/9660835
+末日说电影,http://43.138.170.29:35455/douyu/9431125
+搞笑院长,http://43.138.170.29:35455/douyu/8829915
+小岛讲电影,http://43.138.170.29:35455/douyu/9390955
+涛哥测评,http://43.138.170.29:35455/douyu/613850
+小刚学长o,http://43.138.170.29:35455/douyu/9701497
+王十三686,http://43.138.170.29:35455/douyu/10814845
+农村幺妹儿,http://43.138.170.29:35455/douyu/9344884
+乡间大路上,http://43.138.170.29:35455/douyu/9850661
+和猫住丶,http://43.138.170.29:35455/douyu/850030
+沂沐啊,http://43.138.170.29:35455/douyu/9481137
+好像视说故事,http://43.138.170.29:35455/douyu/8891883
+柳青瑶本尊,http://43.138.170.29:35455/douyu/2281324
 
 历届春晚,#genre#
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
