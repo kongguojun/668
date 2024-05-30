@@ -2,32 +2,36 @@
     "urls": [
 	{
             "url": "https://gitee.com/ds360/ds/raw/master/xiao.json",
-            "name": "🇨🇳国军无磁力-小内存线路"
+            "name": "🇨🇳国军-无磁力-优选线路"
         },
-{
-            "url": "https://gitee.com/ds360/ds/raw/master/yingshi.json",
-            "name": "🇨🇳国军收集通用仓库"
+			   {
+            "url": "https://gitee.com/ds360/ds/raw/master/xc/xc.json",
+            "name": "🇨🇳国军🏅极速XC精简线路"
+        },
+				        {
+            "url": "https://gitee.com/ds360/ds/raw/master/so/so.json",
+            "name": "🇨🇳国军🚀纯搜索纯净线路"
         },
 
 			{
             "url": "https://gitee.com/ds360/ds/raw/master/pg/jsm.json",
-            "name": "国军戏曲🎸PG网盘线路"
+            "name": "国军戏曲🎸PG网盘老线路"
+        },
+					{
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/pg/jsm.json",
+            "name": "国军戏曲🎸PG网盘新线路"
+        },
+		{
+            "url": "https://gitee.com/ds360/ds/raw/master/yingshi.json",
+            "name": "🇨🇳国军收集通用仓库"
         },
 					{
             "url": "https://gitee.com/ds360/ds/raw/master/yun/ysc.json",
             "name": "国军🚀影视仓💥线路"
         },
-							{
-            "url": "https://gitee.com/ds360/ds/raw/master/bp/bp.json",
-            "name": "🇨🇳国军🚀极速精简白嫖线路"
-        },
- 
-		        {
-            "url": "https://gitee.com/ds360/ds/raw/master/so/so.json",
-            "name": "🇨🇳国军🚀纯搜索纯净线路"
-        },
+
 				        {
-            "url": "http://饭太硬.top/tv",
+            "url": "http://饭太硬.com/tv",
             "name": "饭太硬"
         },
 		 {
@@ -40,12 +44,12 @@
     },
 
         {
-            "url": "https://wds.ecsxs.com/231726.css",
+            "url": "http://120.24.204.74:1888/?explorer/share/file&hash=1277MMs1UITPwRkFSiUwxvFZU1UGQqfXHMnKQHeMcexYxjtYy9tydrVYUbsNkOItAw&name=/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E6%96%B0yy.css",
             "name": "春盈天下"
         },        
     
         {
-            "url": "http://8.210.232.168/xc.json",
+            "url": "http://175.24.189.226/xc.json",
             "name": "玉玉"
         },
 		{
