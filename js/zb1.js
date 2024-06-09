@@ -3,9 +3,9 @@
 {"name":"国军收集V4","url":"http://49.232.152.29:6659/api/live.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
 
 
- {"name":"直播接口3","url":"http://39.101.135.137:8081/zb.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
+ {"name":"直播接口3","url":"http://39.101.135.137:8081/zb.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
 
- {"name":"直播接口4","url":"https://121.37.192.46:29447/down/Djie32LWrrpM.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
+ {"name":"直播接口4","url":"https://121.37.192.46:29447/down/Djie32LWrrpM.txt&&&http://api.btstu.cn/sjbz/"},
  {"name":"直播接口1","url":"https://pan.baidu.re/down.php/7b38193edc6a31aeea677e718fb44d6f.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
  {"name":"直播接口7","url":"https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
 
