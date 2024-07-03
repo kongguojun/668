@@ -33,10 +33,7 @@
             "url": "https://gitee.com/ds360/ds/raw/master/pg/jsm.json",
             "name": "国军戏曲🎸PG网盘老线路"
         },
-					{
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/pg/jsm.json",
-            "name": "国军戏曲🎸PG网盘新线路"
-        },
+
 		{
             "url": "https://gitee.com/ds360/ds/raw/master/yingshi.json",
             "name": "🇨🇳国军收集通用仓库"
@@ -46,7 +43,7 @@
             "name": "国军影视仓 JS💥线路"
         },
 							{
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ds360360/pgzaixian/main/jsm.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ds360360/pgzaixian/main/jsm.json",
             "name": "国军搬运PG原版接口"
         },
 
@@ -56,7 +53,7 @@
         },        
     
         {
-            "url": "https://yubox.xyz/xc.json",
+            "url": "http://175.24.189.226/xc.json",
             "name": "玉玉"
         }
 
