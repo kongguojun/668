@@ -1,21 +1,14 @@
 [
 {"name": "国军直播",     "url": "https://gitee.com/ds360/ds/raw/master/ZB/daquan.jpg&&&https://gitee.com/ds360/ds/raw/master/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/1.jpg"},
-{"name":"ipv6专用直播","url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
+{"name":"ipv6直播","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt"},
  {"name": "国军MV合集",     "url": "https://gitee.com/ds360/ds/raw/master/ZB/8000gequ.jpg&&&https://gitee.com/ds360/ds/raw/master/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/3.jpg"},
 {"name": "国军MV合集1",     "url": "https://gitee.com/ds360/ds/raw/master/ZB/mv.jpg&&&https://gitee.com/ds360/ds/raw/master/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/3.jpg"},
 {"name": "小苹果直播",     "url": "http://tipu.xjqxz.top/live1213.txt"},
-{"name": "电视伴音",     "url": "https://cloud.lxweb.cn/f/GO6Whg/radio.txt"},
-{"name": "D大佬·猫TV",     "url": "http://rihou.cc:555/gggg.nzk"},
-{"name": "糖意",     "url": "https://gitcode.net/js283311816/ty/-/raw/master/糖意/"},
-{"name": "👉子凯",     "url": "http://zikai.3vkj.club/tv/002.m3u"},
-{"name":"收集直播","url":"https://gitee.com/da-hei/direct-seeding/raw/master/pingfang.txt"},
-{"name":"收集直播2","url":"https://gitlab.com/tvtg/vip/-/raw/main/log.txt"},
-{"name":"安卓哥","url":"https://安卓哥.com/ZB"},
-{"name":"东阳","url":"https://codeberg.org/aa895227673/AAA111/raw/branch/main/东阳直播源/"},
-{"name":"收集直播3","url":"http://27.54.236.201:88/app/live.txt"},
 {"name":"虎牙","url":"https://live.freetv.top/huyayqk.m3u"},
 {"name":"斗鱼","url":"https://live.freetv.top/douyuyqk.m3u"},
-{"name":"直播1号","url":"http://ttkx.live:55/lib/kx2024.txt"},
-{"name":"BILIBLI","url":"https://www.goodiptv.club/bililive.m3u"},
-{"name":"KAIXIN","url":"http://rihou.vip:55/lib/kx2024.txt"}
+{"name":"YY","url":"https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top"},
+{"name":"哔哩哔哩","url":"https://www.goodiptv.club/bililive.m3u"},
+{"name": "D大佬·猫TV",     "url": "http://rihou.cc:555/gggg.nzk"},
+{"name":"收集直播3","url":"http://27.54.236.201:88/app/live.txt"},
+{"name":"KAIXIN","url":"http://rihou.cc:55/lib/kx2024.txt"}
 ]
