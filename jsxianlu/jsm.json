@@ -5,7 +5,7 @@
   "sites": [
      {
 	   "key": "js豆瓣",
-	   "name": "🍥┃豆瓣┃网盘线路、不限速、不限制客户端🍥",
+	   "name": "🍥┃豆瓣┃不限速、不限制客户端🍥",
 	   "type": 3,
 	   "api": "./lib/drpy2.min.js",
 	   "searchable": 0,
@@ -13,33 +13,7 @@
 	   "filterable": 0,
 	   "ext": "./lib/douban.js"
 	}, 
-     {
-      "key": "ConfigCenter",
-      "name": "配置中心",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "哔哩FM",
-      "name": "哔哩哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "./json/bilibili.json",
-        "cookie": ""
-      }
-    },	
+
 		{
 			"key": "hipy_js_金牌影院",
 			"name": "金牌影院",
@@ -117,107 +91,7 @@
         "filter": "./wogg.json"
       }
     },	 	
-	{
-	 "key": "js_荐片",
-	 "name": "荐片影视",
-	 "type": 3,
-	 "api": "./drpy_libs/drpy2.min.js",
-	 "ext": "./drpy_js/荐片[优].js",
-	 "playerType": 1,
-	 "searchable": 1,
-	 "quickSearch": 1,
-	 "filterable": 1
-	},	
-    {
-      "key": "玩偶gg",
-      "name": "饭硬玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./peizhi.json",
-        "siteUrl": "https://www.wogg.bf/",
-        "filter": "./wogg.json"
-      }
-    },
-    {
-      "key": "蜡笔玩偶",
-      "name": "蜡笔玩偶",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./peizhi.json",
-        "siteUrl": "https://duopan.fun/",
-        "filter": "./wogg.json"
-      }
-    },		
-    {
-      "key": "TgYunPan1",
-      "name": "TgYunPan1",
-      "type": 3,
-      "api": "csp_TgYunPan",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "siteUrl": "http://144.126.217.226:8000",
-        "channelUsername": "yunpanshare",
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "TgYunPan5",
-      "name": "TgYunPan5",
-      "type": 3,
-      "api": "csp_TgYunPan",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "siteUrl": "http://144.126.217.226:8000",
-        "channelUsername": "guaguale115",
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "网盘集合",
-      "name": "网盘集合",
-      "type": 3,
-      "api": "csp_网盘集合",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "./peizhi.json",
-        "share": "./网盘集合.json"
-      }
-    },
-    {
-      "key": "易搜",
-      "name": "易搜网盘",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "盤搜索",
-      "name": "网盘搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./peizhi.json"
-      }
-    },	
+	
 		{
 			"key": "hipy_js_多多追剧[优]",
 			"name": "多多追剧",
