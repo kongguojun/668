@@ -2,11 +2,11 @@
     "urls": [
 
 	{
-            "url": "https://gitee.com/ds360/ds/raw/master/xiao.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/xiao.json",
             "name": "📺国军-无磁力-优选线路"
         },
 				{
-            "url": "https://gitee.com/ds360/ds/raw/master/fty/fty.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/fty/fty.json",
             "name": "国军🍚FTY-精简优选线路"
         },
 
@@ -18,35 +18,29 @@
             "url": "http://肥猫.com/",
             "name": "肥猫🐼并不肥"
         },
-			   {
-            "url": "https://gitee.com/ds360/ds/raw/master/xc/xc.json",
-            "name": "🇨🇳国军🏅极速XC精简线路"
-        },
+
 				        {
-            "url": "https://gitee.com/ds360/ds/raw/master/so/so.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/sou/so.json",
             "name": "🇨🇳国军🔍纯搜索线路"
         },
-								        {
-            "url": "https://gitee.com/ds360/ds/raw/master/jsxianlu/js.json",
-            "name": "🇨🇳国军🚀纯JS线路"
-        },
+
 				{
-            "url": "https://gitee.com/ds360/ds/raw/master/xbpq.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/xbpq.json",
             "name": "国军📺︎各大视频网合集线路"
         },
 			{
-            "url": "https://gitee.com/ds360/ds/raw/master/pg/jsm.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/pg/jsm.json",
             "name": "国军戏曲🎸PG网盘线路"
         },
-
-		{
-            "url": "https://gitee.com/ds360/ds/raw/master/yingshi.json",
-            "name": "🇨🇳国军收集通用仓库"
-        },
 					{
-            "url": "https://gitee.com/ds360/ds/raw/master/yunjs/ysc.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/jsxianlu/jsm.json",
             "name": "国军影视仓 JS💥线路"
         },
+		{
+            "url": "https://gitee.com/dskong/kong/raw/master/yingshi.json",
+            "name": "🇨🇳国军收集通用仓库"
+        },
+
 							{
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/ds360360/pgzaixian/main/jsm.json",
             "name": "国军搬运PG原版接口"

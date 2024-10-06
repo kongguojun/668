@@ -5,7 +5,7 @@
 		{
 				"name": "国军直播专用",
 				"type": 0,
-				"url": "https://gitee.com/ds360/ds/raw/master/ZB/daquan.jpg",
+				"url": "https://gitee.com/dskong/kong/raw/master/ZB/daquan.jpg",
 				"playerType": 2,
 				"ua": "okhttp/3.15",
 			    "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",

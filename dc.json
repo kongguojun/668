@@ -1,40 +1,34 @@
 ﻿{
     "urls": [
 	{
-            "url": "https://gitee.com/ds360/ds/raw/master/xiao.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/xiao.json",
             "name": "🇨🇳国军-无磁力-优选线路"
         },
 			{
-            "url": "https://gitee.com/ds360/ds/raw/master/fty/fty.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/fty/fty.json",
             "name": "国军🍚FTY精简线路"
         },
-			   {
-            "url": "https://gitee.com/ds360/ds/raw/master/xc/xc.json",
-            "name": "🇨🇳国军🏅极速XC精简线路"
-        },
+
 				        {
-            "url": "https://gitee.com/ds360/ds/raw/master/so/so.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/sou/so.json",
             "name": "🇨🇳国军🔍纯搜索线路"
         },
-								        {
-            "url": "https://gitee.com/ds360/ds/raw/master/jsxianlu/js.json",
-            "name": "🇨🇳国军🚀纯JS线路"
-        },
+
 				{
-            "url": "https://gitee.com/ds360/ds/raw/master/xbpq.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/xbpq.json",
             "name": "国军📺︎各大视频网合集线路"
         },
 			{
-            "url": "https://gitee.com/ds360/ds/raw/master/pg/jsm.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/pg/jsm.json",
             "name": "国军戏曲🎸PG网盘线路"
         },
 
 		{
-            "url": "https://gitee.com/ds360/ds/raw/master/yingshi.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/yingshi.json",
             "name": "🇨🇳国军收集通用仓库"
         },
 					{
-            "url": "https://gitee.com/ds360/ds/raw/master/yunjs/ysc.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/jsxianlu/jsm.json",
             "name": "国军影视仓 JS💥线路"
         },
 
@@ -48,32 +42,32 @@
         },
 	    
 		{
-            "url": "https://gitee.com/ds360/ds/raw/master/18/18.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/18/18.json",
             "name": "🇨🇳国军收集18仓库"
         },
 	{
-            "url": "https://gitee.com/ds360/ds/raw/master/188/188.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/188/188.json",
             "name": "🇨🇳国军188仓库"
         },
 						{
-            "url": "https://gitee.com/ds360/ds/raw/master/188.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/188.json",
             "name": "🇨🇳国军18x"
     },
 			{
-            "url": "https://gitee.com/ds360/ds/raw/master/pro2.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/pro2.json",
             "name": "🇨🇳国军18pro"
     },
 				{
-            "url": "https://gitee.com/ds360/ds/raw/master/h/prox.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/h/prox.json",
             "name": "🇨🇳国军18proX"
     },
 	    
 				{
-            "url": "https://gitee.com/ds360/ds/raw/master/18js/18.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/18js/18.json",
             "name": "🇨🇳国军18js"
     },
         {
-            "url": "https://gitee.com/ds360/ds/raw/master/18.json",
+            "url": "https://gitee.com/dskong/kong/raw/master/18.json",
             "name": "🇨🇳国军18"
         }
   ]
