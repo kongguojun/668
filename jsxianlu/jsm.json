@@ -78,19 +78,7 @@
 			"filterable": 1,
 			"ext": "./drpy_js/南瓜影视[优].js"
 		},	
-    {
-      "key": "多多玩偶",
-      "name": "多多影音",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./peizhi.json",
-        "siteUrl": "https://tv.yydsys.cc/",
-        "filter": "./wogg.json"
-      }
-    },	 	
+ 	
 	
 		{
 			"key": "hipy_js_多多追剧[优]",
