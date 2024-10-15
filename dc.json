@@ -22,7 +22,10 @@
             "url": "https://gitee.com/dskong/kong/raw/master/pg/jsm.json",
             "name": "国军戏曲🎸PG网盘线路"
         },
-
+		{
+            "url": "https://gitee.com/dskong/kong/raw/master/xc/xc.json",
+            "name": "🇨🇳国军XC精简仓库"
+        },
 		{
             "url": "https://gitee.com/dskong/kong/raw/master/yingshi.json",
             "name": "🇨🇳国军收集通用仓库"

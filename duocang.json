@@ -28,6 +28,10 @@
             "url": "https://gitee.com/dskong/kong/raw/master/xbpq.json",
             "name": "国军📺︎各大视频网合集线路"
         },
+				{
+            "url": "https://gitee.com/dskong/kong/raw/master/xc/xc.json",
+            "name": "🇨🇳国军XC精简仓库"
+        },
 			{
             "url": "https://gitee.com/dskong/kong/raw/master/pg/jsm.json",
             "name": "国军戏曲🎸PG网盘线路"
@@ -44,8 +48,15 @@
 							{
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/ds360360/pgzaixian/main/jsm.json",
             "name": "国军搬运PG原版接口"
+        },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "🐟摸鱼接口 "
+    },
+							{
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/001.json",
+            "name": "分享者收集"
         }
-
 
 
   ]
