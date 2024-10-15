@@ -3,8 +3,8 @@
     "name": "推薦",
     "list": [
       {
-        "url": "https://ghp.ci/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/bhmb.jpg",
-        "icon": "https://ghp.ci/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/bhmb.jpg"
+        "url": "https://gitee.com/dskong/kong/raw/master/ZB/logo.png",
+        "icon": "https://gitee.com/dskong/kong/raw/master/ZB/logo.png"
       }
     ]
   },
@@ -13,7 +13,7 @@
     "list": [
 {
         "name": "国军影视精简升级包",
-        "url": "https://ghp.ci/https://raw.githubusercontent.com/kongguojun/668/main/1.apk",
+        "url": "https://gitee.com/dskong/kong/raw/master/1.apk",
         "icon": "https://gitee.com/dskong/kong/raw/master/ZB/logo.png",
         "version": "3.0"
       },
@@ -24,18 +24,7 @@
         "version": "9.9.2"
       }
     ]
-  },
-
-  {
-    "name": "其他娱乐类",
-    "list": [
-
-      {
-        "name": "测试",
-        "url": "",
-        "icon": "https://ghp.ci/https://raw.githubusercontent.com/guot55/yg/main/pg/kg.jpg",
-        "version": "60版"
-      }
-    ]
   }
+
+
 ]
