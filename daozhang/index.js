@@ -1,23 +1,36 @@
 /**
  pathLib: {
-  join: [Function: join],
-  dirname: [Function: dirname],
-  readDir: [Function (anonymous)],
-  readFile: [Function (anonymous)],
-  stat: [Function (anonymous)]
-}
+ join: [Function: join],
+ dirname: [Function: dirname],
+ readDir: [Function (anonymous)],
+ readFile: [Function (anonymous)],
+ stat: [Function (anonymous)]
+ }
  path
  path_dir
+
+ 20241012 by 道长
  **/
 function naturalSort(arr, key) {
     return arr.sort((a, b) => a[key].localeCompare(b[key], undefined, {numeric: true, sensitivity: 'base'}));
 }
 
+function logError(msg, config_sites) {
+    let _site = config_sites.find(s => s.key === 'logError');
+    if (_site) {
+        _site['msg'] += msg
+    } else {
+        config_sites.push({key: "logError", name: "生成式错误日志", "msg": msg + '\n', type: 8});
+    }
+    console.log(msg);
+}
+
 async function main() {
-    let js_order = ['360影视[官]', '菜狗[官]', '奇珍异兽[官]', '优酷[官]', '腾云驾雾[官]', '百忙无果[官]', '哔哩影视[官]', '采集之王[合]', '采集之王[合|密]'];
+    let js_order = ['360影视[官]', '菜狗[官]', '奇珍异兽[官]', '优酷[官]', '腾云驾雾[官]', '百忙无果[官]', '哔哩影视[官]', '哔哩教育[官]', '哔哩大全[官]', '采王道长[合]', '采王zy[密]'];
     let js_path = './drpy_js';
     let live_path = './lives';
     let config_path = './custom.json';
+    let appv2_path = './appv2.txt';
     let js_api = './drpy_libs/drpy2.min.js';
     let parse_apis = [
         '777,https://jx.777jiexi.com/player/?url=,0',
@@ -72,22 +85,31 @@ async function main() {
         };
 
     });
-    let js_files = pathLib.readDir(pathLib.join(path_dir, js_path));
+    let js_files = pathLib.readDir(pathLib.join(path_dir, js_path)).filter(file => file && file.endsWith('.js'));
     // console.log(js_files);
     let live_files = pathLib.readDir(pathLib.join(path_dir, live_path));
     // console.log(live_files);
     let config_sites = [];
     try {
-        let config_file = pathLib.readFile(pathLib.join(path_dir, config_path));
+        let config_file = String(pathLib.readFile(pathLib.join(path_dir, config_path)));
         config_sites = JSON.parse(config_file).sites;
     } catch (e) {
-        console.log(`get config_file error:${e.message}`);
+        logError(`get config_file error:${e.message}`, config_sites)
     }
+    let appv2_sites = [];
+    let appv2_abspath = pathLib.join(path_dir, appv2_path);
+    try {
+        let appv2_file = String(pathLib.readFile(appv2_abspath));
+        appv2_sites = appv2_file.split('\n').filter(_l => _l.trim() && !/^(#|\/\/)/.test(_l.trim())).map(_s => _s.trim());
+    } catch (e) {
+        logError(`get appv2_path error:${e.message}`, config_sites)
+    }
+
     let channels = [];
     channels.push({
         'name': '稳定github直播',
         'urls': [
-            'proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
+            'proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt',
         ],
     });
     live_files.forEach((it) => {
@@ -156,8 +178,11 @@ async function main() {
     js_files.forEach((it, index) => {
         let rname = it.replace('.js', '');
         let extras = [''];
-        if (rname.includes('我的哔哩传参')) {
-            extras = ['?type=url&params=../json/小学教育.json'];
+        if (rname.includes('我的哔哩[官]')) {
+            extras = [
+                '?type=url&params=../json/哔哩教育.json@哔哩教育[官]',
+                '?type=url&params=../json/哔哩大全.json@哔哩大全[官]',
+            ];
         } else if (rname.includes('采集之王')) {
             extras = [
                 '?type=url&params=../json/采集静态.json$1@采王道长[合]',
@@ -168,6 +193,12 @@ async function main() {
             extras = [
                 '?type=url&params=../json/live2cms.json',
             ];
+        } else if (rname.includes('APPV2')) {
+            extras = appv2_sites.map(s => `?type=url&params=${s}`);
+        }else if (rname.includes('夸克分享')) {
+            extras = [
+                '?type=url&params=../json/夸克分享.json@夸克分享[盘]',
+            ];
         }
 
         //let excludes = ['玩偶哥哥','阿里土豆'];
@@ -176,7 +207,7 @@ async function main() {
             extras.forEach((extra, index) => {
                 let ext_str = 'drpy_t3';
                 let _name = extras.length > 1 ? `${rname}${index}` : `${rname}`;
-                let ext_name = extra.includes('@') ? extra.split('@')[1]:_name;
+                let ext_name = extra.includes('@') ? extra.split('@')[1] : _name;
                 extra = extra.split('@')[0];
                 if (extra) {
                     try {
