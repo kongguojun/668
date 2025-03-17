@@ -35,7 +35,7 @@ var rule = {
       'User-Agent': 'okhttp/4.12.0'
       
     };
-    let responseText = request("https://fmbox.cc/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/1.php?url=" + input, { headers: headers });
+    let responseText = request("https://jx.xiaofengtv.com/home/api?type=ys&uid=35972420&key=cgmouvxHIMNOTUV456&url=" + input, { headers: headers });
     console.log("响应文本:", responseText); // 查看原始响应内容
 //备用http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=
     // 解析 JSON 数据
@@ -172,7 +172,7 @@ var rule = {
         } else {
             print(input + "暂无片源")
         }
-        VOD.vod_play_from = "国军影视";
+        VOD.vod_play_from = "玉玉软件库";
         VOD.vod_play_url = d.map(function (it) {
             return it.title + "$" + it.url
         }).join("#");
