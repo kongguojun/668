@@ -1,7 +1,7 @@
 [
-{"name": "国军直播",     "url": "https://gitee.com/dskong/kong/raw/master/ZB/daquan.jpg&&&https://gitee.com/dskong/kong/raw/master/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/1.jpg"},
+{"name": "国军直播",     "url": "http://www.kgj.cc/wl/down.php/jingjian.txt&&&https://gitee.com/dskong/kong/raw/master/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/1.jpg"},
 {"name":"每日自动更新","url":"https://ghproxy.net/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u"},
-{"name":"每日自动更","url":"http://175.178.251.183:6689/live.txt"},
+{"name":"国军自动更","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ds360360/iptv-api/refs/heads/master/output/user_result.txt"},
  {"name": "国军MV合集",     "url": "https://gitee.com/dskong/kong/raw/master/ZB/8000gequ.jpg&&&https://gitee.com/dskong/kong/raw/master/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/3.jpg"},
 {"name": "国军MV合集1",     "url": "https://gitee.com/dskong/kong/raw/master/ZB/mv.jpg&&&https://gitee.com/dskong/kong/raw/master/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/3.jpg"},
 {"name": "娱乐电影合集",     "url": "https://tv.iill.top/m3u/Live"},
