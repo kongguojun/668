@@ -1,0 +1,36 @@
+ {
+    
+    "作者":"国军",
+    
+    "站名":"极乐视频",
+    
+    "主页url":"https://jile20.buzz/",
+    
+    "数组":"link-overlay&&</a>",
+    
+    "图片":"data-original=\"&&\"",
+    
+    "标题":"title=\"&&\"",
+
+    "链接": "href=\"&&\"",
+            "链接前缀": "",
+	"链接后缀": "",
+       "副标题": "🌙国军专享",
+    
+    "搜索url": "https://jile20.buzz/index.php/vod/search.html?wd={wd}",
+	"搜索数组": "",
+	"搜索图片": "",
+	"搜索标题": "",
+	"搜索链接": "",
+	"搜索副标题": "",
+	"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
+	"线路二次截取": "",
+	"线路数组": "",
+	"线路标题": "<a title='&&'",
+	"播放数组": "",
+	"播放列表": "",
+	"播放标题": ">&&</a>",
+	"播放链接": "href=\"&&\"",
+	"分类url": "https://jile20.buzz/index.php/vod/play/id/{cateId}/sid/{cateId}/nid/{cateId}.html",
+	"分类": "国产$3#国产传媒$2#动漫$4#日本$5#欧美$6#AV解说$8#AI换脸$7#"
+}

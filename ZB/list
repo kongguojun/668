@@ -1,0 +1,42 @@
+[
+	{
+		"name":"咪咕",
+		"url":"https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+		"isLocal": false
+	},
+	{
+        "name": "宝盒",
+        "url": "https://bh.bhkj.de5.net/cs.php",
+        "isLocal": false
+    },    
+    {
+        "name": "国军专网专用",
+        "url": "https://gitee.com/dskong/kong/raw/master/ZB/henan.jpg",
+        "isLocal": false
+    },
+	    {
+        "name": "国军河南联通",
+        "url": "http://www.kgj.cc/wl/down.php/jingjian.txt",
+        "isLocal": false
+    },
+		    {
+        "name": "国军docker",
+        "url": "https://ds360.iepose.cn",
+        "isLocal": false
+    },
+	    {
+        "name": "2518",
+        "url": "https://gitee.com/dskong/kong/raw/master/ZB/2518.jpg",
+        "isLocal": false
+    },
+		    {
+        "name": "歌曲大全",
+        "url": "https://gitee.com/dskong/kong/raw/master/ZB/8000gequ.jpg",
+        "isLocal": false
+    },
+			    {
+        "name": "188",
+        "url": "https://gitee.com/dskong/kong/raw/master/ZB/188.jpg",
+        "isLocal": false
+    }
+]
