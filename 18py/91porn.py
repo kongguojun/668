@@ -15,7 +15,6 @@ class Spider(Spider):
         self.name = '91pron'
         # 定义主域名列表，按优先级排序，请求失败时会自动轮询尝试下一个
         self.hosts = [
-            'https://0708.fs708.com/',
             'https://a.91kp.net/',
             'https://91porn.com/'
         ]
